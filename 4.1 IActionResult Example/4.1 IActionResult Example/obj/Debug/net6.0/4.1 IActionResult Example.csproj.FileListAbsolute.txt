@@ -1,0 +1,26 @@
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\bin\Debug\net6.0\appsettings.Development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\bin\Debug\net6.0\appsettings.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\bin\Debug\net6.0\4.1 IActionResult Example.staticwebassets.runtime.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\bin\Debug\net6.0\4.1 IActionResult Example.exe
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\bin\Debug\net6.0\4.1 IActionResult Example.deps.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\bin\Debug\net6.0\4.1 IActionResult Example.runtimeconfig.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\bin\Debug\net6.0\4.1 IActionResult Example.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\bin\Debug\net6.0\4.1 IActionResult Example.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\obj\Debug\net6.0\4.1 IActionResult Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\obj\Debug\net6.0\4.1 IActionResult Example.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\obj\Debug\net6.0\4.1 IActionResult Example.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\obj\Debug\net6.0\4.1 IActionResult Example.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\obj\Debug\net6.0\4.1 IActionResult Example.MvcApplicationPartsAssemblyInfo.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\obj\Debug\net6.0\staticwebassets\msbuild.4.1 IActionResult Example.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\obj\Debug\net6.0\staticwebassets\msbuild.build.4.1 IActionResult Example.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.4.1 IActionResult Example.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.4.1 IActionResult Example.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\obj\Debug\net6.0\staticwebassets.build.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\obj\Debug\net6.0\staticwebassets.development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\obj\Debug\net6.0\scopedcss\bundle\4.1 IActionResult Example.styles.css
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\obj\Debug\net6.0\4.1 IActionResult Example.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\obj\Debug\net6.0\refint\4.1 IActionResult Example.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\obj\Debug\net6.0\4.1 IActionResult Example.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\obj\Debug\net6.0\4.1 IActionResult Example.genruntimeconfig.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\4.1 IActionResult Example\4.1 IActionResult Example\obj\Debug\net6.0\ref\4.1 IActionResult Example.dll

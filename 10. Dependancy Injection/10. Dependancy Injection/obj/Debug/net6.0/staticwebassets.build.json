@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Q9Fhp3MAfIfWFZj2iXtL8mdcHlp2KWwIAlnGUB9Moas=",
+  "Source": "10. Dependancy Injection",
+  "BasePath": "_content/10. Dependancy Injection",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "10. Dependancy Injection\\wwwroot",
+      "Source": "10. Dependancy Injection",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\10. Dependancy Injection\\10. Dependancy Injection\\wwwroot\\",
+      "BasePath": "_content/10. Dependancy Injection",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

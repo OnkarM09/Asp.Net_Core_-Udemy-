@@ -1,0 +1,20 @@
+﻿@model CityWeather;
+@{
+    CityWeather city = Model;
+}
+
+<div class="row">
+    <div class="col s12 m6">
+        <div class="card blue-grey darken-1">
+            <div class="card-content white-text">
+                <span class="card-title">@city.CityName - @city.CityUniqueCode</span>
+                <p>
+                    It is @city.DateAndTime and the temperature is @city.TemperatureFahrenheit
+                </p>
+            </div>
+            <div class="card-action">
+                <a href="/citydetails/@city.CityUniqueCode">Details</a>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\9.1 View Component Challenge.props" />
+</Project>

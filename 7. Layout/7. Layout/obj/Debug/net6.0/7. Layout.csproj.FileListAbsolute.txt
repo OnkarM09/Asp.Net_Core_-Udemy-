@@ -1,0 +1,28 @@
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\bin\Debug\net6.0\appsettings.Development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\bin\Debug\net6.0\appsettings.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\bin\Debug\net6.0\7. Layout.staticwebassets.runtime.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\bin\Debug\net6.0\7. Layout.exe
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\bin\Debug\net6.0\7. Layout.deps.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\bin\Debug\net6.0\7. Layout.runtimeconfig.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\bin\Debug\net6.0\7. Layout.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\bin\Debug\net6.0\7. Layout.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net6.0\7. Layout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net6.0\7. Layout.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net6.0\7. Layout.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net6.0\7. Layout.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net6.0\7. Layout.MvcApplicationPartsAssemblyInfo.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net6.0\7. Layout.RazorAssemblyInfo.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net6.0\7. Layout.RazorAssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net6.0\staticwebassets\msbuild.7. Layout.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net6.0\staticwebassets\msbuild.build.7. Layout.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.7. Layout.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.7. Layout.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net6.0\staticwebassets.build.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net6.0\staticwebassets.development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net6.0\scopedcss\bundle\7. Layout.styles.css
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net6.0\7. Layout.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net6.0\refint\7. Layout.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net6.0\7. Layout.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net6.0\7. Layout.genruntimeconfig.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net6.0\ref\7. Layout.dll

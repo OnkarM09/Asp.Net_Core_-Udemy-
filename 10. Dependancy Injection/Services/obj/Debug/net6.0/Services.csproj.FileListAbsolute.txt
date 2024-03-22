@@ -1,0 +1,15 @@
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\Services\bin\Debug\net6.0\Services.deps.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\Services\bin\Debug\net6.0\Services.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\Services\bin\Debug\net6.0\Services.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\Services\obj\Debug\net6.0\Services.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\Services\obj\Debug\net6.0\Services.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\Services\bin\Debug\net6.0\ServiceContracts.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\Services\bin\Debug\net6.0\ServiceContracts.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\Services\obj\Debug\net6.0\Services.csproj.CopyComplete

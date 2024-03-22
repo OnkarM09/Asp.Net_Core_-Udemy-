@@ -1,0 +1,9 @@
+﻿@model IEnumerable<Person>
+
+<ul class="collection">
+    @foreach (Person person in Model)
+    {
+        <li class="collection-item">@person.name</li>
+        <li class="collection-item">@person.email</li>
+    }
+</ul>

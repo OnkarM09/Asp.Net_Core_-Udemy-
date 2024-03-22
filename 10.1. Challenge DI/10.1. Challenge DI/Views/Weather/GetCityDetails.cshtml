@@ -1,0 +1,8 @@
+﻿@model CityWeather
+
+@if(Model != null)
+{   
+    @await Component.InvokeAsync("City", new {city = Model})
+}else{
+<h1>City not found!</h1>
+}

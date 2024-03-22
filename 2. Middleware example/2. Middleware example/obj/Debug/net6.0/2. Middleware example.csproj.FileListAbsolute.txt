@@ -1,0 +1,25 @@
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\bin\Debug\net6.0\appsettings.Development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\bin\Debug\net6.0\appsettings.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\bin\Debug\net6.0\2. Middleware example.exe
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\bin\Debug\net6.0\2. Middleware example.deps.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\bin\Debug\net6.0\2. Middleware example.runtimeconfig.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\bin\Debug\net6.0\2. Middleware example.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\bin\Debug\net6.0\2. Middleware example.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\obj\Debug\net6.0\2. Middleware example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\obj\Debug\net6.0\2. Middleware example.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\obj\Debug\net6.0\2. Middleware example.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\obj\Debug\net6.0\2. Middleware example.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\obj\Debug\net6.0\2. Middleware example.MvcApplicationPartsAssemblyInfo.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\obj\Debug\net6.0\staticwebassets\msbuild.2. Middleware example.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\obj\Debug\net6.0\staticwebassets\msbuild.build.2. Middleware example.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.2. Middleware example.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.2. Middleware example.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\obj\Debug\net6.0\staticwebassets.build.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\obj\Debug\net6.0\staticwebassets.development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\obj\Debug\net6.0\scopedcss\bundle\2. Middleware example.styles.css
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\obj\Debug\net6.0\2. Middleware example.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\obj\Debug\net6.0\refint\2. Middleware example.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\obj\Debug\net6.0\2. Middleware example.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\obj\Debug\net6.0\2. Middleware example.genruntimeconfig.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\2. Middleware example\2. Middleware example\obj\Debug\net6.0\ref\2. Middleware example.dll

@@ -1,0 +1,12 @@
+﻿@model CityWeather;
+@{
+    CityWeather city = Model;
+    <div class="card mt-3" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">@city.CityName</h5>
+        <h6 class="card-subtitle mb-2 text-body-secondary">@city.CityUniqueCode</h6>
+        <p class="card-text">@city.DateAndTime.ToString("dd/MMM/yyyy hh:mm tt") @city.TemperatureFahrenheit F</p>
+        <a href="#" class="card-link">More Details</a>
+    </div>
+</div>
+}

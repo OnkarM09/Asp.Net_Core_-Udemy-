@@ -1,0 +1,34 @@
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\bin\Debug\net6.0\appsettings.Development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\bin\Debug\net6.0\appsettings.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\bin\Debug\net6.0\Example View Component.staticwebassets.runtime.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\bin\Debug\net6.0\Example View Component.exe
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\bin\Debug\net6.0\Example View Component.deps.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\bin\Debug\net6.0\Example View Component.runtimeconfig.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\bin\Debug\net6.0\Example View Component.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\bin\Debug\net6.0\Example View Component.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\obj\Debug\net6.0\Example View Component.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\obj\Debug\net6.0\Example View Component.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\obj\Debug\net6.0\Example View Component.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\obj\Debug\net6.0\Example View Component.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\obj\Debug\net6.0\Example View Component.MvcApplicationPartsAssemblyInfo.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\obj\Debug\net6.0\Example View Component.RazorAssemblyInfo.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\obj\Debug\net6.0\Example View Component.RazorAssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\obj\Debug\net6.0\staticwebassets\msbuild.Example View Component.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\obj\Debug\net6.0\staticwebassets\msbuild.build.Example View Component.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Example View Component.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Example View Component.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\obj\Debug\net6.0\staticwebassets.build.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\obj\Debug\net6.0\staticwebassets.development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\obj\Debug\net6.0\scopedcss\bundle\Example View Component.styles.css
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\obj\Debug\net6.0\Example View Component.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\obj\Debug\net6.0\refint\Example View Component.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\obj\Debug\net6.0\Example View Component.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\obj\Debug\net6.0\Example View Component.genruntimeconfig.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\obj\Debug\net6.0\ref\Example View Component.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\bin\Debug\net6.0\ServiceContracts.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\bin\Debug\net6.0\Services.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\bin\Debug\net6.0\Services.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\bin\Debug\net6.0\ServiceContracts.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\obj\Debug\net6.0\Example View Component.csproj.AssemblyReference.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Example View Component\Example View Component\obj\Debug\net6.0\Example View Component.csproj.CopyComplete

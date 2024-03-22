@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "a5ROzehUhTPIf9lZQnM4peWKojwpJ1GuAWTD8gWJQ/U=",
+  "Source": "7. Layout",
+  "BasePath": "_content/7. Layout",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "7. Layout\\wwwroot",
+      "Source": "7. Layout",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\7. Layout\\7. Layout\\wwwroot\\",
+      "BasePath": "_content/7. Layout",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

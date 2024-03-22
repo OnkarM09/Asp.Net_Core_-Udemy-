@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "cqNy1f+mOv9ORkHFwzqfSx8bSZONDs2bN/3bee9UJPc=",
+  "Source": "6. Views",
+  "BasePath": "_content/6. Views",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "6. Views\\wwwroot",
+      "Source": "6. Views",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\6. Views\\6. Views\\wwwroot\\",
+      "BasePath": "_content/6. Views",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

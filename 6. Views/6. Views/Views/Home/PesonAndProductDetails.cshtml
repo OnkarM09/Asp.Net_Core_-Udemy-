@@ -1,0 +1,31 @@
+﻿@using _6._Views.Models;
+@model PersonAndProductModel;
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Multiple Model Type</title>
+        <meta charset="utf-8" />
+    </head>
+    <body>
+        <table>
+        <thead>
+            <tr>
+                <th>Person Name</th>
+                <th>Person Date Of Birth</th>
+                <th>Person Gender</th>
+                <th>Product Name</th>
+                <th>Product Type</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>@Model.personData.name</td>
+                <td>@Model.personData.dateofbirth.ToString("dd/MMM/yyyy")</td>
+                <td>@Model.personData.genderType</td>
+                <td>@Model.prdouctData.productName</td>
+                <td>@Model.prdouctData.productType</td>
+            </tr>
+        </tbody>
+        </table>
+    </body>
+</html>

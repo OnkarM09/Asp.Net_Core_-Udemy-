@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\10.1. Challenge DI.props" />
+</Project>

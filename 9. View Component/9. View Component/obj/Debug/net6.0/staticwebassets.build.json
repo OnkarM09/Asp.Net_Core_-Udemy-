@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "M/47fqeW4C2nbbgFmi+oq/NDN5v4AxpfxjULwg1Ocyg=",
+  "Source": "9. View Component",
+  "BasePath": "_content/9. View Component",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "9. View Component\\wwwroot",
+      "Source": "9. View Component",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\9. View Component\\9. View Component\\wwwroot\\",
+      "BasePath": "_content/9. View Component",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

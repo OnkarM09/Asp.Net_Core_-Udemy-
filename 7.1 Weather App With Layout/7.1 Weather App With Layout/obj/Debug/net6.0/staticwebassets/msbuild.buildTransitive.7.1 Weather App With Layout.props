@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\7.1 Weather App With Layout.props" />
+</Project>

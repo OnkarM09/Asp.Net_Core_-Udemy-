@@ -1,0 +1,25 @@
+﻿@using _6._1_Views_Challenge_Weather_App_.Models;
+@model CityWeather;
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Weather App</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <h1>Weather App</h1>
+    @{
+        CityWeather city = Model;
+        <div style="margin-bottom: 10px;">
+            <p>@city.CityUniqueCode</p>
+            <p>@city.CityName</p>
+            <p>@city.DateAndTime?.ToString("dd/MMM/yyyy hh:mm tt")</p>
+            <p>@city.TempFerhinite F</p>
+            <a href="/">Back</a>
+        </div>
+    }
+    
+</body>
+</html>

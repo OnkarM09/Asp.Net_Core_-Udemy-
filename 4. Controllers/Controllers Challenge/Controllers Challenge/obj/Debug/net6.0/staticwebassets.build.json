@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "6wFoEfGcBa3LC6UUV09PAAfwFaAWxYUYSoLy9MPvi5M=",
+  "Source": "Controllers Challenge",
+  "BasePath": "_content/Controllers Challenge",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Controllers Challenge\\wwwroot",
+      "Source": "Controllers Challenge",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\Controllers Challenge\\Controllers Challenge\\wwwroot\\",
+      "BasePath": "_content/Controllers Challenge",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\Controllers Challenge\\Controllers Challenge\\wwwroot\\Angular2NotesForProfessionals.pdf",
+      "SourceId": "Controllers Challenge",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\Controllers Challenge\\Controllers Challenge\\wwwroot\\",
+      "BasePath": "_content/Controllers Challenge",
+      "RelativePath": "Angular2NotesForProfessionals.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Angular2NotesForProfessionals.pdf"
+    }
+  ]
+}

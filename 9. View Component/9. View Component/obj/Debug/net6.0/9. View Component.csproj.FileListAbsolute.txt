@@ -1,0 +1,28 @@
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\obj\Debug\net6.0\9. View Component.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\obj\Debug\net6.0\9. View Component.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\obj\Debug\net6.0\9. View Component.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\obj\Debug\net6.0\9. View Component.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\obj\Debug\net6.0\9. View Component.MvcApplicationPartsAssemblyInfo.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\obj\Debug\net6.0\9. View Component.RazorAssemblyInfo.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\obj\Debug\net6.0\9. View Component.RazorAssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\bin\Debug\net6.0\appsettings.Development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\bin\Debug\net6.0\appsettings.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\bin\Debug\net6.0\9. View Component.staticwebassets.runtime.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\bin\Debug\net6.0\9. View Component.exe
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\bin\Debug\net6.0\9. View Component.deps.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\bin\Debug\net6.0\9. View Component.runtimeconfig.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\bin\Debug\net6.0\9. View Component.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\bin\Debug\net6.0\9. View Component.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\obj\Debug\net6.0\staticwebassets\msbuild.9. View Component.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\obj\Debug\net6.0\staticwebassets\msbuild.build.9. View Component.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.9. View Component.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.9. View Component.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\obj\Debug\net6.0\staticwebassets.build.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\obj\Debug\net6.0\staticwebassets.development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\obj\Debug\net6.0\scopedcss\bundle\9. View Component.styles.css
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\obj\Debug\net6.0\9. View Component.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\obj\Debug\net6.0\refint\9. View Component.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\obj\Debug\net6.0\9. View Component.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\obj\Debug\net6.0\9. View Component.genruntimeconfig.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9. View Component\9. View Component\obj\Debug\net6.0\ref\9. View Component.dll

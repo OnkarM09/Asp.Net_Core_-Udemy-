@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+<h1>About</h1>
+
+@* @await Component.InvokeAsync("Grid") *@
+
+@* <vc:grid></vc:grid> *@
+
+@{
+    PersonGrid personGridModel = new PersonGrid()
+            {
+                GridTitle = "Friends",
+                Persons = new List<Person>()
+                {
+                    new Person(){
+                        PersonName = "Sahil Kawade",
+                        JobTitle = "Backend Architect"
+                    },
+                     new Person(){
+                        PersonName = "Shubham Raut",
+                        JobTitle = "QA/Product Lead"
+                    }
+                }
+            };
+}
+
+@await Component.InvokeAsync("Grid", new {
+    grid = personGridModel
+})

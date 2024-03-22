@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "jvcSUZ5JMMUS2sVn/0zGZX2yMdB/49UoxiK75fNHAtI=",
+  "Source": "4. Controllers",
+  "BasePath": "_content/4. Controllers",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "4. Controllers\\wwwroot",
+      "Source": "4. Controllers",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\4. Controllers\\4. Controllers\\wwwroot\\",
+      "BasePath": "_content/4. Controllers",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\4. Controllers\\4. Controllers\\wwwroot\\angular.pdf",
+      "SourceId": "4. Controllers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\4. Controllers\\4. Controllers\\wwwroot\\",
+      "BasePath": "_content/4. Controllers",
+      "RelativePath": "angular.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\angular.pdf"
+    },
+    {
+      "Identity": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\4. Controllers\\4. Controllers\\wwwroot\\gojo.jpg",
+      "SourceId": "4. Controllers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\4. Controllers\\4. Controllers\\wwwroot\\",
+      "BasePath": "_content/4. Controllers",
+      "RelativePath": "gojo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\gojo.jpg"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "no+xQlNHz/6TAYtE0ySz/oAzITnOAoW39waD5gIYfJY=",
+  "Source": "Example View Component",
+  "BasePath": "_content/Example View Component",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Example View Component\\wwwroot",
+      "Source": "Example View Component",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\Example View Component\\Example View Component\\wwwroot\\",
+      "BasePath": "_content/Example View Component",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\Example View Component\\Example View Component\\wwwroot\\js\\main.js",
+      "SourceId": "Example View Component",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\Example View Component\\Example View Component\\wwwroot\\",
+      "BasePath": "_content/Example View Component",
+      "RelativePath": "js/main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\main.js"
+    }
+  ]
+}

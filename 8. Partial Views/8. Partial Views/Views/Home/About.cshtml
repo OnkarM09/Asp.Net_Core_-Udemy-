@@ -1,0 +1,17 @@
+﻿@* @await Html.PartialAsync("_ListPartialView") *@
+@{
+    ListModel listModel = new ListModel();
+    listModel.ListTitle = "Progamming Languages";
+    listModel.ListItems = new List<string>()
+    {
+              "C",
+              "C++",
+              "Java",
+              "Python",
+              "Javascript",
+              "C#",
+    };
+}
+@{
+    await Html.RenderPartialAsync("_ListPartialView", listModel);
+}

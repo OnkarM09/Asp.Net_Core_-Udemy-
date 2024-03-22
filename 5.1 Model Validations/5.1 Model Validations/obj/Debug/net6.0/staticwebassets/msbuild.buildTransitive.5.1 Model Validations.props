@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\5.1 Model Validations.props" />
+</Project>

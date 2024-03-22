@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\6.1 Views_Challenge(Weather_App).props" />
+</Project>

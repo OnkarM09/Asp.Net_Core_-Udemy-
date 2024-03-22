@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\8.1 Partial View Challenge.props" />
+</Project>

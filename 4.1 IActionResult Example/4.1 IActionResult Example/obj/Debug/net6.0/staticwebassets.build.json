@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "sxH9a+NEJYQ3f4MRKpGLzxtsxBRGTTknDodMZmrjj+4=",
+  "Source": "4.1 IActionResult Example",
+  "BasePath": "_content/4.1 IActionResult Example",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "4.1 IActionResult Example\\wwwroot",
+      "Source": "4.1 IActionResult Example",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\4.1 IActionResult Example\\4.1 IActionResult Example\\wwwroot\\",
+      "BasePath": "_content/4.1 IActionResult Example",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\4.1 IActionResult Example\\4.1 IActionResult Example\\wwwroot\\gojo.jpg",
+      "SourceId": "4.1 IActionResult Example",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\4.1 IActionResult Example\\4.1 IActionResult Example\\wwwroot\\",
+      "BasePath": "_content/4.1 IActionResult Example",
+      "RelativePath": "gojo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\gojo.jpg"
+    }
+  ]
+}

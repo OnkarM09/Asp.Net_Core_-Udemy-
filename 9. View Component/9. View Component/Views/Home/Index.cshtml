@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+<h1>Home</h1>
+
+@* @{
+    PersonGrid personGridModel = new PersonGrid()
+            {
+                GridTitle = "Persons",
+                Persons = new List<Person>()
+                {
+                    new Person(){
+                        PersonName = "Sahil Kawade",
+                        JobTitle = "Backend Architect"
+                    },
+                     new Person(){
+                        PersonName = "Shubham Raut",
+                        JobTitle = "QA/Product Lead"
+                    }
+                }
+            };
+}
+
+@await Component.InvokeAsync("Grid", new {
+    grid = personGridModel
+}) *@
+
+<button class="btn btn-primary" id="load-view-component">Load</button>
+<div class="showOutput"></div>
+
+<script>
+    const loadBtn = document.getElementById("load-view-component");
+    const targetOutput = document.querySelector(".showOutput");
+    loadBtn.addEventListener("click", async () => {
+        const response = await fetch("load-friends-list");
+        const data = await response.text();
+        targetOutput.innerHTML = data;
+    });
+</script>

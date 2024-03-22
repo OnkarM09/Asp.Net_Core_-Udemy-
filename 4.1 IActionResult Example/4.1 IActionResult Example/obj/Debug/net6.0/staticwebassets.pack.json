@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\4.1 IActionResult Example\\4.1 IActionResult Example\\wwwroot\\gojo.jpg",
+      "PackagePath": "staticwebassets\\gojo.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.4.1 IActionResult Example.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.4.1 IActionResult Example.props",
+      "PackagePath": "build\\4.1 IActionResult Example.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.4.1 IActionResult Example.props",
+      "PackagePath": "buildMultiTargeting\\4.1 IActionResult Example.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.4.1 IActionResult Example.props",
+      "PackagePath": "buildTransitive\\4.1 IActionResult Example.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,9 @@
+﻿@model IEnumerable<CityWeather>
+
+
+<div class="d-flex">
+@foreach (CityWeather city in Model)
+{
+    @await Component.InvokeAsync("City", new { city = city });
+}
+</div>

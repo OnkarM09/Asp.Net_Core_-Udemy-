@@ -1,0 +1,11 @@
+﻿@* _CityWeatherCardPartial *@
+@model CityWeatherModel;
+
+<div class="card mt-3" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">@Model.CityName</h5>
+        <h6 class="card-subtitle mb-2 text-body-secondary">@Model.CityUniqueCode</h6>
+        <p class="card-text">@Model.DateAndTime.ToString("dd/MMM/yyyy hh:mm tt") and the temp is @Model.TemperatureFahrenheit F.</p>
+        <a href="/weather/@Model.CityUniqueCode" class="card-link">See Details</a>
+    </div>
+</div>

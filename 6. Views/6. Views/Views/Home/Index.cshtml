@@ -1,0 +1,88 @@
+﻿@using _6._Views.Models
+@model List<Person>   //This represent the persons which we have returned from view(); (From Controller)
+@{
+    string appTitle = "Asp.net Views";
+  
+    // Person p1 = new Person()
+    //         {
+    //             name = "Maverick",
+    //             dateofbirth = Convert.ToDateTime("2022-01-01"),
+    //             genderType = Gender.Male
+    //         };
+    //string alertmsg = $"<script>alert({persons.Count})</script>";
+
+}
+
+@{
+    double? GetAge(DateTime? dateOfBirth){
+        if(dateOfBirth is not null)
+        {
+            return Math.Round((DateTime.Now - dateOfBirth.Value).TotalDays / 365.25);
+        }
+        else
+        {
+            return null;
+        }
+
+      
+    }
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["pageTitle"]</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    @* @Html.Raw(alertmsg); *@
+
+    @*   <h1>Simple view</h1>
+    <h3>Hello @p1.name</h3>
+    @if (p1.name == "Maverick"){
+    <h2>Top Gun</h2>
+    }
+    else
+    {
+    <h2>No Top Gun</h2>
+    }
+    <h3>Hello @p1.dateofbirth</h3>
+
+    @switch (p1.genderType)
+    {
+    case Gender.Male:
+    <h1>You are male</h1>
+    break;
+    case Gender.Female:
+    <h1>You are Female</h1>
+    break;
+    } *@
+  @*   <ul>
+        @foreach(var person in persons)
+        {
+            <li>@person.name</li>
+            <li>@person.genderType</li>
+        }
+    </ul> *@
+
+    <ul>
+        @for(int i=0; i < 2; i++)
+        {
+            @*   <text>Static text</text>
+            @:Hello static text *@
+            //  List<Person> persons = (List<Person>)ViewData["persons"];    // Problem here is with viewdata we have to explicitly add typeacaing such as (List<person>) and then use viewDat['keyname'] 
+            //Instead of this we will use view bag
+         //   List<Person> persons = ViewBag.persons;   //ViewBag.keyname in this case its ["persons"] to .persons
+
+
+            //Using strongly typed view we can do this
+            List<Person> persons = Model;   //This Model represents the persons which we have return from view (return view("Index", persons))
+            Person person = persons[i];
+            <li>@person.name</li>
+            <li>@GetAge(person.dateofbirth)</li>
+            <a href="/person-details/@person.name">See Details of @person.name</a>
+           
+        }
+    </ul>
+</body>
+</html>

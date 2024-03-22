@@ -1,0 +1,15 @@
+﻿@using _6._Views.Models;
+@model Person;
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["pageTitle"]</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <h4>@Model.name</h4>
+    <h4>@Model.dateofbirth.ToString("dd/MMM/yyyy")</h4>
+    <h4>@Model.genderType</h4>
+  
+</body>
+</html>

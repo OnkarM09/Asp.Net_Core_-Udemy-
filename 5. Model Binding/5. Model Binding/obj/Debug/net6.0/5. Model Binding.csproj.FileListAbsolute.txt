@@ -1,0 +1,25 @@
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\bin\Debug\net6.0\appsettings.Development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\bin\Debug\net6.0\appsettings.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\bin\Debug\net6.0\5. Model Binding.exe
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\bin\Debug\net6.0\5. Model Binding.deps.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\bin\Debug\net6.0\5. Model Binding.runtimeconfig.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\bin\Debug\net6.0\5. Model Binding.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\bin\Debug\net6.0\5. Model Binding.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\obj\Debug\net6.0\5. Model Binding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\obj\Debug\net6.0\5. Model Binding.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\obj\Debug\net6.0\5. Model Binding.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\obj\Debug\net6.0\5. Model Binding.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\obj\Debug\net6.0\5. Model Binding.MvcApplicationPartsAssemblyInfo.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\obj\Debug\net6.0\staticwebassets\msbuild.5. Model Binding.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\obj\Debug\net6.0\staticwebassets\msbuild.build.5. Model Binding.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.5. Model Binding.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.5. Model Binding.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\obj\Debug\net6.0\staticwebassets.build.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\obj\Debug\net6.0\staticwebassets.development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\obj\Debug\net6.0\scopedcss\bundle\5. Model Binding.styles.css
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\obj\Debug\net6.0\5. Model Binding.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\obj\Debug\net6.0\refint\5. Model Binding.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\obj\Debug\net6.0\5. Model Binding.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\obj\Debug\net6.0\5. Model Binding.genruntimeconfig.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5. Model Binding\5. Model Binding\obj\Debug\net6.0\ref\5. Model Binding.dll

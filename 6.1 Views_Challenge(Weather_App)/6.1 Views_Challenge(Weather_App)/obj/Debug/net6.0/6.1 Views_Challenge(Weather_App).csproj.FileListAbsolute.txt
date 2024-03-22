@@ -1,0 +1,27 @@
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\bin\Debug\net6.0\appsettings.Development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\bin\Debug\net6.0\appsettings.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\bin\Debug\net6.0\6.1 Views_Challenge(Weather_App).exe
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\bin\Debug\net6.0\6.1 Views_Challenge(Weather_App).deps.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\bin\Debug\net6.0\6.1 Views_Challenge(Weather_App).runtimeconfig.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\bin\Debug\net6.0\6.1 Views_Challenge(Weather_App).dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\bin\Debug\net6.0\6.1 Views_Challenge(Weather_App).pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\obj\Debug\net6.0\6.1 Views_Challenge(Weather_App).GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\obj\Debug\net6.0\6.1 Views_Challenge(Weather_App).AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\obj\Debug\net6.0\6.1 Views_Challenge(Weather_App).AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\obj\Debug\net6.0\6.1 Views_Challenge(Weather_App).csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\obj\Debug\net6.0\6.1 Views_Challenge(Weather_App).MvcApplicationPartsAssemblyInfo.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\obj\Debug\net6.0\6.1 Views_Challenge(Weather_App).RazorAssemblyInfo.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\obj\Debug\net6.0\6.1 Views_Challenge(Weather_App).RazorAssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\obj\Debug\net6.0\staticwebassets\msbuild.6.1 Views_Challenge(Weather_App).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\obj\Debug\net6.0\staticwebassets\msbuild.build.6.1 Views_Challenge(Weather_App).props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.6.1 Views_Challenge(Weather_App).props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.6.1 Views_Challenge(Weather_App).props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\obj\Debug\net6.0\staticwebassets.build.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\obj\Debug\net6.0\staticwebassets.development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\obj\Debug\net6.0\scopedcss\bundle\6.1 Views_Challenge(Weather_App).styles.css
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\obj\Debug\net6.0\6.1 Views_Challenge(Weather_App).dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\obj\Debug\net6.0\refint\6.1 Views_Challenge(Weather_App).dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\obj\Debug\net6.0\6.1 Views_Challenge(Weather_App).pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\obj\Debug\net6.0\6.1 Views_Challenge(Weather_App).genruntimeconfig.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\6.1 Views_Challenge(Weather_App)\6.1 Views_Challenge(Weather_App)\obj\Debug\net6.0\ref\6.1 Views_Challenge(Weather_App).dll

@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+@model IEnumerable<Person>
+
+<h1>Home</h1>
+
+<button class="waves-effect waves-light btn" id="load-data">Load Data</button>
+<button class="waves-effect waves-light btn" id="load-service">Load Service</button>
+<div class="output"></div>
+<div class="output-service"></div>
+<script>
+    $(document).on('click', '#load-data', () => {
+        $.ajax({
+            url: "/get-persons",
+            method: "GET",
+            success: function (response) {
+                const output = $(".output");
+                output.html(response);
+            }
+        })
+    });
+
+    $(document).on('click', '#load-service', () => {
+        $.ajax({
+            url: "/get-service-persons",
+            method: "GET",
+            success: function (response) {
+                const output = $(".output-service");
+                output.html(response);
+            }
+        })
+    });
+
+</script>

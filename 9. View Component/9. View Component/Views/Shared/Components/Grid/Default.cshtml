@@ -1,0 +1,19 @@
+﻿@model PersonGrid
+<h5>@Model.GridTitle</h5>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Job Title</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(Person person in Model.Persons)
+        {   
+        <tr>
+            <td>@person.PersonName</td>
+            <td>@person.JobTitle</td>
+        </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,25 @@
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\bin\Debug\net6.0\appsettings.Development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\bin\Debug\net6.0\appsettings.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\bin\Debug\net6.0\5.1 Model Validations.exe
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\bin\Debug\net6.0\5.1 Model Validations.deps.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\bin\Debug\net6.0\5.1 Model Validations.runtimeconfig.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\bin\Debug\net6.0\5.1 Model Validations.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\bin\Debug\net6.0\5.1 Model Validations.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\obj\Debug\net6.0\5.1 Model Validations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\obj\Debug\net6.0\5.1 Model Validations.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\obj\Debug\net6.0\5.1 Model Validations.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\obj\Debug\net6.0\5.1 Model Validations.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\obj\Debug\net6.0\5.1 Model Validations.MvcApplicationPartsAssemblyInfo.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\obj\Debug\net6.0\staticwebassets\msbuild.5.1 Model Validations.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\obj\Debug\net6.0\staticwebassets\msbuild.build.5.1 Model Validations.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.5.1 Model Validations.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.5.1 Model Validations.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\obj\Debug\net6.0\staticwebassets.build.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\obj\Debug\net6.0\staticwebassets.development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\obj\Debug\net6.0\scopedcss\bundle\5.1 Model Validations.styles.css
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\obj\Debug\net6.0\5.1 Model Validations.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\obj\Debug\net6.0\refint\5.1 Model Validations.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\obj\Debug\net6.0\5.1 Model Validations.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\obj\Debug\net6.0\5.1 Model Validations.genruntimeconfig.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\5.1 Model Validations\5.1 Model Validations\obj\Debug\net6.0\ref\5.1 Model Validations.dll

@@ -1,0 +1,9 @@
+﻿@model CityWeather
+<div class="card mt-4" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">@Model.CityName</h5>
+        <h6 class="card-subtitle mb-2 text-body-secondary">@Model.CityUniqueCode</h6>
+        <p class="card-text">@Model.DateAndTime.ToString("dd/MMM/yyyy") | @Model.TemperatureFahrenheit <sup>0</sup>F</p>
+        <a href="/weather/@Model.CityUniqueCode" class="card-link">More Details</a>
+    </div>
+</div>

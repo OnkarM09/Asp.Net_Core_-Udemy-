@@ -1,0 +1,25 @@
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\bin\Debug\net6.0\appsettings.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\bin\Debug\net6.0\Emptry Project.exe
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\bin\Debug\net6.0\Emptry Project.deps.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\bin\Debug\net6.0\Emptry Project.runtimeconfig.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\bin\Debug\net6.0\Emptry Project.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\bin\Debug\net6.0\Emptry Project.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\obj\Debug\net6.0\Emptry Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\obj\Debug\net6.0\Emptry Project.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\obj\Debug\net6.0\Emptry Project.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\obj\Debug\net6.0\Emptry Project.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\obj\Debug\net6.0\Emptry Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\obj\Debug\net6.0\staticwebassets\msbuild.Emptry Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Emptry Project.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Emptry Project.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Emptry Project.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\obj\Debug\net6.0\scopedcss\bundle\Emptry Project.styles.css
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\obj\Debug\net6.0\Emptry Project.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\obj\Debug\net6.0\refint\Emptry Project.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\obj\Debug\net6.0\Emptry Project.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\obj\Debug\net6.0\Emptry Project.genruntimeconfig.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\obj\Debug\net6.0\ref\Emptry Project.dll

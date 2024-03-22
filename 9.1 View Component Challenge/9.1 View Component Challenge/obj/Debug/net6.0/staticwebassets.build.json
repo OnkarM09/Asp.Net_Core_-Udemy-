@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "JOGNUqlu0Bi3VQqLQBy56qIHzXS9cGgk3wbAlOsqm5I=",
+  "Source": "9.1 View Component Challenge",
+  "BasePath": "_content/9.1 View Component Challenge",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "9.1 View Component Challenge\\wwwroot",
+      "Source": "9.1 View Component Challenge",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\9.1 View Component Challenge\\9.1 View Component Challenge\\wwwroot\\",
+      "BasePath": "_content/9.1 View Component Challenge",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

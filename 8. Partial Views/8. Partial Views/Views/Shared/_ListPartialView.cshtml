@@ -1,0 +1,9 @@
+﻿@model ListModel;
+
+<h2>@Model.ListTitle</h2>
+<ul class="list-group">
+    @foreach(string item in Model.ListItems)
+    {
+        <li class="list-group-item list-group-item-action">@item</li>
+    }
+</ul>

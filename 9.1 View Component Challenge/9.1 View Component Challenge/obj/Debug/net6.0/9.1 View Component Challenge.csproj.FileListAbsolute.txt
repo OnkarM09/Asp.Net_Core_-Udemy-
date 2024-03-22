@@ -1,0 +1,28 @@
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\bin\Debug\net6.0\appsettings.Development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\bin\Debug\net6.0\appsettings.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\bin\Debug\net6.0\9.1 View Component Challenge.staticwebassets.runtime.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\bin\Debug\net6.0\9.1 View Component Challenge.exe
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\bin\Debug\net6.0\9.1 View Component Challenge.deps.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\bin\Debug\net6.0\9.1 View Component Challenge.runtimeconfig.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\bin\Debug\net6.0\9.1 View Component Challenge.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\bin\Debug\net6.0\9.1 View Component Challenge.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\obj\Debug\net6.0\9.1 View Component Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\obj\Debug\net6.0\9.1 View Component Challenge.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\obj\Debug\net6.0\9.1 View Component Challenge.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\obj\Debug\net6.0\9.1 View Component Challenge.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\obj\Debug\net6.0\9.1 View Component Challenge.MvcApplicationPartsAssemblyInfo.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\obj\Debug\net6.0\9.1 View Component Challenge.RazorAssemblyInfo.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\obj\Debug\net6.0\9.1 View Component Challenge.RazorAssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\obj\Debug\net6.0\staticwebassets\msbuild.9.1 View Component Challenge.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\obj\Debug\net6.0\staticwebassets\msbuild.build.9.1 View Component Challenge.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.9.1 View Component Challenge.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.9.1 View Component Challenge.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\obj\Debug\net6.0\staticwebassets.build.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\obj\Debug\net6.0\staticwebassets.development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\obj\Debug\net6.0\scopedcss\bundle\9.1 View Component Challenge.styles.css
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\obj\Debug\net6.0\9.1 View Component Challenge.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\obj\Debug\net6.0\refint\9.1 View Component Challenge.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\obj\Debug\net6.0\9.1 View Component Challenge.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\obj\Debug\net6.0\9.1 View Component Challenge.genruntimeconfig.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\obj\Debug\net6.0\ref\9.1 View Component Challenge.dll

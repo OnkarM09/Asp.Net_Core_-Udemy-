@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\8. Partial Views.props" />
+</Project>

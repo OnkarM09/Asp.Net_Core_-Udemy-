@@ -1,0 +1,25 @@
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\bin\Debug\net6.0\appsettings.Development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\bin\Debug\net6.0\appsettings.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\bin\Debug\net6.0\Model Challenge.exe
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\bin\Debug\net6.0\Model Challenge.deps.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\bin\Debug\net6.0\Model Challenge.runtimeconfig.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\bin\Debug\net6.0\Model Challenge.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\bin\Debug\net6.0\Model Challenge.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\obj\Debug\net6.0\Model Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\obj\Debug\net6.0\Model Challenge.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\obj\Debug\net6.0\Model Challenge.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\obj\Debug\net6.0\Model Challenge.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\obj\Debug\net6.0\Model Challenge.MvcApplicationPartsAssemblyInfo.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\obj\Debug\net6.0\staticwebassets\msbuild.Model Challenge.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\obj\Debug\net6.0\staticwebassets\msbuild.build.Model Challenge.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Model Challenge.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Model Challenge.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\obj\Debug\net6.0\staticwebassets.build.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\obj\Debug\net6.0\staticwebassets.development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\obj\Debug\net6.0\scopedcss\bundle\Model Challenge.styles.css
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\obj\Debug\net6.0\Model Challenge.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\obj\Debug\net6.0\refint\Model Challenge.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\obj\Debug\net6.0\Model Challenge.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\obj\Debug\net6.0\Model Challenge.genruntimeconfig.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Model Challenge\Model Challenge\obj\Debug\net6.0\ref\Model Challenge.dll

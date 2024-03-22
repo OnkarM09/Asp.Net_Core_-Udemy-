@@ -1,0 +1,6 @@
+﻿@model IEnumerable<CityWeatherModel>;
+
+@foreach(CityWeatherModel city in Model)
+{
+    await Html.RenderPartialAsync("_CityWeatherCardPartial", city);
+}

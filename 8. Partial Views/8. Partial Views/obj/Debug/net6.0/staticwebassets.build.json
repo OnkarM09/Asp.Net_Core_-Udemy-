@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "yWOeFIX/QjcoWz8wFfX4hdyVgyFXbhghGQ42I9R4S8c=",
+  "Source": "8. Partial Views",
+  "BasePath": "_content/8. Partial Views",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "8. Partial Views\\wwwroot",
+      "Source": "8. Partial Views",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\8. Partial Views\\8. Partial Views\\wwwroot\\",
+      "BasePath": "_content/8. Partial Views",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,8 @@
+﻿@model CityWeatherModel;
+
+@if(Model != null)
+{
+    await Html.RenderPartialAsync("_CityWeatherCardPartial", Model);
+}else{
+    <h1>Nothing Found!</h1>
+}

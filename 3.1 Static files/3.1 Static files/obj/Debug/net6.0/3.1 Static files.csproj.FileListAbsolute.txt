@@ -1,0 +1,26 @@
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\bin\Debug\net6.0\appsettings.Development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\bin\Debug\net6.0\appsettings.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\bin\Debug\net6.0\3.1 Static files.staticwebassets.runtime.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\bin\Debug\net6.0\3.1 Static files.exe
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\bin\Debug\net6.0\3.1 Static files.deps.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\bin\Debug\net6.0\3.1 Static files.runtimeconfig.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\bin\Debug\net6.0\3.1 Static files.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\bin\Debug\net6.0\3.1 Static files.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\obj\Debug\net6.0\3.1 Static files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\obj\Debug\net6.0\3.1 Static files.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\obj\Debug\net6.0\3.1 Static files.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\obj\Debug\net6.0\3.1 Static files.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\obj\Debug\net6.0\3.1 Static files.MvcApplicationPartsAssemblyInfo.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\obj\Debug\net6.0\staticwebassets\msbuild.3.1 Static files.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\obj\Debug\net6.0\staticwebassets\msbuild.build.3.1 Static files.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.3.1 Static files.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.3.1 Static files.props
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\obj\Debug\net6.0\staticwebassets.build.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\obj\Debug\net6.0\staticwebassets.development.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\obj\Debug\net6.0\scopedcss\bundle\3.1 Static files.styles.css
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\obj\Debug\net6.0\3.1 Static files.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\obj\Debug\net6.0\refint\3.1 Static files.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\obj\Debug\net6.0\3.1 Static files.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\obj\Debug\net6.0\3.1 Static files.genruntimeconfig.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\3.1 Static files\3.1 Static files\obj\Debug\net6.0\ref\3.1 Static files.dll

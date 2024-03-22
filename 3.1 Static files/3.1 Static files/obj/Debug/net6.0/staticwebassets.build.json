@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "H/pEjpoJAtQSSj0ixAWWFBMMTR2UOT0LF542daN7FU4=",
+  "Source": "3.1 Static files",
+  "BasePath": "_content/3.1 Static files",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "3.1 Static files\\wwwroot",
+      "Source": "3.1 Static files",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\3.1 Static files\\3.1 Static files\\wwwroot\\",
+      "BasePath": "_content/3.1 Static files",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\3.1 Static files\\3.1 Static files\\wwwroot\\data",
+      "SourceId": "3.1 Static files",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\3.1 Static files\\3.1 Static files\\wwwroot\\",
+      "BasePath": "_content/3.1 Static files",
+      "RelativePath": "data",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data"
+    },
+    {
+      "Identity": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\3.1 Static files\\3.1 Static files\\wwwroot\\FE Ironman sprint 9.5 sonar report.pdf",
+      "SourceId": "3.1 Static files",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\3.1 Static files\\3.1 Static files\\wwwroot\\",
+      "BasePath": "_content/3.1 Static files",
+      "RelativePath": "FE Ironman sprint 9.5 sonar report.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\FE Ironman sprint 9.5 sonar report.pdf"
+    },
+    {
+      "Identity": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\3.1 Static files\\3.1 Static files\\wwwroot\\ironman.jpg",
+      "SourceId": "3.1 Static files",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\3.1 Static files\\3.1 Static files\\wwwroot\\",
+      "BasePath": "_content/3.1 Static files",
+      "RelativePath": "ironman.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ironman.jpg"
+    }
+  ]
+}

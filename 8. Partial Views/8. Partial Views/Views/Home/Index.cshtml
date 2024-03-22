@@ -1,0 +1,30 @@
+﻿@* @{
+    ListModel listModel = new ListModel();
+    listModel.ListTitle = "Countries";
+    listModel.ListItems = new List<string>()
+    {
+              "Bharat",
+              "England",
+              "USA",
+              "China",
+              "Japan",
+              "Germany",
+    };
+}
+<partial name="_ListPartialView" model="listModel"></partial>
+ *@
+
+<button class="mt-4 mb-3 btn btn-primary" id="load-programming-lang-btn">Load</button>
+<div class="show-data">
+
+</div>
+
+<script>
+    const btn = document.getElementById("load-programming-lang-btn");
+    const outputData = document.querySelector(".show-data");
+    btn.addEventListener("click", async () => {
+        const response = await fetch("programming-lang");
+        const data = await response.text();
+        outputData.innerHTML = data;
+    });
+</script>
