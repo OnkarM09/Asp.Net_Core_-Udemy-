@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Object Relations", "5. Object Relations\5. Object Relations.csproj", "{2CC6528E-90E9-42A8-8CA4-4F224ACED6C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{7488EB77-8D2D-4680-94E5-49FFEE4C49AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CC6528E-90E9-42A8-8CA4-4F224ACED6C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC6528E-90E9-42A8-8CA4-4F224ACED6C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC6528E-90E9-42A8-8CA4-4F224ACED6C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC6528E-90E9-42A8-8CA4-4F224ACED6C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7488EB77-8D2D-4680-94E5-49FFEE4C49AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7488EB77-8D2D-4680-94E5-49FFEE4C49AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7488EB77-8D2D-4680-94E5-49FFEE4C49AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7488EB77-8D2D-4680-94E5-49FFEE4C49AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D485FAD-8CA7-444D-9AF6-ED2AE560A96E}
+	EndGlobalSection
+EndGlobal

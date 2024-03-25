@@ -1,0 +1,14 @@
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\6. Interfaces\6. Interfaces\bin\Debug\net6.0\6. Interfaces.exe
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\6. Interfaces\6. Interfaces\bin\Debug\net6.0\6. Interfaces.deps.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\6. Interfaces\6. Interfaces\bin\Debug\net6.0\6. Interfaces.runtimeconfig.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\6. Interfaces\6. Interfaces\bin\Debug\net6.0\6. Interfaces.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\6. Interfaces\6. Interfaces\bin\Debug\net6.0\6. Interfaces.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\6. Interfaces\6. Interfaces\obj\Debug\net6.0\6. Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\6. Interfaces\6. Interfaces\obj\Debug\net6.0\6. Interfaces.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\6. Interfaces\6. Interfaces\obj\Debug\net6.0\6. Interfaces.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\6. Interfaces\6. Interfaces\obj\Debug\net6.0\6. Interfaces.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\6. Interfaces\6. Interfaces\obj\Debug\net6.0\6. Interfaces.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\6. Interfaces\6. Interfaces\obj\Debug\net6.0\refint\6. Interfaces.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\6. Interfaces\6. Interfaces\obj\Debug\net6.0\6. Interfaces.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\6. Interfaces\6. Interfaces\obj\Debug\net6.0\6. Interfaces.genruntimeconfig.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\6. Interfaces\6. Interfaces\obj\Debug\net6.0\ref\6. Interfaces.dll

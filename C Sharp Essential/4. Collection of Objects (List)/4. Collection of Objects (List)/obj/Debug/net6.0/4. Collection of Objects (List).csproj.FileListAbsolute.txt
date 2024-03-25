@@ -1,0 +1,18 @@
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\4. Collection of Objects (List)\4. Collection of Objects (List)\bin\Debug\net6.0\4. Collection of Objects (List).exe
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\4. Collection of Objects (List)\4. Collection of Objects (List)\bin\Debug\net6.0\4. Collection of Objects (List).deps.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\4. Collection of Objects (List)\4. Collection of Objects (List)\bin\Debug\net6.0\4. Collection of Objects (List).runtimeconfig.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\4. Collection of Objects (List)\4. Collection of Objects (List)\bin\Debug\net6.0\4. Collection of Objects (List).dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\4. Collection of Objects (List)\4. Collection of Objects (List)\bin\Debug\net6.0\4. Collection of Objects (List).pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\4. Collection of Objects (List)\4. Collection of Objects (List)\bin\Debug\net6.0\ClassLibrary1.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\4. Collection of Objects (List)\4. Collection of Objects (List)\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\4. Collection of Objects (List)\4. Collection of Objects (List)\obj\Debug\net6.0\4. Collection of Objects (List).csproj.AssemblyReference.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\4. Collection of Objects (List)\4. Collection of Objects (List)\obj\Debug\net6.0\4. Collection of Objects (List).GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\4. Collection of Objects (List)\4. Collection of Objects (List)\obj\Debug\net6.0\4. Collection of Objects (List).AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\4. Collection of Objects (List)\4. Collection of Objects (List)\obj\Debug\net6.0\4. Collection of Objects (List).AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\4. Collection of Objects (List)\4. Collection of Objects (List)\obj\Debug\net6.0\4. Collection of Objects (List).csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\4. Collection of Objects (List)\4. Collection of Objects (List)\obj\Debug\net6.0\4. Collection of Objects (List).csproj.CopyComplete
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\4. Collection of Objects (List)\4. Collection of Objects (List)\obj\Debug\net6.0\4. Collection of Objects (List).dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\4. Collection of Objects (List)\4. Collection of Objects (List)\obj\Debug\net6.0\refint\4. Collection of Objects (List).dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\4. Collection of Objects (List)\4. Collection of Objects (List)\obj\Debug\net6.0\4. Collection of Objects (List).pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\4. Collection of Objects (List)\4. Collection of Objects (List)\obj\Debug\net6.0\4. Collection of Objects (List).genruntimeconfig.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\4. Collection of Objects (List)\4. Collection of Objects (List)\obj\Debug\net6.0\ref\4. Collection of Objects (List).dll

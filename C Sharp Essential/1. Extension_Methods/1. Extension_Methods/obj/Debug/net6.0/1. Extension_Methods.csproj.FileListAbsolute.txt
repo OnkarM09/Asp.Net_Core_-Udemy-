@@ -1,0 +1,18 @@
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\1. Extension_Methods\bin\Debug\net6.0\1. Extension_Methods.exe
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\1. Extension_Methods\bin\Debug\net6.0\1. Extension_Methods.deps.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\1. Extension_Methods\bin\Debug\net6.0\1. Extension_Methods.runtimeconfig.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\1. Extension_Methods\bin\Debug\net6.0\1. Extension_Methods.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\1. Extension_Methods\bin\Debug\net6.0\1. Extension_Methods.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\1. Extension_Methods\bin\Debug\net6.0\ClassLibrary1.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\1. Extension_Methods\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\1. Extension_Methods\obj\Debug\net6.0\1. Extension_Methods.csproj.AssemblyReference.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\1. Extension_Methods\obj\Debug\net6.0\1. Extension_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\1. Extension_Methods\obj\Debug\net6.0\1. Extension_Methods.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\1. Extension_Methods\obj\Debug\net6.0\1. Extension_Methods.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\1. Extension_Methods\obj\Debug\net6.0\1. Extension_Methods.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\1. Extension_Methods\obj\Debug\net6.0\1. Extension_Methods.csproj.CopyComplete
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\1. Extension_Methods\obj\Debug\net6.0\1. Extension_Methods.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\1. Extension_Methods\obj\Debug\net6.0\refint\1. Extension_Methods.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\1. Extension_Methods\obj\Debug\net6.0\1. Extension_Methods.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\1. Extension_Methods\obj\Debug\net6.0\1. Extension_Methods.genruntimeconfig.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\1. Extension_Methods\obj\Debug\net6.0\ref\1. Extension_Methods.dll

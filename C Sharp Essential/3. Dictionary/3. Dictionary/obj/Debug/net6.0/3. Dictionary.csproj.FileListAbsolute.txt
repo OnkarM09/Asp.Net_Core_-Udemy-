@@ -1,0 +1,14 @@
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\3. Dictionary\3. Dictionary\bin\Debug\net6.0\3. Dictionary.exe
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\3. Dictionary\3. Dictionary\bin\Debug\net6.0\3. Dictionary.deps.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\3. Dictionary\3. Dictionary\bin\Debug\net6.0\3. Dictionary.runtimeconfig.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\3. Dictionary\3. Dictionary\bin\Debug\net6.0\3. Dictionary.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\3. Dictionary\3. Dictionary\bin\Debug\net6.0\3. Dictionary.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\3. Dictionary\3. Dictionary\obj\Debug\net6.0\3. Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\3. Dictionary\3. Dictionary\obj\Debug\net6.0\3. Dictionary.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\3. Dictionary\3. Dictionary\obj\Debug\net6.0\3. Dictionary.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\3. Dictionary\3. Dictionary\obj\Debug\net6.0\3. Dictionary.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\3. Dictionary\3. Dictionary\obj\Debug\net6.0\3. Dictionary.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\3. Dictionary\3. Dictionary\obj\Debug\net6.0\refint\3. Dictionary.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\3. Dictionary\3. Dictionary\obj\Debug\net6.0\3. Dictionary.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\3. Dictionary\3. Dictionary\obj\Debug\net6.0\3. Dictionary.genruntimeconfig.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\3. Dictionary\3. Dictionary\obj\Debug\net6.0\ref\3. Dictionary.dll

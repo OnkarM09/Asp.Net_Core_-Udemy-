@@ -1,0 +1,11 @@
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\ClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary1.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\1. Extension_Methods\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll

@@ -1,0 +1,18 @@
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\5. Object Relations\5. Object Relations\bin\Debug\net6.0\5. Object Relations.exe
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\5. Object Relations\5. Object Relations\bin\Debug\net6.0\5. Object Relations.deps.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\5. Object Relations\5. Object Relations\bin\Debug\net6.0\5. Object Relations.runtimeconfig.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\5. Object Relations\5. Object Relations\bin\Debug\net6.0\5. Object Relations.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\5. Object Relations\5. Object Relations\bin\Debug\net6.0\5. Object Relations.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\5. Object Relations\5. Object Relations\bin\Debug\net6.0\ClassLibrary1.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\5. Object Relations\5. Object Relations\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\5. Object Relations\5. Object Relations\obj\Debug\net6.0\5. Object Relations.csproj.AssemblyReference.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\5. Object Relations\5. Object Relations\obj\Debug\net6.0\5. Object Relations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\5. Object Relations\5. Object Relations\obj\Debug\net6.0\5. Object Relations.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\5. Object Relations\5. Object Relations\obj\Debug\net6.0\5. Object Relations.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\5. Object Relations\5. Object Relations\obj\Debug\net6.0\5. Object Relations.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\5. Object Relations\5. Object Relations\obj\Debug\net6.0\5. Object Relations.csproj.CopyComplete
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\5. Object Relations\5. Object Relations\obj\Debug\net6.0\5. Object Relations.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\5. Object Relations\5. Object Relations\obj\Debug\net6.0\refint\5. Object Relations.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\5. Object Relations\5. Object Relations\obj\Debug\net6.0\5. Object Relations.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\5. Object Relations\5. Object Relations\obj\Debug\net6.0\5. Object Relations.genruntimeconfig.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\5. Object Relations\5. Object Relations\obj\Debug\net6.0\ref\5. Object Relations.dll

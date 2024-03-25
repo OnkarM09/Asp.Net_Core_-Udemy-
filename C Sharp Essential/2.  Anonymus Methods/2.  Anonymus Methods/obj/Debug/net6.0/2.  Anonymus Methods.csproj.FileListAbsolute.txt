@@ -1,0 +1,14 @@
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\2.  Anonymus Methods\2.  Anonymus Methods\bin\Debug\net6.0\2.  Anonymus Methods.exe
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\2.  Anonymus Methods\2.  Anonymus Methods\bin\Debug\net6.0\2.  Anonymus Methods.deps.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\2.  Anonymus Methods\2.  Anonymus Methods\bin\Debug\net6.0\2.  Anonymus Methods.runtimeconfig.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\2.  Anonymus Methods\2.  Anonymus Methods\bin\Debug\net6.0\2.  Anonymus Methods.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\2.  Anonymus Methods\2.  Anonymus Methods\bin\Debug\net6.0\2.  Anonymus Methods.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\2.  Anonymus Methods\2.  Anonymus Methods\obj\Debug\net6.0\2.  Anonymus Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\2.  Anonymus Methods\2.  Anonymus Methods\obj\Debug\net6.0\2.  Anonymus Methods.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\2.  Anonymus Methods\2.  Anonymus Methods\obj\Debug\net6.0\2.  Anonymus Methods.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\2.  Anonymus Methods\2.  Anonymus Methods\obj\Debug\net6.0\2.  Anonymus Methods.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\2.  Anonymus Methods\2.  Anonymus Methods\obj\Debug\net6.0\2.  Anonymus Methods.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\2.  Anonymus Methods\2.  Anonymus Methods\obj\Debug\net6.0\refint\2.  Anonymus Methods.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\2.  Anonymus Methods\2.  Anonymus Methods\obj\Debug\net6.0\2.  Anonymus Methods.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\2.  Anonymus Methods\2.  Anonymus Methods\obj\Debug\net6.0\2.  Anonymus Methods.genruntimeconfig.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\2.  Anonymus Methods\2.  Anonymus Methods\obj\Debug\net6.0\ref\2.  Anonymus Methods.dll

@@ -1,0 +1,14 @@
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\8. Top Level Statements\8. Top Level Statements\bin\Debug\net6.0\8. Top Level Statements.exe
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\8. Top Level Statements\8. Top Level Statements\bin\Debug\net6.0\8. Top Level Statements.deps.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\8. Top Level Statements\8. Top Level Statements\bin\Debug\net6.0\8. Top Level Statements.runtimeconfig.json
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\8. Top Level Statements\8. Top Level Statements\bin\Debug\net6.0\8. Top Level Statements.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\8. Top Level Statements\8. Top Level Statements\bin\Debug\net6.0\8. Top Level Statements.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\8. Top Level Statements\8. Top Level Statements\obj\Debug\net6.0\8. Top Level Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\8. Top Level Statements\8. Top Level Statements\obj\Debug\net6.0\8. Top Level Statements.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\8. Top Level Statements\8. Top Level Statements\obj\Debug\net6.0\8. Top Level Statements.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\8. Top Level Statements\8. Top Level Statements\obj\Debug\net6.0\8. Top Level Statements.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\8. Top Level Statements\8. Top Level Statements\obj\Debug\net6.0\8. Top Level Statements.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\8. Top Level Statements\8. Top Level Statements\obj\Debug\net6.0\refint\8. Top Level Statements.dll
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\8. Top Level Statements\8. Top Level Statements\obj\Debug\net6.0\8. Top Level Statements.pdb
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\8. Top Level Statements\8. Top Level Statements\obj\Debug\net6.0\8. Top Level Statements.genruntimeconfig.cache
+C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\8. Top Level Statements\8. Top Level Statements\obj\Debug\net6.0\ref\8. Top Level Statements.dll
