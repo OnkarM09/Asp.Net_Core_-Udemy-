@@ -9,5 +9,11 @@ namespace _15._EntityFramerworkCore.Services
         Task<Person> GetPersonById(int id);
         
         Task AddPersonToDb(Person person);
+        /// <summary>
+        /// Returns persons as CSV
+        /// </summary>
+        /// <returns> Returns the memory stream with CSV data</returns>
+
+        Task<MemoryStream> GerPersonCSV();
     }
 }
