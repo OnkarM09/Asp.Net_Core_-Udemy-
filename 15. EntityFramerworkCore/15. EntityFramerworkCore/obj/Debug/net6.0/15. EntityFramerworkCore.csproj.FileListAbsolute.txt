@@ -77,3 +77,7 @@ C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. En
 C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore\obj\Debug\net6.0\15. EntityFramerworkCore.MvcApplicationPartsAssemblyInfo.cs
 C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore\bin\Debug\net6.0\15. EntityFramerworkCore.staticwebassets.runtime.json
 C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore\bin\Debug\net6.0\CsvHelper.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore\bin\Debug\net6.0\EPPlus.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore\bin\Debug\net6.0\EPPlus.Interfaces.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll

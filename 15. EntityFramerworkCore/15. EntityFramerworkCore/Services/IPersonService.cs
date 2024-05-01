@@ -15,5 +15,10 @@ namespace _15._EntityFramerworkCore.Services
         /// <returns> Returns the memory stream with CSV data</returns>
 
         Task<MemoryStream> GerPersonCSV();
+        /// <summary>
+        /// Returns persons as Excel
+        /// </summary>
+        /// <returns> Returns the memory stream with Excel data</returns>
+        Task<MemoryStream> GerPersonExcel();
     }
 }
