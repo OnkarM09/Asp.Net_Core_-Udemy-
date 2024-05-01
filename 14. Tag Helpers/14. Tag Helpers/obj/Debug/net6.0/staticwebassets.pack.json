@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\14. Tag Helpers\\14. Tag Helpers\\wwwroot\\asp-logo.png",
+      "PackagePath": "staticwebassets\\asp-logo.png"
+    },
+    {
+      "Id": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\14. Tag Helpers\\14. Tag Helpers\\wwwroot\\jquery-min.js",
+      "PackagePath": "staticwebassets\\jquery-min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.14. Tag Helpers.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.14. Tag Helpers.props",
+      "PackagePath": "build\\14. Tag Helpers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.14. Tag Helpers.props",
+      "PackagePath": "buildMultiTargeting\\14. Tag Helpers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.14. Tag Helpers.props",
+      "PackagePath": "buildTransitive\\14. Tag Helpers.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -9,7 +9,7 @@
             <div class="card-content white-text">
                 <span class="card-title">@city.CityName - @city.CityUniqueCode</span>
                 <p>
-                    It is @city.DateAndTime and the temperature is @city.TemperatureFahrenheit
+                    It is @city.DateAndTime.ToString("dd/MMM/yyyy hh:mm").Replace("-","/") and the temperature is @city.TemperatureFahrenheit
                 </p>
             </div>
             <div class="card-action">

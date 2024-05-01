@@ -19,7 +19,6 @@ namespace _5._1_Model_Validations.CustomValidators
 
                 if (otherProp != null)
                 {
-
                     DateTime fromDate = Convert.ToDateTime(otherProp.GetValue(validationContext.ObjectInstance));
 
                     if (fromDate > toDate)

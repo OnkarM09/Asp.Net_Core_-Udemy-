@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\4. Controllers\\4. Controllers\\4. Controllers.csproj": {}
+    "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\4. Controllers\\4. Controllers\\4. Controllers.csproj": {}
   },
   "projects": {
-    "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\4. Controllers\\4. Controllers\\4. Controllers.csproj": {
+    "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\4. Controllers\\4. Controllers\\4. Controllers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\4. Controllers\\4. Controllers\\4. Controllers.csproj",
+        "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\4. Controllers\\4. Controllers\\4. Controllers.csproj",
         "projectName": "4. Controllers",
-        "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\4. Controllers\\4. Controllers\\4. Controllers.csproj",
+        "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\4. Controllers\\4. Controllers\\4. Controllers.csproj",
         "packagesPath": "C:\\Users\\OnkarMeherwade\\.nuget\\packages\\",
-        "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\4. Controllers\\4. Controllers\\obj\\",
+        "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\4. Controllers\\4. Controllers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OnkarMeherwade\\AppData\\Roaming\\NuGet\\NuGet.Config",

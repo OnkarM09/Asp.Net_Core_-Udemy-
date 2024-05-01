@@ -12,3 +12,17 @@ C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\7. LINQ\1. LINQ
 C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\7. LINQ\1. LINQ Example\1. LINQ Example\obj\Debug\net6.0\1. LINQ Example.pdb
 C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\7. LINQ\1. LINQ Example\1. LINQ Example\obj\Debug\net6.0\1. LINQ Example.genruntimeconfig.cache
 C:\Onkar\Onkar\Dot net core\Udemy Dot net core\C Sharp Essential\7. LINQ\1. LINQ Example\1. LINQ Example\obj\Debug\net6.0\ref\1. LINQ Example.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\C Sharp Essential\New folder\1. LINQ Example\1. LINQ Example\bin\Debug\net6.0\1. LINQ Example.exe
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\C Sharp Essential\New folder\1. LINQ Example\1. LINQ Example\bin\Debug\net6.0\1. LINQ Example.deps.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\C Sharp Essential\New folder\1. LINQ Example\1. LINQ Example\bin\Debug\net6.0\1. LINQ Example.runtimeconfig.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\C Sharp Essential\New folder\1. LINQ Example\1. LINQ Example\bin\Debug\net6.0\1. LINQ Example.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\C Sharp Essential\New folder\1. LINQ Example\1. LINQ Example\bin\Debug\net6.0\1. LINQ Example.pdb
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\C Sharp Essential\New folder\1. LINQ Example\1. LINQ Example\obj\Debug\net6.0\1. LINQ Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\C Sharp Essential\New folder\1. LINQ Example\1. LINQ Example\obj\Debug\net6.0\1. LINQ Example.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\C Sharp Essential\New folder\1. LINQ Example\1. LINQ Example\obj\Debug\net6.0\1. LINQ Example.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\C Sharp Essential\New folder\1. LINQ Example\1. LINQ Example\obj\Debug\net6.0\1. LINQ Example.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\C Sharp Essential\New folder\1. LINQ Example\1. LINQ Example\obj\Debug\net6.0\1. LINQ Example.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\C Sharp Essential\New folder\1. LINQ Example\1. LINQ Example\obj\Debug\net6.0\refint\1. LINQ Example.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\C Sharp Essential\New folder\1. LINQ Example\1. LINQ Example\obj\Debug\net6.0\1. LINQ Example.pdb
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\C Sharp Essential\New folder\1. LINQ Example\1. LINQ Example\obj\Debug\net6.0\1. LINQ Example.genruntimeconfig.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\C Sharp Essential\New folder\1. LINQ Example\1. LINQ Example\obj\Debug\net6.0\ref\1. LINQ Example.dll

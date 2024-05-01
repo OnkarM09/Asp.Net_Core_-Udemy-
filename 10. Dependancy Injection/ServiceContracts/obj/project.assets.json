@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\10. Dependancy Injection\\ServiceContracts\\ServiceContracts.csproj",
+      "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\10. Dependancy Injection\\ServiceContracts\\ServiceContracts.csproj",
       "projectName": "ServiceContracts",
-      "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\10. Dependancy Injection\\ServiceContracts\\ServiceContracts.csproj",
+      "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\10. Dependancy Injection\\ServiceContracts\\ServiceContracts.csproj",
       "packagesPath": "C:\\Users\\OnkarMeherwade\\.nuget\\packages\\",
-      "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\10. Dependancy Injection\\ServiceContracts\\obj\\",
+      "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\10. Dependancy Injection\\ServiceContracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OnkarMeherwade\\AppData\\Roaming\\NuGet\\NuGet.Config",

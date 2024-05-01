@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\3.1 Static files\\3.1 Static files\\3.1 Static files.csproj",
+      "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\3.1 Static files\\3.1 Static files\\3.1 Static files.csproj",
       "projectName": "3.1 Static files",
-      "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\3.1 Static files\\3.1 Static files\\3.1 Static files.csproj",
+      "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\3.1 Static files\\3.1 Static files\\3.1 Static files.csproj",
       "packagesPath": "C:\\Users\\OnkarMeherwade\\.nuget\\packages\\",
-      "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\3.1 Static files\\3.1 Static files\\obj\\",
+      "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\3.1 Static files\\3.1 Static files\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OnkarMeherwade\\AppData\\Roaming\\NuGet\\NuGet.Config",

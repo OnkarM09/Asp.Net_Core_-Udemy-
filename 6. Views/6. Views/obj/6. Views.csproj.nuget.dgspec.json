@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\6. Views\\6. Views\\6. Views.csproj": {}
+    "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\6. Views\\6. Views.csproj": {}
   },
   "projects": {
-    "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\6. Views\\6. Views\\6. Views.csproj": {
+    "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\6. Views\\6. Views.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\6. Views\\6. Views\\6. Views.csproj",
+        "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\6. Views\\6. Views.csproj",
         "projectName": "6. Views",
-        "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\6. Views\\6. Views\\6. Views.csproj",
+        "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\6. Views\\6. Views.csproj",
         "packagesPath": "C:\\Users\\OnkarMeherwade\\.nuget\\packages\\",
-        "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\6. Views\\6. Views\\obj\\",
+        "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\6. Views\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OnkarMeherwade\\AppData\\Roaming\\NuGet\\NuGet.Config",

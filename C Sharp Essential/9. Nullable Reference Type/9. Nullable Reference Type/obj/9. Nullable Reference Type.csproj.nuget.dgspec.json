@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\C Sharp Essential\\9. Nullable Reference Type\\9. Nullable Reference Type\\9. Nullable Reference Type.csproj": {}
+    "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\9. Nullable Reference Type\\9. Nullable Reference Type\\9. Nullable Reference Type.csproj": {}
   },
   "projects": {
-    "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\C Sharp Essential\\9. Nullable Reference Type\\9. Nullable Reference Type\\9. Nullable Reference Type.csproj": {
+    "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\9. Nullable Reference Type\\9. Nullable Reference Type\\9. Nullable Reference Type.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\C Sharp Essential\\9. Nullable Reference Type\\9. Nullable Reference Type\\9. Nullable Reference Type.csproj",
+        "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\9. Nullable Reference Type\\9. Nullable Reference Type\\9. Nullable Reference Type.csproj",
         "projectName": "9. Nullable Reference Type",
-        "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\C Sharp Essential\\9. Nullable Reference Type\\9. Nullable Reference Type\\9. Nullable Reference Type.csproj",
+        "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\9. Nullable Reference Type\\9. Nullable Reference Type\\9. Nullable Reference Type.csproj",
         "packagesPath": "C:\\Users\\OnkarMeherwade\\.nuget\\packages\\",
-        "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\C Sharp Essential\\9. Nullable Reference Type\\9. Nullable Reference Type\\obj\\",
+        "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\9. Nullable Reference Type\\9. Nullable Reference Type\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OnkarMeherwade\\AppData\\Roaming\\NuGet\\NuGet.Config",

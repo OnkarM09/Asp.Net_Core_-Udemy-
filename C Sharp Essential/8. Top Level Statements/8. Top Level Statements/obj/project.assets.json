@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\C Sharp Essential\\8. Top Level Statements\\8. Top Level Statements\\8. Top Level Statements.csproj",
+      "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\8. Top Level Statements\\8. Top Level Statements\\8. Top Level Statements.csproj",
       "projectName": "8. Top Level Statements",
-      "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\C Sharp Essential\\8. Top Level Statements\\8. Top Level Statements\\8. Top Level Statements.csproj",
+      "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\8. Top Level Statements\\8. Top Level Statements\\8. Top Level Statements.csproj",
       "packagesPath": "C:\\Users\\OnkarMeherwade\\.nuget\\packages\\",
-      "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\C Sharp Essential\\8. Top Level Statements\\8. Top Level Statements\\obj\\",
+      "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\8. Top Level Statements\\8. Top Level Statements\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OnkarMeherwade\\AppData\\Roaming\\NuGet\\NuGet.Config",

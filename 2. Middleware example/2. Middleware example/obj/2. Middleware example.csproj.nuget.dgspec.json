@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\2. Middleware example\\2. Middleware example\\2. Middleware example.csproj": {}
+    "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\2. Middleware example\\2. Middleware example\\2. Middleware example.csproj": {}
   },
   "projects": {
-    "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\2. Middleware example\\2. Middleware example\\2. Middleware example.csproj": {
+    "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\2. Middleware example\\2. Middleware example\\2. Middleware example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\2. Middleware example\\2. Middleware example\\2. Middleware example.csproj",
+        "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\2. Middleware example\\2. Middleware example\\2. Middleware example.csproj",
         "projectName": "2. Middleware example",
-        "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\2. Middleware example\\2. Middleware example\\2. Middleware example.csproj",
+        "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\2. Middleware example\\2. Middleware example\\2. Middleware example.csproj",
         "packagesPath": "C:\\Users\\OnkarMeherwade\\.nuget\\packages\\",
-        "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\2. Middleware example\\2. Middleware example\\obj\\",
+        "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\2. Middleware example\\2. Middleware example\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OnkarMeherwade\\AppData\\Roaming\\NuGet\\NuGet.Config",

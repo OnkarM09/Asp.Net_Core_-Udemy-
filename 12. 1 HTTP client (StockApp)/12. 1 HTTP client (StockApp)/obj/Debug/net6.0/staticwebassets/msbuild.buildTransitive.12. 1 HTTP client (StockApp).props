@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\12. 1 HTTP client (StockApp).props" />
+</Project>

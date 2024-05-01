@@ -1,0 +1,22 @@
+[
+  {
+    "JobTitle": "Front-End Developer",
+    "Salary": 999999
+  },
+  {
+    "JobTitle": "Back-End Developer",
+    "Salary": 899999
+  },
+  {
+    "JobTitle": "Database Developer",
+    "Salary": 799999
+  },
+  {
+    "JobTitle": "Graphic Designer",
+    "Salary": 599999
+  },
+  {
+    "JobTitle": "Full Stack Developer",
+    "Salary": 99999999999
+  }
+]

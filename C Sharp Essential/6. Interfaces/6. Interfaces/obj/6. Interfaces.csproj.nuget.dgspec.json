@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\C Sharp Essential\\6. Interfaces\\6. Interfaces\\6. Interfaces.csproj": {}
+    "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\6. Interfaces\\6. Interfaces\\6. Interfaces.csproj": {}
   },
   "projects": {
-    "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\C Sharp Essential\\6. Interfaces\\6. Interfaces\\6. Interfaces.csproj": {
+    "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\6. Interfaces\\6. Interfaces\\6. Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\C Sharp Essential\\6. Interfaces\\6. Interfaces\\6. Interfaces.csproj",
+        "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\6. Interfaces\\6. Interfaces\\6. Interfaces.csproj",
         "projectName": "6. Interfaces",
-        "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\C Sharp Essential\\6. Interfaces\\6. Interfaces\\6. Interfaces.csproj",
+        "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\6. Interfaces\\6. Interfaces\\6. Interfaces.csproj",
         "packagesPath": "C:\\Users\\OnkarMeherwade\\.nuget\\packages\\",
-        "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\C Sharp Essential\\6. Interfaces\\6. Interfaces\\obj\\",
+        "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\6. Interfaces\\6. Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OnkarMeherwade\\AppData\\Roaming\\NuGet\\NuGet.Config",

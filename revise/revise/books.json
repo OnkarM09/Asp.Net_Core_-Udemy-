@@ -1,0 +1,15 @@
+[
+  {
+    "BookId": 1,
+    "Author": "Maverick"
+  },
+  {
+    "BookId": 2,
+    "Author": "Elon Musk"
+  },
+  {
+    "BookId": 3,
+    "Author": "Akira Toriyama"
+  }
+
+]

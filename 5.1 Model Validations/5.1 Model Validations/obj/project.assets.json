@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\5.1 Model Validations\\5.1 Model Validations\\5.1 Model Validations.csproj",
+      "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\5.1 Model Validations\\5.1 Model Validations\\5.1 Model Validations.csproj",
       "projectName": "5.1 Model Validations",
-      "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\5.1 Model Validations\\5.1 Model Validations\\5.1 Model Validations.csproj",
+      "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\5.1 Model Validations\\5.1 Model Validations\\5.1 Model Validations.csproj",
       "packagesPath": "C:\\Users\\OnkarMeherwade\\.nuget\\packages\\",
-      "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\5.1 Model Validations\\5.1 Model Validations\\obj\\",
+      "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\5.1 Model Validations\\5.1 Model Validations\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OnkarMeherwade\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\9. View Component\\9. View Component\\9. View Component.csproj",
+      "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\9. View Component.csproj",
       "projectName": "9. View Component",
-      "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\9. View Component\\9. View Component\\9. View Component.csproj",
+      "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\9. View Component.csproj",
       "packagesPath": "C:\\Users\\OnkarMeherwade\\.nuget\\packages\\",
-      "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\9. View Component\\9. View Component\\obj\\",
+      "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OnkarMeherwade\\AppData\\Roaming\\NuGet\\NuGet.Config",

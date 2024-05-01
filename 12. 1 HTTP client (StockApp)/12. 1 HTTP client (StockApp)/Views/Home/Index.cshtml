@@ -1,0 +1,13 @@
+﻿@model Stock;
+@{
+    ViewBag.Title = "Index";
+}
+
+<h1>Todays Stock of Microsoft</h1>
+
+<ul class="list-group">
+    <li class="list-group-item">Current Price :@Model.CurrentPrice</li>
+    <li class="list-group-item">Current Price :@Model.HighestPrice</li>
+    <li class="list-group-item">Current Price :@Model.LowestPrice</li>
+    <li class="list-group-item">Current Price :@Model.OpenPrice</li>
+</ul>

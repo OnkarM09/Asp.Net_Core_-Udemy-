@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "M/47fqeW4C2nbbgFmi+oq/NDN5v4AxpfxjULwg1Ocyg=",
+  "Hash": "IC0Syfr8NniWqaerRQm8Po0OUz49YabJIjpt1xG4F5k=",
   "Source": "9. View Component",
   "BasePath": "_content/9. View Component",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "9. View Component\\wwwroot",
       "Source": "9. View Component",
-      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\9. View Component\\9. View Component\\wwwroot\\",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\wwwroot\\",
       "BasePath": "_content/9. View Component",
       "Pattern": "**"
     }

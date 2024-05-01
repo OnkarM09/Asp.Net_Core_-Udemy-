@@ -1,0 +1,27 @@
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\bin\Debug\net6.0\appsettings.Development.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\bin\Debug\net6.0\appsettings.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\bin\Debug\net6.0\13. CRUD Application.exe
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\bin\Debug\net6.0\13. CRUD Application.deps.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\bin\Debug\net6.0\13. CRUD Application.runtimeconfig.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\bin\Debug\net6.0\13. CRUD Application.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\bin\Debug\net6.0\13. CRUD Application.pdb
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\obj\Debug\net6.0\13. CRUD Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\obj\Debug\net6.0\13. CRUD Application.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\obj\Debug\net6.0\13. CRUD Application.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\obj\Debug\net6.0\13. CRUD Application.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\obj\Debug\net6.0\13. CRUD Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\obj\Debug\net6.0\13. CRUD Application.RazorAssemblyInfo.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\obj\Debug\net6.0\13. CRUD Application.RazorAssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\obj\Debug\net6.0\staticwebassets\msbuild.13. CRUD Application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\obj\Debug\net6.0\staticwebassets\msbuild.build.13. CRUD Application.props
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.13. CRUD Application.props
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.13. CRUD Application.props
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\obj\Debug\net6.0\staticwebassets.build.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\obj\Debug\net6.0\staticwebassets.development.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\obj\Debug\net6.0\scopedcss\bundle\13. CRUD Application.styles.css
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\obj\Debug\net6.0\13. CRUD Application.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\obj\Debug\net6.0\refint\13. CRUD Application.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\obj\Debug\net6.0\13. CRUD Application.pdb
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\obj\Debug\net6.0\13. CRUD Application.genruntimeconfig.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\13. CRUD Application\13. CRUD Application\obj\Debug\net6.0\ref\13. CRUD Application.dll

@@ -211,11 +211,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\10. Dependancy Injection\\10. Dependancy Injection\\10. Dependancy Injection.csproj",
+      "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\10. Dependancy Injection\\10. Dependancy Injection\\10. Dependancy Injection.csproj",
       "projectName": "10. Dependancy Injection",
-      "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\10. Dependancy Injection\\10. Dependancy Injection\\10. Dependancy Injection.csproj",
+      "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\10. Dependancy Injection\\10. Dependancy Injection\\10. Dependancy Injection.csproj",
       "packagesPath": "C:\\Users\\OnkarMeherwade\\.nuget\\packages\\",
-      "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\10. Dependancy Injection\\10. Dependancy Injection\\obj\\",
+      "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\10. Dependancy Injection\\10. Dependancy Injection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OnkarMeherwade\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -232,11 +232,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\10. Dependancy Injection\\ServiceContracts\\ServiceContracts.csproj": {
-              "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\10. Dependancy Injection\\ServiceContracts\\ServiceContracts.csproj"
+            "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\10. Dependancy Injection\\ServiceContracts\\ServiceContracts.csproj": {
+              "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\10. Dependancy Injection\\ServiceContracts\\ServiceContracts.csproj"
             },
-            "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\10. Dependancy Injection\\Services\\Services.csproj": {
-              "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\10. Dependancy Injection\\Services\\Services.csproj"
+            "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\10. Dependancy Injection\\Services\\Services.csproj": {
+              "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\10. Dependancy Injection\\Services\\Services.csproj"
             }
           }
         }

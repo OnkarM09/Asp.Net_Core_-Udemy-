@@ -1,0 +1,28 @@
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\bin\Debug\net6.0\appsettings.Development.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\bin\Debug\net6.0\appsettings.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\bin\Debug\net6.0\12. 1 HTTP client (StockApp).staticwebassets.runtime.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\bin\Debug\net6.0\12. 1 HTTP client (StockApp).exe
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\bin\Debug\net6.0\12. 1 HTTP client (StockApp).deps.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\bin\Debug\net6.0\12. 1 HTTP client (StockApp).runtimeconfig.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\bin\Debug\net6.0\12. 1 HTTP client (StockApp).dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\bin\Debug\net6.0\12. 1 HTTP client (StockApp).pdb
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\obj\Debug\net6.0\12. 1 HTTP client (StockApp).GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\obj\Debug\net6.0\12. 1 HTTP client (StockApp).AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\obj\Debug\net6.0\12. 1 HTTP client (StockApp).AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\obj\Debug\net6.0\12. 1 HTTP client (StockApp).csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\obj\Debug\net6.0\12. 1 HTTP client (StockApp).MvcApplicationPartsAssemblyInfo.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\obj\Debug\net6.0\12. 1 HTTP client (StockApp).RazorAssemblyInfo.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\obj\Debug\net6.0\12. 1 HTTP client (StockApp).RazorAssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\obj\Debug\net6.0\staticwebassets\msbuild.12. 1 HTTP client (StockApp).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\obj\Debug\net6.0\staticwebassets\msbuild.build.12. 1 HTTP client (StockApp).props
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.12. 1 HTTP client (StockApp).props
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.12. 1 HTTP client (StockApp).props
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\obj\Debug\net6.0\staticwebassets.build.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\obj\Debug\net6.0\staticwebassets.development.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\obj\Debug\net6.0\scopedcss\bundle\12. 1 HTTP client (StockApp).styles.css
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\obj\Debug\net6.0\12. 1 HTTP client (StockApp).dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\obj\Debug\net6.0\refint\12. 1 HTTP client (StockApp).dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\obj\Debug\net6.0\12. 1 HTTP client (StockApp).pdb
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\obj\Debug\net6.0\12. 1 HTTP client (StockApp).genruntimeconfig.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. 1 HTTP client (StockApp)\12. 1 HTTP client (StockApp)\obj\Debug\net6.0\ref\12. 1 HTTP client (StockApp).dll

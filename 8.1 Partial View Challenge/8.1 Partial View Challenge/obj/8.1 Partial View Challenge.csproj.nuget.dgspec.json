@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\8.1 Partial View Challenge.csproj": {}
+    "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\8.1 Partial View Challenge.csproj": {}
   },
   "projects": {
-    "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\8.1 Partial View Challenge.csproj": {
+    "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\8.1 Partial View Challenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\8.1 Partial View Challenge.csproj",
+        "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\8.1 Partial View Challenge.csproj",
         "projectName": "8.1 Partial View Challenge",
-        "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\8.1 Partial View Challenge.csproj",
+        "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\8.1 Partial View Challenge.csproj",
         "packagesPath": "C:\\Users\\OnkarMeherwade\\.nuget\\packages\\",
-        "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\obj\\",
+        "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OnkarMeherwade\\AppData\\Roaming\\NuGet\\NuGet.Config",

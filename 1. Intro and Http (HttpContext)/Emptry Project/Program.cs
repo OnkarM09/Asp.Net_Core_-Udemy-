@@ -90,7 +90,7 @@ app.Run(async (HttpContext context) =>
                 }
             default:
                 {
-                    await context.Response.WriteAsync("Invalid paramenters!");
+                    await context.Response.WriteAsync("Invalid parameters!");
                     break;
                 }
         }

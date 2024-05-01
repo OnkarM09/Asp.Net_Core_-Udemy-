@@ -1,0 +1,28 @@
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\bin\Debug\net6.0\appsettings.Development.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\bin\Debug\net6.0\appsettings.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\bin\Debug\net6.0\12. Configuration.exe
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\bin\Debug\net6.0\12. Configuration.deps.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\bin\Debug\net6.0\12. Configuration.runtimeconfig.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\bin\Debug\net6.0\12. Configuration.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\bin\Debug\net6.0\12. Configuration.pdb
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\obj\Debug\net6.0\12. Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\obj\Debug\net6.0\12. Configuration.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\obj\Debug\net6.0\12. Configuration.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\obj\Debug\net6.0\12. Configuration.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\obj\Debug\net6.0\12. Configuration.MvcApplicationPartsAssemblyInfo.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\obj\Debug\net6.0\staticwebassets\msbuild.12. Configuration.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\obj\Debug\net6.0\staticwebassets\msbuild.build.12. Configuration.props
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.12. Configuration.props
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.12. Configuration.props
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\obj\Debug\net6.0\staticwebassets.build.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\obj\Debug\net6.0\staticwebassets.development.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\obj\Debug\net6.0\scopedcss\bundle\12. Configuration.styles.css
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\obj\Debug\net6.0\12. Configuration.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\obj\Debug\net6.0\refint\12. Configuration.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\obj\Debug\net6.0\12. Configuration.pdb
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\obj\Debug\net6.0\12. Configuration.genruntimeconfig.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\obj\Debug\net6.0\ref\12. Configuration.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\obj\Debug\net6.0\12. Configuration.RazorAssemblyInfo.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\obj\Debug\net6.0\12. Configuration.RazorAssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\12. Configuration\12. Configuration\bin\Debug\net6.0\MyOwnConfig.json

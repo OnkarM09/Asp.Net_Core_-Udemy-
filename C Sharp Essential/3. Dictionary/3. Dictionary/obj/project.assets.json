@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\C Sharp Essential\\3. Dictionary\\3. Dictionary\\3. Dictionary.csproj",
+      "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\3. Dictionary\\3. Dictionary\\3. Dictionary.csproj",
       "projectName": "3. Dictionary",
-      "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\C Sharp Essential\\3. Dictionary\\3. Dictionary\\3. Dictionary.csproj",
+      "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\3. Dictionary\\3. Dictionary\\3. Dictionary.csproj",
       "packagesPath": "C:\\Users\\OnkarMeherwade\\.nuget\\packages\\",
-      "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\C Sharp Essential\\3. Dictionary\\3. Dictionary\\obj\\",
+      "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\3. Dictionary\\3. Dictionary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OnkarMeherwade\\AppData\\Roaming\\NuGet\\NuGet.Config",

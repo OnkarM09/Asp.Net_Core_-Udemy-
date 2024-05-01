@@ -106,6 +106,7 @@ else
 
 //Select
 List<Person> selectedData = employees.Select(e => new Person() { PersonName = e.EmpName }).ToList();
+Console.WriteLine("Select statement.");
 foreach (var item in selectedData)
 {
     Console.WriteLine(item.PersonName);

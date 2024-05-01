@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "sogEKvs602+0hvUuegH5q7s7XKvRHh+DnFeBg+8qZRA=",
+  "Source": "14. Tag Helpers",
+  "BasePath": "_content/14. Tag Helpers",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "14. Tag Helpers\\wwwroot",
+      "Source": "14. Tag Helpers",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\14. Tag Helpers\\14. Tag Helpers\\wwwroot\\",
+      "BasePath": "_content/14. Tag Helpers",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\14. Tag Helpers\\14. Tag Helpers\\wwwroot\\asp-logo.png",
+      "SourceId": "14. Tag Helpers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\14. Tag Helpers\\14. Tag Helpers\\wwwroot\\",
+      "BasePath": "_content/14. Tag Helpers",
+      "RelativePath": "asp-logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\asp-logo.png"
+    },
+    {
+      "Identity": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\14. Tag Helpers\\14. Tag Helpers\\wwwroot\\jquery-min.js",
+      "SourceId": "14. Tag Helpers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\14. Tag Helpers\\14. Tag Helpers\\wwwroot\\",
+      "BasePath": "_content/14. Tag Helpers",
+      "RelativePath": "jquery-min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery-min.js"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Qc42KRo+htYwFy2kgcbrs6WNtAwlZmc+vUKPf56L5v0=",
+  "Source": "12. 1 HTTP client (StockApp)",
+  "BasePath": "_content/12. 1 HTTP client (StockApp)",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "12. 1 HTTP client (StockApp)\\wwwroot",
+      "Source": "12. 1 HTTP client (StockApp)",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp)\\wwwroot\\",
+      "BasePath": "_content/12. 1 HTTP client (StockApp)",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

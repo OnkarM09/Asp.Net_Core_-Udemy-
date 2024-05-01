@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\C Sharp Essential\\4. Collection of Objects (List)\\4. Collection of Objects (List)\\4. Collection of Objects (List).csproj",
+      "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\4. Collection of Objects (List)\\4. Collection of Objects (List)\\4. Collection of Objects (List).csproj",
       "projectName": "4. Collection of Objects (List)",
-      "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\C Sharp Essential\\4. Collection of Objects (List)\\4. Collection of Objects (List)\\4. Collection of Objects (List).csproj",
+      "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\4. Collection of Objects (List)\\4. Collection of Objects (List)\\4. Collection of Objects (List).csproj",
       "packagesPath": "C:\\Users\\OnkarMeherwade\\.nuget\\packages\\",
-      "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\C Sharp Essential\\4. Collection of Objects (List)\\4. Collection of Objects (List)\\obj\\",
+      "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\4. Collection of Objects (List)\\4. Collection of Objects (List)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OnkarMeherwade\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\C Sharp Essential\\4. Collection of Objects (List)\\ClassLibrary1\\ClassLibrary1.csproj": {
-              "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\C Sharp Essential\\4. Collection of Objects (List)\\ClassLibrary1\\ClassLibrary1.csproj"
+            "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\4. Collection of Objects (List)\\ClassLibrary1\\ClassLibrary1.csproj": {
+              "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\4. Collection of Objects (List)\\ClassLibrary1\\ClassLibrary1.csproj"
             }
           }
         }

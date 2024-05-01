@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ServiceContracts
-build_property.ProjectDir = C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\ServiceContracts\
+build_property.ProjectDir = C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\ServiceContracts\
