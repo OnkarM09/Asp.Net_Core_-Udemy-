@@ -63,3 +63,16 @@ C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. En
 C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore\obj\Debug\net6.0\15. EntityFramerworkCore.genruntimeconfig.cache
 C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore\obj\Debug\net6.0\ref\15. EntityFramerworkCore.dll
 C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore\bin\Debug\net6.0\job-details.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore\bin\Debug\net6.0\Rotativa.AspNetCore.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore\obj\Debug\net6.0\15. EntityFramerworkCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore\bin\Debug\net6.0\15. EntityFramerworkCore.staticwebassets.runtime.json

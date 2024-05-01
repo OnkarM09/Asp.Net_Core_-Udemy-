@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "4I2TZaUCqxpm1YkT6rQQUTxihegaDLNTz14YEfawWAM=",
+  "Hash": "RfwvzZggAfEOQc0IoqHEwT0tKAHLNfDocOYIcuwPQDA=",
   "Source": "15. EntityFramerworkCore",
   "BasePath": "_content/15. EntityFramerworkCore",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "15. EntityFramerworkCore\\wwwroot",
+      "Source": "15. EntityFramerworkCore",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\wwwroot\\",
+      "BasePath": "_content/15. EntityFramerworkCore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "SourceId": "15. EntityFramerworkCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\wwwroot\\",
+      "BasePath": "_content/15. EntityFramerworkCore",
+      "RelativePath": "Rotativa/wkhtmltopdf.exe",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Rotativa\\wkhtmltopdf.exe"
+    }
+  ]
 }
