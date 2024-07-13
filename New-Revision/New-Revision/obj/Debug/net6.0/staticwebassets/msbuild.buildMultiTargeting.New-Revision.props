@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\New-Revision.props" />
+</Project>

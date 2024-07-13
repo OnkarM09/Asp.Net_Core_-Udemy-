@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\4.1 IActionResult Example\\4.1 IActionResult Example\\4.1 IActionResult Example.csproj": {}
+    "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\4.1 IActionResult Example\\4.1 IActionResult Example\\4.1 IActionResult Example.csproj": {}
   },
   "projects": {
-    "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\4.1 IActionResult Example\\4.1 IActionResult Example\\4.1 IActionResult Example.csproj": {
+    "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\4.1 IActionResult Example\\4.1 IActionResult Example\\4.1 IActionResult Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\4.1 IActionResult Example\\4.1 IActionResult Example\\4.1 IActionResult Example.csproj",
+        "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\4.1 IActionResult Example\\4.1 IActionResult Example\\4.1 IActionResult Example.csproj",
         "projectName": "4.1 IActionResult Example",
-        "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\4.1 IActionResult Example\\4.1 IActionResult Example\\4.1 IActionResult Example.csproj",
+        "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\4.1 IActionResult Example\\4.1 IActionResult Example\\4.1 IActionResult Example.csproj",
         "packagesPath": "C:\\Users\\OnkarMeherwade\\.nuget\\packages\\",
-        "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\4.1 IActionResult Example\\4.1 IActionResult Example\\obj\\",
+        "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\4.1 IActionResult Example\\4.1 IActionResult Example\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OnkarMeherwade\\AppData\\Roaming\\NuGet\\NuGet.Config",

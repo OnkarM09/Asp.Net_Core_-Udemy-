@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "nz02UxcJLc/GS1x/CPhxaE/mSzFUaeb8UgGhUd2DTCs=",
+  "Source": "New-Revision",
+  "BasePath": "_content/New-Revision",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "New-Revision\\wwwroot",
+      "Source": "New-Revision",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\wwwroot\\",
+      "BasePath": "_content/New-Revision",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\wwwroot\\css\\StyleSheet.css",
+      "SourceId": "New-Revision",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\wwwroot\\",
+      "BasePath": "_content/New-Revision",
+      "RelativePath": "css/StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
+    }
+  ]
+}

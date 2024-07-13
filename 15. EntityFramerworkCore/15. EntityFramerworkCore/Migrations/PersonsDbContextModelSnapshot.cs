@@ -84,11 +84,8 @@ namespace _15._EntityFramerworkCore.Migrations
                         .HasColumnType("Male")
                         .HasColumnName("PersonGender");
 
-                    b.Property<string>("JobDetailsJobTitle")
-                        .HasColumnType("nvarchar(450)");
-
                     b.Property<string>("JobTitle")
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Name")
                         .HasMaxLength(40)
@@ -96,7 +93,7 @@ namespace _15._EntityFramerworkCore.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("JobDetailsJobTitle");
+                    b.HasIndex("JobTitle");
 
                     b.ToTable("Persons", (string)null);
 
@@ -124,10 +121,15 @@ namespace _15._EntityFramerworkCore.Migrations
             modelBuilder.Entity("_15._EntityFramerworkCore.Models.Person", b =>
                 {
                     b.HasOne("_15._EntityFramerworkCore.Models.JobDetails", "JobDetails")
-                        .WithMany()
-                        .HasForeignKey("JobDetailsJobTitle");
+                        .WithMany("Persons")
+                        .HasForeignKey("JobTitle");
 
                     b.Navigation("JobDetails");
+                });
+
+            modelBuilder.Entity("_15._EntityFramerworkCore.Models.JobDetails", b =>
+                {
+                    b.Navigation("Persons");
                 });
 #pragma warning restore 612, 618
         }

@@ -1,10 +1,22 @@
-﻿using _15._EntityFramerworkCore.Models;
+﻿using _15._EntityFramerworkCore.Filters;
+using _15._EntityFramerworkCore.Filters.ActionFilters;
+using _15._EntityFramerworkCore.Filters.AuthorizationFilters;
+using _15._EntityFramerworkCore.Filters.ExceptionFilters;
+using _15._EntityFramerworkCore.Filters.ResourceFilters;
+using _15._EntityFramerworkCore.Filters.ResultFilters;
+using _15._EntityFramerworkCore.Models;
 using _15._EntityFramerworkCore.Services;
 using Microsoft.AspNetCore.Mvc;
 using Rotativa.AspNetCore;
+using System.Reflection;
 
 namespace _15._EntityFramerworkCore.Controllers
 {
+    //[TypeFilter(typeof(ResponseHeaderActionFilter), Arguments = new object[] { "my-controller-key", "my-controller-value", 3 })]  //Class level filter
+ //   [TypeFilter(typeof(TokenResultFilter))]
+  //  [TypeFilter(typeof(HandleExceptionFilter))]
+  //  [TypeFilter(typeof(PersonsAlwaysRunResultFilter))]
+  //  [SkipFilter]
     public class PersonsController : Controller
     {
 
@@ -16,6 +28,9 @@ namespace _15._EntityFramerworkCore.Controllers
         }
 
         [Route("/")]
+        // [TypeFilter(typeof(ResponseHeaderActionFilter), Arguments = new object[] { "my-action-key", "my-action-value", 1 })]   // Arguments for action filter and Reusable (parameterized) filter  and action level filter
+        //[ServiceFilter(typeof(PersonsListResultFilter))]
+        [ResponseHeaderActionFilter("my-action-key", "my-action-value", 1)]
         public async Task<IActionResult> Index()
         {
             List<Person> persons = await _personService.GetPersons();
@@ -24,6 +39,7 @@ namespace _15._EntityFramerworkCore.Controllers
 
         [Route("[action]")]
         [HttpPost]
+        [TypeFilter(typeof(FeaturesDisabledResourceFilter))]
         public async Task<IActionResult> CreatePerson(Person person)
         {
             await _personService.AddPersonToDb(person);
@@ -37,6 +53,8 @@ namespace _15._EntityFramerworkCore.Controllers
         }
 
         [Route("[action]/{Id}")]
+        [TypeFilter(typeof(PersonsListActionFilter))] //This will create an object of personslistactionfilter and attach it to this action
+        [TypeFilter(typeof(TokenAutorizationFilter))]
         public async Task<IActionResult> EditPerson(int Id)
         {
             if (Id == null)
@@ -56,7 +74,10 @@ namespace _15._EntityFramerworkCore.Controllers
             {
                 PageMargins = new Rotativa.AspNetCore.Options.Margins()
                 {
-                    Top =20, Right =20, Bottom =20, Left =20
+                    Top = 20,
+                    Right = 20,
+                    Bottom = 20,
+                    Left = 20
                 },
                 PageOrientation = Rotativa.AspNetCore.Options.Orientation.Landscape
             };

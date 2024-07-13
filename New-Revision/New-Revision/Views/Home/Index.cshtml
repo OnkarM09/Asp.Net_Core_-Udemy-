@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+@model IEnumerable<Hero>
+
+
+<table class="heroes-table highlight z-depth-3">
+    <thead>
+        <tr>
+            <th>Rank</th>
+            <th>Hero Name</th>
+            <th>Super Power</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (Hero hero in Model)
+        {
+            <tr>
+                <td>@hero.Rank</td>
+                <td>@hero.Name</td>
+                <td>@hero.Power</td>
+                <td>
+                    <a class="btn-small btn-floating waves-effect waves-light red" asp-controller="Home" asp-action="GetHeroById" asp-route-Id="@hero.Id"> <i class="tiny material-icons">create</i></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

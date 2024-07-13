@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.New-Revision.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.New-Revision.props",
+      "PackagePath": "build\\New-Revision.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.New-Revision.props",
+      "PackagePath": "buildMultiTargeting\\New-Revision.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.New-Revision.props",
+      "PackagePath": "buildTransitive\\New-Revision.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

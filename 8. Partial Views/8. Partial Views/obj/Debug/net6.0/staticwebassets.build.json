@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yWOeFIX/QjcoWz8wFfX4hdyVgyFXbhghGQ42I9R4S8c=",
+  "Hash": "680ROPT+A2FTXbo7sd6LudT83C/C4r7EvvLb0m4WjMY=",
   "Source": "8. Partial Views",
   "BasePath": "_content/8. Partial Views",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "8. Partial Views\\wwwroot",
       "Source": "8. Partial Views",
-      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\8. Partial Views\\8. Partial Views\\wwwroot\\",
+      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\8. Partial Views\\8. Partial Views\\wwwroot\\",
       "BasePath": "_content/8. Partial Views",
       "Pattern": "**"
     }
