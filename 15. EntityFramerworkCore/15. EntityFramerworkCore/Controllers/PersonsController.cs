@@ -21,10 +21,13 @@ namespace _15._EntityFramerworkCore.Controllers
     {
 
         private readonly IPersonService _personService;
+        private readonly IPersonAdderService _personAdderService;
+        private readonly IPersonGetterService _personGetterService;
 
-        public PersonsController(IPersonService personService)
+        public PersonsController(IPersonAdderService personAdderService, IPersonGetterService personGetterService)
         {
-            _personService = personService;
+            _personAdderService = personAdderService;
+            _personGetterService = personGetterService; 
         }
 
         [Route("/")]
@@ -33,7 +36,7 @@ namespace _15._EntityFramerworkCore.Controllers
         [ResponseHeaderActionFilter("my-action-key", "my-action-value", 1)]
         public async Task<IActionResult> Index()
         {
-            List<Person> persons = await _personService.GetPersons();
+            List<Person> persons = await _personGetterService.GetPersons();
             return View(persons);
         }
 
@@ -42,7 +45,7 @@ namespace _15._EntityFramerworkCore.Controllers
         [TypeFilter(typeof(FeaturesDisabledResourceFilter))]
         public async Task<IActionResult> CreatePerson(Person person)
         {
-            await _personService.AddPersonToDb(person);
+            await _personAdderService.AddPersonToDb(person);
             return RedirectToAction("Index");
         }
 
@@ -61,7 +64,7 @@ namespace _15._EntityFramerworkCore.Controllers
             {
                 return Content("Person cannot be null");
             }
-            Person p1 = await _personService.GetPersonById(Id);
+            Person p1 = await _personGetterService.GetPersonById(Id);
             return View(p1);
         }
 
@@ -69,7 +72,7 @@ namespace _15._EntityFramerworkCore.Controllers
         public async Task<IActionResult> PersonsPDF()
         {
             //Get list of persons
-            List<Person> persons = await _personService.GetPersons();
+            List<Person> persons = await _personGetterService.GetPersons();
             return new ViewAsPdf("PersonsPDF", persons, ViewData)
             {
                 PageMargins = new Rotativa.AspNetCore.Options.Margins()
@@ -86,14 +89,14 @@ namespace _15._EntityFramerworkCore.Controllers
         [Route("PersonsCSV")]
         public async Task<IActionResult> PersonsCSV()
         {
-            MemoryStream memoryStream = await _personService.GerPersonCSV();
+            MemoryStream memoryStream = await _personGetterService.GerPersonCSV();
             return File(memoryStream, "application/octet-stream", "persons.csv");
         }
 
         [Route("PersonsExcel")]
         public async Task<IActionResult> PersonsExcel()
         {
-            MemoryStream memoryStream = await _personService.GerPersonExcel();
+            MemoryStream memoryStream = await _personGetterService.GerPersonExcel();
             return File(memoryStream, "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "persons.xlsx");
         }
     }

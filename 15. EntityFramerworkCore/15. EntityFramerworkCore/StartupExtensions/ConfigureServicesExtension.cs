@@ -20,6 +20,10 @@ namespace _15._EntityFramerworkCore
                 options.Filters.Add(new ResponseHeaderActionFilter("my-global-key", "my-global-value", 2));
             });
             services.AddTransient<IPersonService, PersonService>();
+            services.AddTransient<IPersonAdderService, PersonAdderService>();
+            services.AddTransient<IPersonAdderService, PersonsAdderServiceChild>();
+            services.AddTransient<IPersonGetterService, PersonGetterService>();
+            services.AddTransient<IPersonGetterService, PersonsGetterServiceWithFiewExcelFields>();
             services.AddTransient<PersonsListResultFilter>();
             services.AddDbContext<PersonsDbContext>(options =>
             {
