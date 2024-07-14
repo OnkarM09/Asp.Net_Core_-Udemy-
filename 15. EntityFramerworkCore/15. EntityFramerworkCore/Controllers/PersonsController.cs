@@ -53,8 +53,8 @@ namespace _15._EntityFramerworkCore.Controllers
         }
 
         [Route("[action]/{Id}")]
-        [TypeFilter(typeof(PersonsListActionFilter))] //This will create an object of personslistactionfilter and attach it to this action
-        [TypeFilter(typeof(TokenAutorizationFilter))]
+        //[TypeFilter(typeof(PersonsListActionFilter))] //This will create an object of personslistactionfilter and attach it to this action
+       // [TypeFilter(typeof(TokenAutorizationFilter))]
         public async Task<IActionResult> EditPerson(int Id)
         {
             if (Id == null)
