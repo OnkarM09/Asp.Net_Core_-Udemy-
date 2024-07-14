@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\15. EntityFramerworkCore\15. EntityFramerworkCore
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Onkar/Onkar/Dot net core/Asp.Net_Core_-Udemy-/15. EntityFramerworkCore/15. EntityFramerworkCore/Views/Home/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Onkar/Onkar/Dot net core/Asp.Net_Core_-Udemy-/15. EntityFramerworkCore/15. EntityFramerworkCore/Views/Persons/CreatePersonForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uc1xDcmVhdGVQZXJzb25Gb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

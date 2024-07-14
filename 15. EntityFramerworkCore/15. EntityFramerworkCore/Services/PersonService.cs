@@ -26,6 +26,10 @@ namespace _15._EntityFramerworkCore.Services
         public async Task<Person?> GetPersonById(int id)
         {
             Person? person = await _db.Persons.Where(person => person.Id == id).FirstOrDefaultAsync();
+            if(person == null)
+            {
+                throw new InvalidProgramException("Person does not exist");
+            }
             return person;
         }
         public async Task AddPersonToDb(Person person)
