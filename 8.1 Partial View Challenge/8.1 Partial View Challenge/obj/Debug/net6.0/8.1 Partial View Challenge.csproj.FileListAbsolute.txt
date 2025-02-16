@@ -26,3 +26,36 @@ C:\Onkar\Onkar\Dot net core\Udemy Dot net core\8.1 Partial View Challenge\8.1 Pa
 C:\Onkar\Onkar\Dot net core\Udemy Dot net core\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\8.1 Partial View Challenge.pdb
 C:\Onkar\Onkar\Dot net core\Udemy Dot net core\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\8.1 Partial View Challenge.genruntimeconfig.cache
 C:\Onkar\Onkar\Dot net core\Udemy Dot net core\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\ref\8.1 Partial View Challenge.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\bin\Debug\net6.0\appsettings.Development.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\bin\Debug\net6.0\appsettings.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\bin\Debug\net6.0\8.1 Partial View Challenge.staticwebassets.runtime.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\bin\Debug\net6.0\8.1 Partial View Challenge.staticwebassets.endpoints.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\bin\Debug\net6.0\8.1 Partial View Challenge.exe
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\bin\Debug\net6.0\8.1 Partial View Challenge.deps.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\bin\Debug\net6.0\8.1 Partial View Challenge.runtimeconfig.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\bin\Debug\net6.0\8.1 Partial View Challenge.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\bin\Debug\net6.0\8.1 Partial View Challenge.pdb
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\8.1 Partial View Challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\8.1 Partial View Challenge.AssemblyInfoInputs.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\8.1 Partial View Challenge.AssemblyInfo.cs
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\8.1 Partial View Challenge.csproj.CoreCompileInputs.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\8.1 Partial View Challenge.MvcApplicationPartsAssemblyInfo.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\8.1 Partial View Challenge.RazorAssemblyInfo.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\8.1 Partial View Challenge.RazorAssemblyInfo.cs
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\8.1 Partial View Challenge.sourcelink.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\scopedcss\bundle\8.1 Partial View Challenge.styles.css
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\staticwebassets\msbuild.8.1 Partial View Challenge.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\staticwebassets\msbuild.8.1 Partial View Challenge.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\staticwebassets\msbuild.build.8.1 Partial View Challenge.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.8.1 Partial View Challenge.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.8.1 Partial View Challenge.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\8.1 Partial View Challenge.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\refint\8.1 Partial View Challenge.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\8.1 Partial View Challenge.pdb
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\8.1 Partial View Challenge.genruntimeconfig.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\8.1 Partial View Challenge\8.1 Partial View Challenge\obj\Debug\net6.0\ref\8.1 Partial View Challenge.dll

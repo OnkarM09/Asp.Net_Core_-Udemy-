@@ -16,7 +16,10 @@
       },
       "ServiceContracts/1.0.0": {
         "runtime": {
-          "ServiceContracts.dll": {}
+          "ServiceContracts.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

@@ -23,3 +23,33 @@ C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\obj
 C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\obj\Debug\net6.0\Emptry Project.pdb
 C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\obj\Debug\net6.0\Emptry Project.genruntimeconfig.cache
 C:\Onkar\Onkar\Dot net core\Udemy Dot net core\Emptry Project\Emptry Project\obj\Debug\net6.0\ref\Emptry Project.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\bin\Debug\net6.0\appsettings.Development.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\bin\Debug\net6.0\appsettings.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\bin\Debug\net6.0\Emptry Project.staticwebassets.endpoints.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\bin\Debug\net6.0\Emptry Project.exe
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\bin\Debug\net6.0\Emptry Project.deps.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\bin\Debug\net6.0\Emptry Project.runtimeconfig.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\bin\Debug\net6.0\Emptry Project.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\bin\Debug\net6.0\Emptry Project.pdb
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\obj\Debug\net6.0\Emptry Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\obj\Debug\net6.0\Emptry Project.AssemblyInfoInputs.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\obj\Debug\net6.0\Emptry Project.AssemblyInfo.cs
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\obj\Debug\net6.0\Emptry Project.csproj.CoreCompileInputs.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\obj\Debug\net6.0\Emptry Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\obj\Debug\net6.0\Emptry Project.sourcelink.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\obj\Debug\net6.0\scopedcss\bundle\Emptry Project.styles.css
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\obj\Debug\net6.0\staticwebassets\msbuild.Emptry Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\obj\Debug\net6.0\staticwebassets\msbuild.Emptry Project.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Emptry Project.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Emptry Project.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Emptry Project.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\obj\Debug\net6.0\Emptry Project.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\obj\Debug\net6.0\refint\Emptry Project.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\obj\Debug\net6.0\Emptry Project.pdb
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\obj\Debug\net6.0\Emptry Project.genruntimeconfig.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\1. Intro and Http (HttpContext)\Emptry Project\obj\Debug\net6.0\ref\Emptry Project.dll

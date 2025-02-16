@@ -9,33 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _9._1_View_Component_Challenge
 build_property.RootNamespace = _9._1_View_Component_Challenge
-build_property.ProjectDir = C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge\
+build_property.ProjectDir = D:\Dot net core\Asp.Net_Core_-Udemy-\9.1 View Component Challenge\9.1 View Component Challenge\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Onkar\Onkar\Dot net core\Udemy Dot net core\9.1 View Component Challenge\9.1 View Component Challenge
+build_property.MSBuildProjectDirectory = D:\Dot net core\Asp.Net_Core_-Udemy-\9.1 View Component Challenge\9.1 View Component Challenge
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
 
-[C:/Onkar/Onkar/Dot net core/Udemy Dot net core/9.1 View Component Challenge/9.1 View Component Challenge/Views/Shared/Components/Weather/Default.cshtml]
+[D:/Dot net core/Asp.Net_Core_-Udemy-/9.1 View Component Challenge/9.1 View Component Challenge/Views/Shared/Components/Weather/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcV2VhdGhlclxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Onkar/Onkar/Dot net core/Udemy Dot net core/9.1 View Component Challenge/9.1 View Component Challenge/Views/Shared/_Layout.cshtml]
+[D:/Dot net core/Asp.Net_Core_-Udemy-/9.1 View Component Challenge/9.1 View Component Challenge/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Onkar/Onkar/Dot net core/Udemy Dot net core/9.1 View Component Challenge/9.1 View Component Challenge/Views/Weather/Index.cshtml]
+[D:/Dot net core/Asp.Net_Core_-Udemy-/9.1 View Component Challenge/9.1 View Component Challenge/Views/Weather/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VhdGhlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Onkar/Onkar/Dot net core/Udemy Dot net core/9.1 View Component Challenge/9.1 View Component Challenge/Views/Weather/WeatherDeatils.cshtml]
+[D:/Dot net core/Asp.Net_Core_-Udemy-/9.1 View Component Challenge/9.1 View Component Challenge/Views/Weather/WeatherDeatils.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VhdGhlclxXZWF0aGVyRGVhdGlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Onkar/Onkar/Dot net core/Udemy Dot net core/9.1 View Component Challenge/9.1 View Component Challenge/Views/_ViewImports.cshtml]
+[D:/Dot net core/Asp.Net_Core_-Udemy-/9.1 View Component Challenge/9.1 View Component Challenge/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Onkar/Onkar/Dot net core/Udemy Dot net core/9.1 View Component Challenge/9.1 View Component Challenge/Views/_ViewStart.cshtml]
+[D:/Dot net core/Asp.Net_Core_-Udemy-/9.1 View Component Challenge/9.1 View Component Challenge/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

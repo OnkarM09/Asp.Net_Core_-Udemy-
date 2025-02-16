@@ -1,4 +1,4 @@
-﻿using _15._EntityFramerworkCore.Models;
+﻿/*using _15._EntityFramerworkCore.Models;
 using OfficeOpenXml;
 
 namespace _15._EntityFramerworkCore.Services
@@ -62,3 +62,4 @@ namespace _15._EntityFramerworkCore.Services
         }
     }
 }
+*/

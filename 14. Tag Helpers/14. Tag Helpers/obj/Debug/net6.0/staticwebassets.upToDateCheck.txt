@@ -1,0 +1,2 @@
+wwwroot\asp-logo.png
+wwwroot\jquery-min.js

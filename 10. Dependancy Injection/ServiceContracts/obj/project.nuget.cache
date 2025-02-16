@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sNq+P6v3+bm8vZSCkg0bJl9ChcNqfaEdxYgnfMdsMjfJ+CP7nRl3QDnyN4+Sz9WzJ9/J0sUNuRJisL5T3xaJAw==",
+  "dgSpecHash": "HMKy61b5lko=",
   "success": true,
-  "projectFilePath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\10. Dependancy Injection\\ServiceContracts\\ServiceContracts.csproj",
+  "projectFilePath": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\10. Dependancy Injection\\ServiceContracts\\ServiceContracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

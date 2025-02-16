@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Q9Fhp3MAfIfWFZj2iXtL8mdcHlp2KWwIAlnGUB9Moas=",
+  "Hash": "qRZi0P+T56/tM+HSQp1ovsbws6rAv8Du3IF6XMeWmP8=",
   "Source": "10. Dependancy Injection",
   "BasePath": "_content/10. Dependancy Injection",
   "Mode": "Default",
@@ -10,10 +10,11 @@
     {
       "Name": "10. Dependancy Injection\\wwwroot",
       "Source": "10. Dependancy Injection",
-      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\10. Dependancy Injection\\10. Dependancy Injection\\wwwroot\\",
+      "ContentRoot": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\10. Dependancy Injection\\10. Dependancy Injection\\wwwroot\\",
       "BasePath": "_content/10. Dependancy Injection",
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

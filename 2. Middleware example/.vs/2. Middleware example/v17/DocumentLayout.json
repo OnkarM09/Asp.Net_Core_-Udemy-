@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\2. Middleware example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C90406DC-CF09-4757-A320-E86641F66B85}|2. Middleware example\\2. Middleware example.csproj|d:\\dot net core\\asp.net_core_-udemy-\\2. middleware example\\2. middleware example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90406DC-CF09-4757-A320-E86641F66B85}|2. Middleware example\\2. Middleware example.csproj|solutionrelative:2. middleware example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90406DC-CF09-4757-A320-E86641F66B85}|2. Middleware example\\2. Middleware example.csproj|d:\\dot net core\\asp.net_core_-udemy-\\2. middleware example\\2. middleware example\\custommiddleware\\custmiddleware1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90406DC-CF09-4757-A320-E86641F66B85}|2. Middleware example\\2. Middleware example.csproj|solutionrelative:2. middleware example\\custommiddleware\\custmiddleware1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90406DC-CF09-4757-A320-E86641F66B85}|2. Middleware example\\2. Middleware example.csproj|d:\\dot net core\\asp.net_core_-udemy-\\2. middleware example\\2. middleware example\\custommiddleware\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C90406DC-CF09-4757-A320-E86641F66B85}|2. Middleware example\\2. Middleware example.csproj|solutionrelative:2. middleware example\\custommiddleware\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 218,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyCustomMiddleware.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\2. Middleware example\\2. Middleware example\\CustomMiddleware\\MyCustomMiddleware.cs",
+              "RelativeDocumentMoniker": "2. Middleware example\\CustomMiddleware\\MyCustomMiddleware.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\2. Middleware example\\2. Middleware example\\CustomMiddleware\\MyCustomMiddleware.cs",
+              "RelativeToolTip": "2. Middleware example\\CustomMiddleware\\MyCustomMiddleware.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T07:56:09.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustMiddleware1.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\2. Middleware example\\2. Middleware example\\CustomMiddleware\\CustMiddleware1.cs",
+              "RelativeDocumentMoniker": "2. Middleware example\\CustomMiddleware\\CustMiddleware1.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\2. Middleware example\\2. Middleware example\\CustomMiddleware\\CustMiddleware1.cs",
+              "RelativeToolTip": "2. Middleware example\\CustomMiddleware\\CustMiddleware1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T07:56:10.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\2. Middleware example\\2. Middleware example\\Program.cs",
+              "RelativeDocumentMoniker": "2. Middleware example\\Program.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\2. Middleware example\\2. Middleware example\\Program.cs",
+              "RelativeToolTip": "2. Middleware example\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T07:56:10.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

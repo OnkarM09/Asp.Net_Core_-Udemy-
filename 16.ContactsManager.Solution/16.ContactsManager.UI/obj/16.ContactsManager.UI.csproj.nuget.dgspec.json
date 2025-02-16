@@ -1,0 +1,235 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\16.ContactsManager.Solution\\16.ContactsManager.UI\\16.ContactsManager.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\16.ContactsManager.Solution\\16.ContactsManager.Infrastructure\\16.ContactsManager.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\16.ContactsManager.Solution\\16.ContactsManager.Infrastructure\\16.ContactsManager.Infrastructure.csproj",
+        "projectName": "16.ContactsManager.Infrastructure",
+        "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\16.ContactsManager.Solution\\16.ContactsManager.Infrastructure\\16.ContactsManager.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\OnkarMeherwade\\.nuget\\packages\\",
+        "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\16.ContactsManager.Solution\\16.ContactsManager.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\OnkarMeherwade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\16.ContactsManager.Solution\\16.ContactsManger.Core\\16.ContactsManger.Core.csproj": {
+                "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\16.ContactsManager.Solution\\16.ContactsManger.Core\\16.ContactsManger.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.32, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\16.ContactsManager.Solution\\16.ContactsManager.UI\\16.ContactsManager.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\16.ContactsManager.Solution\\16.ContactsManager.UI\\16.ContactsManager.UI.csproj",
+        "projectName": "16.ContactsManager.UI",
+        "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\16.ContactsManager.Solution\\16.ContactsManager.UI\\16.ContactsManager.UI.csproj",
+        "packagesPath": "C:\\Users\\OnkarMeherwade\\.nuget\\packages\\",
+        "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\16.ContactsManager.Solution\\16.ContactsManager.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\OnkarMeherwade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\16.ContactsManager.Solution\\16.ContactsManager.Infrastructure\\16.ContactsManager.Infrastructure.csproj": {
+                "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\16.ContactsManager.Solution\\16.ContactsManager.Infrastructure\\16.ContactsManager.Infrastructure.csproj"
+              },
+              "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\16.ContactsManager.Solution\\16.ContactsManger.Core\\16.ContactsManger.Core.csproj": {
+                "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\16.ContactsManager.Solution\\16.ContactsManger.Core\\16.ContactsManger.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.32, )"
+            },
+            "Rotativa.AspNetCore": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\16.ContactsManager.Solution\\16.ContactsManger.Core\\16.ContactsManger.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\16.ContactsManager.Solution\\16.ContactsManger.Core\\16.ContactsManger.Core.csproj",
+        "projectName": "16.ContactsManger.Core",
+        "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\16.ContactsManager.Solution\\16.ContactsManger.Core\\16.ContactsManger.Core.csproj",
+        "packagesPath": "C:\\Users\\OnkarMeherwade\\.nuget\\packages\\",
+        "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\16.ContactsManager.Solution\\16.ContactsManger.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\OnkarMeherwade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[28.0.1, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.AspNetCore.Mvc.DataAnnotations": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

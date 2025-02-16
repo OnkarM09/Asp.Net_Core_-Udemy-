@@ -1,30 +1,16 @@
-﻿@{
-    ViewData["Title"] = "Home";
+﻿@using New_Revision.Models;
+@model List<Hero>
+
+@{
+    ViewData["Title"] = "Home from layout ";
 }
-@model IEnumerable<Hero>
 
+<a class="waves-effect waves-light btn" href="/create/hero">Add Hero</a>
+<ul class="collection">
+    @foreach (Hero hero in Model)
+    {
+        @* await Html.RenderPartialAsync("_GetPersonPartial", person); *@
+        <li class="collection-item">@hero.Name</li>
 
-<table class="heroes-table highlight z-depth-3">
-    <thead>
-        <tr>
-            <th>Rank</th>
-            <th>Hero Name</th>
-            <th>Super Power</th>
-            <th>&nbsp;</th>
-        </tr>
-    </thead>
-
-    <tbody>
-        @foreach (Hero hero in Model)
-        {
-            <tr>
-                <td>@hero.Rank</td>
-                <td>@hero.Name</td>
-                <td>@hero.Power</td>
-                <td>
-                    <a class="btn-small btn-floating waves-effect waves-light red" asp-controller="Home" asp-action="GetHeroById" asp-route-Id="@hero.Id"> <i class="tiny material-icons">create</i></a>
-                </td>
-            </tr>
-        }
-    </tbody>
-</table>
+    }
+</ul>

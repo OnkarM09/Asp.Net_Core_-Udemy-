@@ -26,3 +26,36 @@ C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net
 C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net6.0\7. Layout.pdb
 C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net6.0\7. Layout.genruntimeconfig.cache
 C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7. Layout\7. Layout\obj\Debug\net6.0\ref\7. Layout.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\bin\Debug\net6.0\appsettings.Development.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\bin\Debug\net6.0\appsettings.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\bin\Debug\net6.0\7. Layout.staticwebassets.runtime.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\bin\Debug\net6.0\7. Layout.staticwebassets.endpoints.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\bin\Debug\net6.0\7. Layout.exe
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\bin\Debug\net6.0\7. Layout.deps.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\bin\Debug\net6.0\7. Layout.runtimeconfig.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\bin\Debug\net6.0\7. Layout.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\bin\Debug\net6.0\7. Layout.pdb
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\7. Layout.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\7. Layout.AssemblyInfoInputs.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\7. Layout.AssemblyInfo.cs
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\7. Layout.csproj.CoreCompileInputs.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\7. Layout.MvcApplicationPartsAssemblyInfo.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\7. Layout.RazorAssemblyInfo.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\7. Layout.RazorAssemblyInfo.cs
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\7. Layout.sourcelink.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\scopedcss\bundle\7. Layout.styles.css
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\staticwebassets\msbuild.7. Layout.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\staticwebassets\msbuild.7. Layout.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\staticwebassets\msbuild.build.7. Layout.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.7. Layout.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.7. Layout.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\7. Layout.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\refint\7. Layout.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\7. Layout.pdb
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\7. Layout.genruntimeconfig.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\7. Layout\7. Layout\obj\Debug\net6.0\ref\7. Layout.dll

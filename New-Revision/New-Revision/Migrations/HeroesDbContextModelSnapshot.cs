@@ -42,13 +42,7 @@ namespace New_Revision.Migrations
                     b.Property<int>("Rank")
                         .HasColumnType("int");
 
-                    b.Property<string>("Title")
-                        .HasMaxLength(40)
-                        .HasColumnType("nvarchar(40)");
-
                     b.HasKey("Id");
-
-                    b.HasIndex("Title");
 
                     b.ToTable("Heroes", (string)null);
 
@@ -58,39 +52,32 @@ namespace New_Revision.Migrations
                             Id = 1,
                             Name = "Ironman",
                             Power = "Rich",
-                            Rank = 1,
-                            Title = "Ironman"
+                            Rank = 1
                         });
                 });
 
             modelBuilder.Entity("New_Revision.Models.Movie", b =>
                 {
+                    b.Property<int>("MovieId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("MovieId"), 1L, 1);
+
                     b.Property<string>("Title")
                         .HasMaxLength(40)
                         .HasColumnType("nvarchar(40)");
 
-                    b.Property<int>("MovieId")
-                        .HasColumnType("int");
-
-                    b.HasKey("Title");
+                    b.HasKey("MovieId");
 
                     b.ToTable("Movies", (string)null);
 
                     b.HasData(
                         new
                         {
-                            Title = "Ironman",
-                            MovieId = 1
+                            MovieId = 1,
+                            Title = "Ironman"
                         });
-                });
-
-            modelBuilder.Entity("New_Revision.Models.Hero", b =>
-                {
-                    b.HasOne("New_Revision.Models.Movie", "Movie")
-                        .WithMany()
-                        .HasForeignKey("Title");
-
-                    b.Navigation("Movie");
                 });
 #pragma warning restore 612, 618
         }

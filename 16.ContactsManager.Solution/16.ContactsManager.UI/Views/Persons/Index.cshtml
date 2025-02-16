@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Person>
+@{
+    ViewBag.Title = "Persons";
+}
+
+<a class="btn btn-primary mb-3 mt-2" asp-controller="Persons" asp-action="PersonsPDF">Get PDF</a>
+<a class="btn btn-primary mb-3 mt-2" asp-controller="Persons" asp-action="PersonsCSV">Get CSV</a>
+<a class="btn btn-primary mb-3 mt-2" asp-controller="Persons" asp-action="PersonsExcel">Get Excel</a>
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Job Title</th>
+            <th>Age</th>
+            <th>Date of Birth</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Person person in Model)
+        {
+            <tr>
+                <td>@person.Id</td>
+                <td>@person.Name</td>
+                <td>@person.Email</td>
+                <td>@person.JobTitle</td>
+                <td>@person.Age</td>
+                <td>@person.BirthDate.ToString("dd/MMM/yyyy").Replace("-","/") </td>
+                <td>
+                    <a class="btn btn-primary" asp-controller="Persons" asp-action="EditPerson" asp-route-Id="@person.Id">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

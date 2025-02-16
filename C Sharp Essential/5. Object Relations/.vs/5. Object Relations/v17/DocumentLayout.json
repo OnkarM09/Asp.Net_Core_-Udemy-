@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\5. Object Relations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC6528E-90E9-42A8-8CA4-4F224ACED6C3}|5. Object Relations\\5. Object Relations.csproj|d:\\dot net core\\asp.net_core_-udemy-\\c sharp essential\\5. object relations\\5. object relations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC6528E-90E9-42A8-8CA4-4F224ACED6C3}|5. Object Relations\\5. Object Relations.csproj|solutionrelative:5. object relations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7488EB77-8D2D-4680-94E5-49FFEE4C49AF}|ClassLibrary1\\ClassLibrary1.csproj|d:\\dot net core\\asp.net_core_-udemy-\\c sharp essential\\5. object relations\\classlibrary1\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7488EB77-8D2D-4680-94E5-49FFEE4C49AF}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7488EB77-8D2D-4680-94E5-49FFEE4C49AF}|ClassLibrary1\\ClassLibrary1.csproj|d:\\dot net core\\asp.net_core_-udemy-\\c sharp essential\\5. object relations\\classlibrary1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7488EB77-8D2D-4680-94E5-49FFEE4C49AF}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 218,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\5. Object Relations\\ClassLibrary1\\Branch.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Branch.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\5. Object Relations\\ClassLibrary1\\Branch.cs",
+              "RelativeToolTip": "ClassLibrary1\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:37:03.055Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\5. Object Relations\\ClassLibrary1\\Student.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Student.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\5. Object Relations\\ClassLibrary1\\Student.cs",
+              "RelativeToolTip": "ClassLibrary1\\Student.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:37:03.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\5. Object Relations\\5. Object Relations\\Program.cs",
+              "RelativeDocumentMoniker": "5. Object Relations\\Program.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\5. Object Relations\\5. Object Relations\\Program.cs",
+              "RelativeToolTip": "5. Object Relations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T06:37:03.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

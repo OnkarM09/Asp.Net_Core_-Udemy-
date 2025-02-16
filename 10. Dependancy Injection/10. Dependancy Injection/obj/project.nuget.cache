@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kSaxj27dSSSAn4hv+UuIftlBXx/DwzjBmMhEhxd+okxvA+Mv5sTq0/F08u5pA1/xDrQdqFWh7fztEBWBukfnag==",
+  "dgSpecHash": "H1XpAHyZ1n4=",
   "success": true,
-  "projectFilePath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\10. Dependancy Injection\\10. Dependancy Injection\\10. Dependancy Injection.csproj",
+  "projectFilePath": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\10. Dependancy Injection\\10. Dependancy Injection\\10. Dependancy Injection.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\OnkarMeherwade\\.nuget\\packages\\autofac\\6.5.0\\autofac.6.5.0.nupkg.sha512",
-    "C:\\Users\\OnkarMeherwade\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
-    "C:\\Users\\OnkarMeherwade\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\OnkarMeherwade\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+    "C:\\Users\\onkar\\.nuget\\packages\\autofac\\6.5.0\\autofac.6.5.0.nupkg.sha512",
+    "C:\\Users\\onkar\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
+    "C:\\Users\\onkar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\onkar\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

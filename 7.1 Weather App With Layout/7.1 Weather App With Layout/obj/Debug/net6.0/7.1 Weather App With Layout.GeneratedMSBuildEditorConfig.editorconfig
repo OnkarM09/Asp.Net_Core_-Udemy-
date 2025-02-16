@@ -9,29 +9,33 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _7._1_Weather_App_With_Layout
 build_property.RootNamespace = _7._1_Weather_App_With_Layout
-build_property.ProjectDir = C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7.1 Weather App With Layout\7.1 Weather App With Layout\
+build_property.ProjectDir = D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7.1 Weather App With Layout\7.1 Weather App With Layout
+build_property.MSBuildProjectDirectory = D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
 
-[C:/Onkar/Onkar/Dot net core/Udemy Dot net core/7.1 Weather App With Layout/7.1 Weather App With Layout/Views/Home/CityDetails.cshtml]
+[D:/Dot net core/Asp.Net_Core_-Udemy-/7.1 Weather App With Layout/7.1 Weather App With Layout/Views/Home/CityDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaXR5RGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Onkar/Onkar/Dot net core/Udemy Dot net core/7.1 Weather App With Layout/7.1 Weather App With Layout/Views/Home/Index.cshtml]
+[D:/Dot net core/Asp.Net_Core_-Udemy-/7.1 Weather App With Layout/7.1 Weather App With Layout/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Onkar/Onkar/Dot net core/Udemy Dot net core/7.1 Weather App With Layout/7.1 Weather App With Layout/Views/Shared/_Layout.cshtml]
+[D:/Dot net core/Asp.Net_Core_-Udemy-/7.1 Weather App With Layout/7.1 Weather App With Layout/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Onkar/Onkar/Dot net core/Udemy Dot net core/7.1 Weather App With Layout/7.1 Weather App With Layout/Views/_ViewImports.cshtml]
+[D:/Dot net core/Asp.Net_Core_-Udemy-/7.1 Weather App With Layout/7.1 Weather App With Layout/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Onkar/Onkar/Dot net core/Udemy Dot net core/7.1 Weather App With Layout/7.1 Weather App With Layout/Views/_ViewStart.cshtml]
+[D:/Dot net core/Asp.Net_Core_-Udemy-/7.1 Weather App With Layout/7.1 Weather App With Layout/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7. Layout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A69ED88B-CF29-4ACF-A513-8727C08DDFCB}|7. Layout\\7. Layout.csproj|d:\\dot net core\\asp.net_core_-udemy-\\7. layout\\7. layout\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A69ED88B-CF29-4ACF-A513-8727C08DDFCB}|7. Layout\\7. Layout.csproj|solutionrelative:7. layout\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69ED88B-CF29-4ACF-A513-8727C08DDFCB}|7. Layout\\7. Layout.csproj|d:\\dot net core\\asp.net_core_-udemy-\\7. layout\\7. layout\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A69ED88B-CF29-4ACF-A513-8727C08DDFCB}|7. Layout\\7. Layout.csproj|solutionrelative:7. layout\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69ED88B-CF29-4ACF-A513-8727C08DDFCB}|7. Layout\\7. Layout.csproj|d:\\dot net core\\asp.net_core_-udemy-\\7. layout\\7. layout\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A69ED88B-CF29-4ACF-A513-8727C08DDFCB}|7. Layout\\7. Layout.csproj|solutionrelative:7. layout\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69ED88B-CF29-4ACF-A513-8727C08DDFCB}|7. Layout\\7. Layout.csproj|d:\\dot net core\\asp.net_core_-udemy-\\7. layout\\7. layout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A69ED88B-CF29-4ACF-A513-8727C08DDFCB}|7. Layout\\7. Layout.csproj|solutionrelative:7. layout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69ED88B-CF29-4ACF-A513-8727C08DDFCB}|7. Layout\\7. Layout.csproj|d:\\dot net core\\asp.net_core_-udemy-\\7. layout\\7. layout\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69ED88B-CF29-4ACF-A513-8727C08DDFCB}|7. Layout\\7. Layout.csproj|solutionrelative:7. layout\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69ED88B-CF29-4ACF-A513-8727C08DDFCB}|7. Layout\\7. Layout.csproj|d:\\dot net core\\asp.net_core_-udemy-\\7. layout\\7. layout\\views\\shared\\_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A69ED88B-CF29-4ACF-A513-8727C08DDFCB}|7. Layout\\7. Layout.csproj|solutionrelative:7. layout\\views\\shared\\_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69ED88B-CF29-4ACF-A513-8727C08DDFCB}|7. Layout\\7. Layout.csproj|d:\\dot net core\\asp.net_core_-udemy-\\7. layout\\7. layout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A69ED88B-CF29-4ACF-A513-8727C08DDFCB}|7. Layout\\7. Layout.csproj|solutionrelative:7. layout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69ED88B-CF29-4ACF-A513-8727C08DDFCB}|7. Layout\\7. Layout.csproj|d:\\dot net core\\asp.net_core_-udemy-\\7. layout\\7. layout\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A69ED88B-CF29-4ACF-A513-8727C08DDFCB}|7. Layout\\7. Layout.csproj|solutionrelative:7. layout\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 218,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7. Layout\\7. Layout\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "7. Layout\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7. Layout\\7. Layout\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "7. Layout\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T04:24:18.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7. Layout\\7. Layout\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "7. Layout\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7. Layout\\7. Layout\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "7. Layout\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T04:24:17.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7. Layout\\7. Layout\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "7. Layout\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7. Layout\\7. Layout\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "7. Layout\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T04:24:00.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7. Layout\\7. Layout\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "7. Layout\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7. Layout\\7. Layout\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "7. Layout\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T04:23:49.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7. Layout\\7. Layout\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "7. Layout\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7. Layout\\7. Layout\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "7. Layout\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T04:23:31.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Product.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7. Layout\\7. Layout\\Views\\Shared\\_Product.cshtml",
+              "RelativeDocumentMoniker": "7. Layout\\Views\\Shared\\_Product.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7. Layout\\7. Layout\\Views\\Shared\\_Product.cshtml",
+              "RelativeToolTip": "7. Layout\\Views\\Shared\\_Product.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T04:23:19.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_MasterLayout.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7. Layout\\7. Layout\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeDocumentMoniker": "7. Layout\\Views\\Shared\\_MasterLayout.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7. Layout\\7. Layout\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeToolTip": "7. Layout\\Views\\Shared\\_MasterLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T04:22:20.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7. Layout\\7. Layout\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "7. Layout\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7. Layout\\7. Layout\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "7. Layout\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T04:21:46.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

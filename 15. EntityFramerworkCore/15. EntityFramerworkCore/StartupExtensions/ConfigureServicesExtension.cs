@@ -23,7 +23,7 @@ namespace _15._EntityFramerworkCore
             services.AddTransient<IPersonAdderService, PersonAdderService>();
             services.AddTransient<IPersonAdderService, PersonsAdderServiceChild>();
             services.AddTransient<IPersonGetterService, PersonGetterService>();
-            services.AddTransient<IPersonGetterService, PersonsGetterServiceWithFiewExcelFields>();
+            //services.AddTransient<IPersonGetterService, PersonsGetterServiceWithFiewExcelFields>();
             services.AddTransient<PersonsListResultFilter>();
             services.AddDbContext<PersonsDbContext>(options =>
             {

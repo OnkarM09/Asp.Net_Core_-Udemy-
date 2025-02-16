@@ -13,7 +13,6 @@ namespace New_Revision.Models
         [Required(ErrorMessage = "This field is required!")]
         [StringLength(40)]
         public string? Power { get; set; }
-
         public int Rank { get; set; }
 
     }

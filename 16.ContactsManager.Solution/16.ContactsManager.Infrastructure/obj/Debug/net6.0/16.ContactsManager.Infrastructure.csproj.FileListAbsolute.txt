@@ -1,0 +1,15 @@
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManager.Infrastructure\bin\Debug\net6.0\16.ContactsManager.Infrastructure.deps.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManager.Infrastructure\bin\Debug\net6.0\16.ContactsManager.Infrastructure.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManager.Infrastructure\bin\Debug\net6.0\16.ContactsManager.Infrastructure.pdb
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManager.Infrastructure\bin\Debug\net6.0\16.ContactsManger.Core.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManager.Infrastructure\bin\Debug\net6.0\16.ContactsManger.Core.pdb
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManager.Infrastructure\obj\Debug\net6.0\16.ContactsManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManager.Infrastructure\obj\Debug\net6.0\16.ContactsManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManager.Infrastructure\obj\Debug\net6.0\16.ContactsManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManager.Infrastructure\obj\Debug\net6.0\16.ContactsManager.Infrastructure.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManager.Infrastructure\obj\Debug\net6.0\16.ContactsManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManager.Infrastructure\obj\Debug\net6.0\16.ContactsManager.Infrastructure.csproj.CopyComplete
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManager.Infrastructure\obj\Debug\net6.0\16.ContactsManager.Infrastructure.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManager.Infrastructure\obj\Debug\net6.0\refint\16.ContactsManager.Infrastructure.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManager.Infrastructure\obj\Debug\net6.0\16.ContactsManager.Infrastructure.pdb
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManager.Infrastructure\obj\Debug\net6.0\ref\16.ContactsManager.Infrastructure.dll

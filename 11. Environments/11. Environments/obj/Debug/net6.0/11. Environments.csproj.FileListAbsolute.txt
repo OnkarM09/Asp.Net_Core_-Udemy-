@@ -25,3 +25,35 @@ C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environmen
 C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\11. Environments.pdb
 C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\11. Environments.genruntimeconfig.cache
 C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\ref\11. Environments.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\bin\Debug\net6.0\appsettings.Development.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\bin\Debug\net6.0\appsettings.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\bin\Debug\net6.0\11. Environments.staticwebassets.endpoints.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\bin\Debug\net6.0\11. Environments.exe
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\bin\Debug\net6.0\11. Environments.deps.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\bin\Debug\net6.0\11. Environments.runtimeconfig.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\bin\Debug\net6.0\11. Environments.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\bin\Debug\net6.0\11. Environments.pdb
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\11. Environments.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\11. Environments.AssemblyInfoInputs.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\11. Environments.AssemblyInfo.cs
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\11. Environments.csproj.CoreCompileInputs.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\11. Environments.MvcApplicationPartsAssemblyInfo.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\11. Environments.RazorAssemblyInfo.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\11. Environments.RazorAssemblyInfo.cs
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\11. Environments.sourcelink.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\scopedcss\bundle\11. Environments.styles.css
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\staticwebassets\msbuild.11. Environments.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\staticwebassets\msbuild.11. Environments.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\staticwebassets\msbuild.build.11. Environments.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.11. Environments.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.11. Environments.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\11. Environments.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\refint\11. Environments.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\11. Environments.pdb
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\11. Environments.genruntimeconfig.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\11. Environments\11. Environments\obj\Debug\net6.0\ref\11. Environments.dll

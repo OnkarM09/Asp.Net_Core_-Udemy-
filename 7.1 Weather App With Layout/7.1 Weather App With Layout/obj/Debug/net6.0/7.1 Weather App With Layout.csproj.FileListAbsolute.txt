@@ -25,3 +25,35 @@ C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7.1 Weather App With Layout\7.1 W
 C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\7.1 Weather App With Layout.pdb
 C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\7.1 Weather App With Layout.genruntimeconfig.cache
 C:\Onkar\Onkar\Dot net core\Udemy Dot net core\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\ref\7.1 Weather App With Layout.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\bin\Debug\net6.0\appsettings.Development.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\bin\Debug\net6.0\appsettings.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\bin\Debug\net6.0\7.1 Weather App With Layout.staticwebassets.endpoints.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\bin\Debug\net6.0\7.1 Weather App With Layout.exe
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\bin\Debug\net6.0\7.1 Weather App With Layout.deps.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\bin\Debug\net6.0\7.1 Weather App With Layout.runtimeconfig.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\bin\Debug\net6.0\7.1 Weather App With Layout.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\bin\Debug\net6.0\7.1 Weather App With Layout.pdb
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\7.1 Weather App With Layout.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\7.1 Weather App With Layout.AssemblyInfoInputs.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\7.1 Weather App With Layout.AssemblyInfo.cs
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\7.1 Weather App With Layout.csproj.CoreCompileInputs.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\7.1 Weather App With Layout.MvcApplicationPartsAssemblyInfo.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\7.1 Weather App With Layout.RazorAssemblyInfo.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\7.1 Weather App With Layout.RazorAssemblyInfo.cs
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\7.1 Weather App With Layout.sourcelink.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\scopedcss\bundle\7.1 Weather App With Layout.styles.css
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\staticwebassets\msbuild.7.1 Weather App With Layout.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\staticwebassets\msbuild.7.1 Weather App With Layout.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\staticwebassets\msbuild.build.7.1 Weather App With Layout.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.7.1 Weather App With Layout.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.7.1 Weather App With Layout.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\7.1 Weather App With Layout.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\refint\7.1 Weather App With Layout.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\7.1 Weather App With Layout.pdb
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\7.1 Weather App With Layout.genruntimeconfig.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\7.1 Weather App With Layout\7.1 Weather App With Layout\obj\Debug\net6.0\ref\7.1 Weather App With Layout.dll

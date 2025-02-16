@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "CtSMzhSraNOkP2uCwuHsJgTGKcYhDJh91A8tRGjsBiI=",
+  "Hash": "j3bVrLyA7nicICFnBmK2XiwRd47prYHYK9PkzdDFXYg=",
   "Source": "11. Environments",
   "BasePath": "_content/11. Environments",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

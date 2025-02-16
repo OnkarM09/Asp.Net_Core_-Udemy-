@@ -54,3 +54,36 @@ C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Vie
 C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\8. Partial Views.pdb
 C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\8. Partial Views.genruntimeconfig.cache
 C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\ref\8. Partial Views.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\bin\Debug\net6.0\appsettings.Development.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\bin\Debug\net6.0\appsettings.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\bin\Debug\net6.0\8. Partial Views.staticwebassets.runtime.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\bin\Debug\net6.0\8. Partial Views.staticwebassets.endpoints.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\bin\Debug\net6.0\8. Partial Views.exe
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\bin\Debug\net6.0\8. Partial Views.deps.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\bin\Debug\net6.0\8. Partial Views.runtimeconfig.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\bin\Debug\net6.0\8. Partial Views.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\bin\Debug\net6.0\8. Partial Views.pdb
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\8. Partial Views.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\8. Partial Views.AssemblyInfoInputs.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\8. Partial Views.AssemblyInfo.cs
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\8. Partial Views.csproj.CoreCompileInputs.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\8. Partial Views.MvcApplicationPartsAssemblyInfo.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\8. Partial Views.RazorAssemblyInfo.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\8. Partial Views.RazorAssemblyInfo.cs
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\8. Partial Views.sourcelink.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\scopedcss\bundle\8. Partial Views.styles.css
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\staticwebassets\msbuild.8. Partial Views.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\staticwebassets\msbuild.8. Partial Views.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\staticwebassets\msbuild.build.8. Partial Views.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.8. Partial Views.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.8. Partial Views.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\8. Partial Views.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\refint\8. Partial Views.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\8. Partial Views.pdb
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\8. Partial Views.genruntimeconfig.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\8. Partial Views\8. Partial Views\obj\Debug\net6.0\ref\8. Partial Views.dll

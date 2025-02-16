@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6.1 Views_Challenge(Weather_App)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{215FB4E1-E6DF-4ECD-9596-884C01742C9B}|6.1 Views_Challenge(Weather_App)\\6.1 Views_Challenge(Weather_App).csproj|d:\\dot net core\\asp.net_core_-udemy-\\6.1 views_challenge(weather_app)\\6.1 views_challenge(weather_app)\\views\\weather\\citydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{215FB4E1-E6DF-4ECD-9596-884C01742C9B}|6.1 Views_Challenge(Weather_App)\\6.1 Views_Challenge(Weather_App).csproj|solutionrelative:6.1 views_challenge(weather_app)\\views\\weather\\citydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215FB4E1-E6DF-4ECD-9596-884C01742C9B}|6.1 Views_Challenge(Weather_App)\\6.1 Views_Challenge(Weather_App).csproj|d:\\dot net core\\asp.net_core_-udemy-\\6.1 views_challenge(weather_app)\\6.1 views_challenge(weather_app)\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215FB4E1-E6DF-4ECD-9596-884C01742C9B}|6.1 Views_Challenge(Weather_App)\\6.1 Views_Challenge(Weather_App).csproj|solutionrelative:6.1 views_challenge(weather_app)\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215FB4E1-E6DF-4ECD-9596-884C01742C9B}|6.1 Views_Challenge(Weather_App)\\6.1 Views_Challenge(Weather_App).csproj|d:\\dot net core\\asp.net_core_-udemy-\\6.1 views_challenge(weather_app)\\6.1 views_challenge(weather_app)\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{215FB4E1-E6DF-4ECD-9596-884C01742C9B}|6.1 Views_Challenge(Weather_App)\\6.1 Views_Challenge(Weather_App).csproj|solutionrelative:6.1 views_challenge(weather_app)\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215FB4E1-E6DF-4ECD-9596-884C01742C9B}|6.1 Views_Challenge(Weather_App)\\6.1 Views_Challenge(Weather_App).csproj|d:\\dot net core\\asp.net_core_-udemy-\\6.1 views_challenge(weather_app)\\6.1 views_challenge(weather_app)\\models\\cityweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215FB4E1-E6DF-4ECD-9596-884C01742C9B}|6.1 Views_Challenge(Weather_App)\\6.1 Views_Challenge(Weather_App).csproj|solutionrelative:6.1 views_challenge(weather_app)\\models\\cityweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215FB4E1-E6DF-4ECD-9596-884C01742C9B}|6.1 Views_Challenge(Weather_App)\\6.1 Views_Challenge(Weather_App).csproj|d:\\dot net core\\asp.net_core_-udemy-\\6.1 views_challenge(weather_app)\\6.1 views_challenge(weather_app)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215FB4E1-E6DF-4ECD-9596-884C01742C9B}|6.1 Views_Challenge(Weather_App)\\6.1 Views_Challenge(Weather_App).csproj|solutionrelative:6.1 views_challenge(weather_app)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 218,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CityDetails.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6.1 Views_Challenge(Weather_App)\\6.1 Views_Challenge(Weather_App)\\Views\\Weather\\CityDetails.cshtml",
+              "RelativeDocumentMoniker": "6.1 Views_Challenge(Weather_App)\\Views\\Weather\\CityDetails.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6.1 Views_Challenge(Weather_App)\\6.1 Views_Challenge(Weather_App)\\Views\\Weather\\CityDetails.cshtml",
+              "RelativeToolTip": "6.1 Views_Challenge(Weather_App)\\Views\\Weather\\CityDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T04:20:32.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6.1 Views_Challenge(Weather_App)\\6.1 Views_Challenge(Weather_App)\\Views\\Weather\\Index.cshtml",
+              "RelativeDocumentMoniker": "6.1 Views_Challenge(Weather_App)\\Views\\Weather\\Index.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6.1 Views_Challenge(Weather_App)\\6.1 Views_Challenge(Weather_App)\\Views\\Weather\\Index.cshtml",
+              "RelativeToolTip": "6.1 Views_Challenge(Weather_App)\\Views\\Weather\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T04:20:32.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6.1 Views_Challenge(Weather_App)\\6.1 Views_Challenge(Weather_App)\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "6.1 Views_Challenge(Weather_App)\\Controllers\\WeatherController.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6.1 Views_Challenge(Weather_App)\\6.1 Views_Challenge(Weather_App)\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "6.1 Views_Challenge(Weather_App)\\Controllers\\WeatherController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB0AAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T04:20:32.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CityWeather.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6.1 Views_Challenge(Weather_App)\\6.1 Views_Challenge(Weather_App)\\Models\\CityWeather.cs",
+              "RelativeDocumentMoniker": "6.1 Views_Challenge(Weather_App)\\Models\\CityWeather.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6.1 Views_Challenge(Weather_App)\\6.1 Views_Challenge(Weather_App)\\Models\\CityWeather.cs",
+              "RelativeToolTip": "6.1 Views_Challenge(Weather_App)\\Models\\CityWeather.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T04:20:32.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6.1 Views_Challenge(Weather_App)\\6.1 Views_Challenge(Weather_App)\\Program.cs",
+              "RelativeDocumentMoniker": "6.1 Views_Challenge(Weather_App)\\Program.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6.1 Views_Challenge(Weather_App)\\6.1 Views_Challenge(Weather_App)\\Program.cs",
+              "RelativeToolTip": "6.1 Views_Challenge(Weather_App)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T04:20:32.548Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

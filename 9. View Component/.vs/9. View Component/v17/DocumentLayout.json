@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|d:\\dot net core\\asp.net_core_-udemy-\\9. view component\\9. view component\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|solutionrelative:9. view component\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|d:\\dot net core\\asp.net_core_-udemy-\\9. view component\\9. view component\\views\\shared\\components\\grid\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|solutionrelative:9. view component\\views\\shared\\components\\grid\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|d:\\dot net core\\asp.net_core_-udemy-\\9. view component\\9. view component\\viewcomponents\\gridviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|solutionrelative:9. view component\\viewcomponents\\gridviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|d:\\dot net core\\asp.net_core_-udemy-\\9. view component\\9. view component\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|solutionrelative:9. view component\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|d:\\dot net core\\asp.net_core_-udemy-\\9. view component\\9. view component\\models\\persongrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|solutionrelative:9. view component\\models\\persongrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|d:\\dot net core\\asp.net_core_-udemy-\\9. view component\\9. view component\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|solutionrelative:9. view component\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|d:\\dot net core\\asp.net_core_-udemy-\\9. view component\\9. view component\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|solutionrelative:9. view component\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|d:\\dot net core\\asp.net_core_-udemy-\\9. view component\\9. view component\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|solutionrelative:9. view component\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|d:\\dot net core\\asp.net_core_-udemy-\\9. view component\\9. view component\\views\\home\\friends.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|solutionrelative:9. view component\\views\\home\\friends.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|d:\\dot net core\\asp.net_core_-udemy-\\9. view component\\9. view component\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|solutionrelative:9. view component\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|d:\\dot net core\\asp.net_core_-udemy-\\9. view component\\9. view component\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|solutionrelative:9. view component\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|d:\\dot net core\\asp.net_core_-udemy-\\9. view component\\9. view component\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|solutionrelative:9. view component\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|d:\\dot net core\\asp.net_core_-udemy-\\9. view component\\9. view component\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F01BCC5B-EDB1-4127-9CCE-DF8F2D7099CD}|9. View Component\\9. View Component.csproj|solutionrelative:9. view component\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 218,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "9. View Component\\Models\\Person.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\Models\\Person.cs",
+              "RelativeToolTip": "9. View Component\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T05:07:41.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonGrid.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\Models\\PersonGrid.cs",
+              "RelativeDocumentMoniker": "9. View Component\\Models\\PersonGrid.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\Models\\PersonGrid.cs",
+              "RelativeToolTip": "9. View Component\\Models\\PersonGrid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T05:07:41.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "9. View Component\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "9. View Component\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T05:07:41.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "9. View Component\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "9. View Component\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T05:07:41.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\Views\\Shared\\Components\\Grid\\Default.cshtml",
+              "RelativeDocumentMoniker": "9. View Component\\Views\\Shared\\Components\\Grid\\Default.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\Views\\Shared\\Components\\Grid\\Default.cshtml",
+              "RelativeToolTip": "9. View Component\\Views\\Shared\\Components\\Grid\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T05:07:41.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GridViewComponent.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\ViewComponents\\GridViewComponent.cs",
+              "RelativeDocumentMoniker": "9. View Component\\ViewComponents\\GridViewComponent.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\ViewComponents\\GridViewComponent.cs",
+              "RelativeToolTip": "9. View Component\\ViewComponents\\GridViewComponent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T05:07:41.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "9. View Component\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "9. View Component\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T05:07:41.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "9. View Component\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "9. View Component\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T05:07:41.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "9. View Component\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "9. View Component\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T05:07:41.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "9. View Component\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "9. View Component\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T05:07:41.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Friends.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\Views\\Home\\Friends.cshtml",
+              "RelativeDocumentMoniker": "9. View Component\\Views\\Home\\Friends.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\Views\\Home\\Friends.cshtml",
+              "RelativeToolTip": "9. View Component\\Views\\Home\\Friends.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T05:07:41.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\appsettings.json",
+              "RelativeDocumentMoniker": "9. View Component\\appsettings.json",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\appsettings.json",
+              "RelativeToolTip": "9. View Component\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-26T05:07:41.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\Program.cs",
+              "RelativeDocumentMoniker": "9. View Component\\Program.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\9. View Component\\9. View Component\\Program.cs",
+              "RelativeToolTip": "9. View Component\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T05:07:41.204Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

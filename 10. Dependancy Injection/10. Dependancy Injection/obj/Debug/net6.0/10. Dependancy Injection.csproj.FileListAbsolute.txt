@@ -34,3 +34,44 @@ C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\10. Depe
 C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\10. Dependancy Injection\bin\Debug\net6.0\ServiceContracts.pdb
 C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\10. Dependancy Injection\bin\Debug\net6.0\Autofac.dll
 C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\10. Dependancy Injection\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\bin\Debug\net6.0\appsettings.Development.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\bin\Debug\net6.0\appsettings.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\bin\Debug\net6.0\10. Dependancy Injection.staticwebassets.runtime.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\bin\Debug\net6.0\10. Dependancy Injection.staticwebassets.endpoints.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\bin\Debug\net6.0\10. Dependancy Injection.exe
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\bin\Debug\net6.0\10. Dependancy Injection.deps.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\bin\Debug\net6.0\10. Dependancy Injection.runtimeconfig.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\bin\Debug\net6.0\10. Dependancy Injection.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\bin\Debug\net6.0\10. Dependancy Injection.pdb
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\bin\Debug\net6.0\Autofac.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\bin\Debug\net6.0\ServiceContracts.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\bin\Debug\net6.0\Services.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\bin\Debug\net6.0\ServiceContracts.pdb
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\bin\Debug\net6.0\Services.pdb
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\10. Dependancy Injection.csproj.AssemblyReference.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\10. Dependancy Injection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\10. Dependancy Injection.AssemblyInfoInputs.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\10. Dependancy Injection.AssemblyInfo.cs
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\10. Dependancy Injection.csproj.CoreCompileInputs.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\10. Dependancy Injection.MvcApplicationPartsAssemblyInfo.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\10. Dependancy Injection.RazorAssemblyInfo.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\10. Dependancy Injection.RazorAssemblyInfo.cs
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\10. Dependancy Injection.sourcelink.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\scopedcss\bundle\10. Dependancy Injection.styles.css
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\staticwebassets\msbuild.10. Dependancy Injection.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\staticwebassets\msbuild.10. Dependancy Injection.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\staticwebassets\msbuild.build.10. Dependancy Injection.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.10. Dependancy Injection.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.10. Dependancy Injection.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\10. Depe.4E1C1A9F.Up2Date
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\10. Dependancy Injection.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\refint\10. Dependancy Injection.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\10. Dependancy Injection.pdb
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\10. Dependancy Injection.genruntimeconfig.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\10. Dependancy Injection\obj\Debug\net6.0\ref\10. Dependancy Injection.dll

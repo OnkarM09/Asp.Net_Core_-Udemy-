@@ -1,0 +1,497 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\startupextensions\\configureservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\startupextensions\\configureservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\filters\\exceptionfilters\\handleexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\filters\\exceptionfilters\\handleexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\filters\\resultfilters\\personsalwaysrunresultfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\filters\\resultfilters\\personsalwaysrunresultfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\filters\\authorizationfilters\\tokenautorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\filters\\authorizationfilters\\tokenautorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\views\\persons\\personspdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\views\\persons\\personspdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\views\\persons\\createpersonform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\views\\persons\\createpersonform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\views\\persons\\editperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\views\\persons\\editperson.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\models\\personsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\models\\personsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\services\\persongetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\services\\persongetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\services\\personadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\services\\personadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\services\\ipersonadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\services\\ipersonadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\services\\ipersongetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\services\\ipersongetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\services\\personsadderservicechild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\services\\personsadderservicechild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|d:\\dot net core\\asp.net_core_-udemy-\\15. entityframerworkcore\\15. entityframerworkcore\\services\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8520191-D20D-4F57-B14C-867DCF497120}|15. EntityFramerworkCore\\15. EntityFramerworkCore.csproj|solutionrelative:15. entityframerworkcore\\services\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 218,
+          "SelectedChildIndex": 31,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Views\\Home\\Error.cshtml",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\Views\\Home\\Error.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Views\\Home\\Error.cshtml",
+              "RelativeToolTip": "15. EntityFramerworkCore\\Views\\Home\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T16:10:00.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HandleExceptionFilter.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Filters\\ExceptionFilters\\HandleExceptionFilter.cs",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\Filters\\ExceptionFilters\\HandleExceptionFilter.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Filters\\ExceptionFilters\\HandleExceptionFilter.cs",
+              "RelativeToolTip": "15. EntityFramerworkCore\\Filters\\ExceptionFilters\\HandleExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T15:34:52.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonsAlwaysRunResultFilter.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Filters\\ResultFilters\\PersonsAlwaysRunResultFilter.cs",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\Filters\\ResultFilters\\PersonsAlwaysRunResultFilter.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Filters\\ResultFilters\\PersonsAlwaysRunResultFilter.cs",
+              "RelativeToolTip": "15. EntityFramerworkCore\\Filters\\ResultFilters\\PersonsAlwaysRunResultFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T15:33:26.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "15. EntityFramerworkCore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T15:30:36.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "15. EntityFramerworkCore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T15:30:28.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonsPDF.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Views\\Persons\\PersonsPDF.cshtml",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\Views\\Persons\\PersonsPDF.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Views\\Persons\\PersonsPDF.cshtml",
+              "RelativeToolTip": "15. EntityFramerworkCore\\Views\\Persons\\PersonsPDF.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T15:30:24.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditPerson.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Views\\Persons\\EditPerson.cshtml",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\Views\\Persons\\EditPerson.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Views\\Persons\\EditPerson.cshtml",
+              "RelativeToolTip": "15. EntityFramerworkCore\\Views\\Persons\\EditPerson.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T15:30:17.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Views\\Persons\\Index.cshtml",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\Views\\Persons\\Index.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Views\\Persons\\Index.cshtml",
+              "RelativeToolTip": "15. EntityFramerworkCore\\Views\\Persons\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T15:30:04.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenAutorizationFilter.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Filters\\AuthorizationFilters\\TokenAutorizationFilter.cs",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\Filters\\AuthorizationFilters\\TokenAutorizationFilter.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Filters\\AuthorizationFilters\\TokenAutorizationFilter.cs",
+              "RelativeToolTip": "15. EntityFramerworkCore\\Filters\\AuthorizationFilters\\TokenAutorizationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:36:37.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\Models\\Person.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Models\\Person.cs",
+              "RelativeToolTip": "15. EntityFramerworkCore\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T12:30:11.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "15. EntityFramerworkCore\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T11:26:40.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "15. EntityFramerworkCore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T11:10:58.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreatePersonForm.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Views\\Persons\\CreatePersonForm.cshtml",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\Views\\Persons\\CreatePersonForm.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Views\\Persons\\CreatePersonForm.cshtml",
+              "RelativeToolTip": "15. EntityFramerworkCore\\Views\\Persons\\CreatePersonForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T11:10:08.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "15. EntityFramerworkCore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:51:44.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Program.cs",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\Program.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Program.cs",
+              "RelativeToolTip": "15. EntityFramerworkCore\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:33:02.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PersonsDbContext.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Models\\PersonsDbContext.cs",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\Models\\PersonsDbContext.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Models\\PersonsDbContext.cs",
+              "RelativeToolTip": "15. EntityFramerworkCore\\Models\\PersonsDbContext.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:48:07.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\appsettings.json",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\appsettings.json",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\appsettings.json",
+              "RelativeToolTip": "15. EntityFramerworkCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T08:46:37.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigureServicesExtension.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\StartupExtensions\\ConfigureServicesExtension.cs",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\StartupExtensions\\ConfigureServicesExtension.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\StartupExtensions\\ConfigureServicesExtension.cs",
+              "RelativeToolTip": "15. EntityFramerworkCore\\StartupExtensions\\ConfigureServicesExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:46:20.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPersonGetterService.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Services\\IPersonGetterService.cs",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\Services\\IPersonGetterService.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Services\\IPersonGetterService.cs",
+              "RelativeToolTip": "15. EntityFramerworkCore\\Services\\IPersonGetterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:46:20.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PersonGetterService.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Services\\PersonGetterService.cs",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\Services\\PersonGetterService.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Services\\PersonGetterService.cs",
+              "RelativeToolTip": "15. EntityFramerworkCore\\Services\\PersonGetterService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:46:20.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PersonsAdderServiceChild.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Services\\PersonsAdderServiceChild.cs",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\Services\\PersonsAdderServiceChild.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Services\\PersonsAdderServiceChild.cs",
+              "RelativeToolTip": "15. EntityFramerworkCore\\Services\\PersonsAdderServiceChild.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:46:20.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonsController.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Controllers\\PersonsController.cs",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\Controllers\\PersonsController.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Controllers\\PersonsController.cs",
+              "RelativeToolTip": "15. EntityFramerworkCore\\Controllers\\PersonsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:46:20.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PersonAdderService.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Services\\PersonAdderService.cs",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\Services\\PersonAdderService.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Services\\PersonAdderService.cs",
+              "RelativeToolTip": "15. EntityFramerworkCore\\Services\\PersonAdderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:46:20.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IPersonAdderService.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Services\\IPersonAdderService.cs",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\Services\\IPersonAdderService.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Services\\IPersonAdderService.cs",
+              "RelativeToolTip": "15. EntityFramerworkCore\\Services\\IPersonAdderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:46:20.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Services\\IPersonService.cs",
+              "RelativeDocumentMoniker": "15. EntityFramerworkCore\\Services\\IPersonService.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\Services\\IPersonService.cs",
+              "RelativeToolTip": "15. EntityFramerworkCore\\Services\\IPersonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:46:20.883Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

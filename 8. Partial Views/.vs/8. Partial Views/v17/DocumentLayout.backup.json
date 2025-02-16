@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8. Partial Views\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26A7AAED-9767-476A-8E02-A8A106E15C3C}|8. Partial Views\\8. Partial Views.csproj|d:\\dot net core\\asp.net_core_-udemy-\\8. partial views\\8. partial views\\views\\shared\\_listpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A7AAED-9767-476A-8E02-A8A106E15C3C}|8. Partial Views\\8. Partial Views.csproj|solutionrelative:8. partial views\\views\\shared\\_listpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A7AAED-9767-476A-8E02-A8A106E15C3C}|8. Partial Views\\8. Partial Views.csproj|d:\\dot net core\\asp.net_core_-udemy-\\8. partial views\\8. partial views\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A7AAED-9767-476A-8E02-A8A106E15C3C}|8. Partial Views\\8. Partial Views.csproj|solutionrelative:8. partial views\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A7AAED-9767-476A-8E02-A8A106E15C3C}|8. Partial Views\\8. Partial Views.csproj|d:\\dot net core\\asp.net_core_-udemy-\\8. partial views\\8. partial views\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A7AAED-9767-476A-8E02-A8A106E15C3C}|8. Partial Views\\8. Partial Views.csproj|solutionrelative:8. partial views\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A7AAED-9767-476A-8E02-A8A106E15C3C}|8. Partial Views\\8. Partial Views.csproj|d:\\dot net core\\asp.net_core_-udemy-\\8. partial views\\8. partial views\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A7AAED-9767-476A-8E02-A8A106E15C3C}|8. Partial Views\\8. Partial Views.csproj|solutionrelative:8. partial views\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A7AAED-9767-476A-8E02-A8A106E15C3C}|8. Partial Views\\8. Partial Views.csproj|d:\\dot net core\\asp.net_core_-udemy-\\8. partial views\\8. partial views\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A7AAED-9767-476A-8E02-A8A106E15C3C}|8. Partial Views\\8. Partial Views.csproj|solutionrelative:8. partial views\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A7AAED-9767-476A-8E02-A8A106E15C3C}|8. Partial Views\\8. Partial Views.csproj|d:\\dot net core\\asp.net_core_-udemy-\\8. partial views\\8. partial views\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A7AAED-9767-476A-8E02-A8A106E15C3C}|8. Partial Views\\8. Partial Views.csproj|solutionrelative:8. partial views\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A7AAED-9767-476A-8E02-A8A106E15C3C}|8. Partial Views\\8. Partial Views.csproj|d:\\dot net core\\asp.net_core_-udemy-\\8. partial views\\8. partial views\\models\\listmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A7AAED-9767-476A-8E02-A8A106E15C3C}|8. Partial Views\\8. Partial Views.csproj|solutionrelative:8. partial views\\models\\listmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A7AAED-9767-476A-8E02-A8A106E15C3C}|8. Partial Views\\8. Partial Views.csproj|d:\\dot net core\\asp.net_core_-udemy-\\8. partial views\\8. partial views\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A7AAED-9767-476A-8E02-A8A106E15C3C}|8. Partial Views\\8. Partial Views.csproj|solutionrelative:8. partial views\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A7AAED-9767-476A-8E02-A8A106E15C3C}|8. Partial Views\\8. Partial Views.csproj|d:\\dot net core\\asp.net_core_-udemy-\\8. partial views\\8. partial views\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A7AAED-9767-476A-8E02-A8A106E15C3C}|8. Partial Views\\8. Partial Views.csproj|solutionrelative:8. partial views\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 218,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListModel.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8. Partial Views\\8. Partial Views\\Models\\ListModel.cs",
+              "RelativeDocumentMoniker": "8. Partial Views\\Models\\ListModel.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8. Partial Views\\8. Partial Views\\Models\\ListModel.cs",
+              "RelativeToolTip": "8. Partial Views\\Models\\ListModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T14:26:04.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8. Partial Views\\8. Partial Views\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "8. Partial Views\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8. Partial Views\\8. Partial Views\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "8. Partial Views\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T14:26:04.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ListPartialView.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8. Partial Views\\8. Partial Views\\Views\\Shared\\_ListPartialView.cshtml",
+              "RelativeDocumentMoniker": "8. Partial Views\\Views\\Shared\\_ListPartialView.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8. Partial Views\\8. Partial Views\\Views\\Shared\\_ListPartialView.cshtml",
+              "RelativeToolTip": "8. Partial Views\\Views\\Shared\\_ListPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T14:26:04.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8. Partial Views\\8. Partial Views\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "8. Partial Views\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8. Partial Views\\8. Partial Views\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "8. Partial Views\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T14:26:04.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8. Partial Views\\8. Partial Views\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "8. Partial Views\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8. Partial Views\\8. Partial Views\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "8. Partial Views\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T14:26:04.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8. Partial Views\\8. Partial Views\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "8. Partial Views\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8. Partial Views\\8. Partial Views\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "8. Partial Views\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T14:26:04.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8. Partial Views\\8. Partial Views\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "8. Partial Views\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8. Partial Views\\8. Partial Views\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "8. Partial Views\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T14:26:04.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8. Partial Views\\8. Partial Views\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "8. Partial Views\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8. Partial Views\\8. Partial Views\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "8. Partial Views\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T14:26:04.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8. Partial Views\\8. Partial Views\\Program.cs",
+              "RelativeDocumentMoniker": "8. Partial Views\\Program.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8. Partial Views\\8. Partial Views\\Program.cs",
+              "RelativeToolTip": "8. Partial Views\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T14:26:04.548Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

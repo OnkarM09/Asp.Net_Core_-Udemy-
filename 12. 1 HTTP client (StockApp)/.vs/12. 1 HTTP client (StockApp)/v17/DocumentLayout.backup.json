@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\12. 1 HTTP client (StockApp)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED30038C-1C89-4151-8BF6-7762365865EC}|12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp).csproj|d:\\dot net core\\asp.net_core_-udemy-\\12. 1 http client (stockapp)\\12. 1 http client (stockapp)\\services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED30038C-1C89-4151-8BF6-7762365865EC}|12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp).csproj|solutionrelative:12. 1 http client (stockapp)\\services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED30038C-1C89-4151-8BF6-7762365865EC}|12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp).csproj|d:\\dot net core\\asp.net_core_-udemy-\\12. 1 http client (stockapp)\\12. 1 http client (stockapp)\\servicecontracts\\ifinnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED30038C-1C89-4151-8BF6-7762365865EC}|12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp).csproj|solutionrelative:12. 1 http client (stockapp)\\servicecontracts\\ifinnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED30038C-1C89-4151-8BF6-7762365865EC}|12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp).csproj|d:\\dot net core\\asp.net_core_-udemy-\\12. 1 http client (stockapp)\\12. 1 http client (stockapp)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED30038C-1C89-4151-8BF6-7762365865EC}|12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp).csproj|solutionrelative:12. 1 http client (stockapp)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED30038C-1C89-4151-8BF6-7762365865EC}|12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp).csproj|d:\\dot net core\\asp.net_core_-udemy-\\12. 1 http client (stockapp)\\12. 1 http client (stockapp)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED30038C-1C89-4151-8BF6-7762365865EC}|12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp).csproj|solutionrelative:12. 1 http client (stockapp)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED30038C-1C89-4151-8BF6-7762365865EC}|12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp).csproj|d:\\dot net core\\asp.net_core_-udemy-\\12. 1 http client (stockapp)\\12. 1 http client (stockapp)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED30038C-1C89-4151-8BF6-7762365865EC}|12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp).csproj|solutionrelative:12. 1 http client (stockapp)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED30038C-1C89-4151-8BF6-7762365865EC}|12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp).csproj|d:\\dot net core\\asp.net_core_-udemy-\\12. 1 http client (stockapp)\\12. 1 http client (stockapp)\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED30038C-1C89-4151-8BF6-7762365865EC}|12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp).csproj|solutionrelative:12. 1 http client (stockapp)\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED30038C-1C89-4151-8BF6-7762365865EC}|12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp).csproj|d:\\dot net core\\asp.net_core_-udemy-\\12. 1 http client (stockapp)\\12. 1 http client (stockapp)\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED30038C-1C89-4151-8BF6-7762365865EC}|12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp).csproj|solutionrelative:12. 1 http client (stockapp)\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED30038C-1C89-4151-8BF6-7762365865EC}|12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp).csproj|d:\\dot net core\\asp.net_core_-udemy-\\12. 1 http client (stockapp)\\12. 1 http client (stockapp)\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED30038C-1C89-4151-8BF6-7762365865EC}|12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp).csproj|solutionrelative:12. 1 http client (stockapp)\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED30038C-1C89-4151-8BF6-7762365865EC}|12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp).csproj|d:\\dot net core\\asp.net_core_-udemy-\\12. 1 http client (stockapp)\\12. 1 http client (stockapp)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED30038C-1C89-4151-8BF6-7762365865EC}|12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp).csproj|solutionrelative:12. 1 http client (stockapp)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 218,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFinnhubService.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp)\\ServiceContracts\\IFinnhubService.cs",
+              "RelativeDocumentMoniker": "12. 1 HTTP client (StockApp)\\ServiceContracts\\IFinnhubService.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp)\\ServiceContracts\\IFinnhubService.cs",
+              "RelativeToolTip": "12. 1 HTTP client (StockApp)\\ServiceContracts\\IFinnhubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:57:31.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp)\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "12. 1 HTTP client (StockApp)\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp)\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "12. 1 HTTP client (StockApp)\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:57:32.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp)\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "12. 1 HTTP client (StockApp)\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp)\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "12. 1 HTTP client (StockApp)\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T14:57:32.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp)\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "12. 1 HTTP client (StockApp)\\Models\\Stock.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp)\\Models\\Stock.cs",
+              "RelativeToolTip": "12. 1 HTTP client (StockApp)\\Models\\Stock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:57:32.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinnhubService.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp)\\Services\\FinnhubService.cs",
+              "RelativeDocumentMoniker": "12. 1 HTTP client (StockApp)\\Services\\FinnhubService.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp)\\Services\\FinnhubService.cs",
+              "RelativeToolTip": "12. 1 HTTP client (StockApp)\\Services\\FinnhubService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:57:32.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp)\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "12. 1 HTTP client (StockApp)\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp)\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "12. 1 HTTP client (StockApp)\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T14:57:32.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "12. 1 HTTP client (StockApp)\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "12. 1 HTTP client (StockApp)\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T14:57:32.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp)\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "12. 1 HTTP client (StockApp)\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp)\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "12. 1 HTTP client (StockApp)\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T14:57:32.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp)\\Program.cs",
+              "RelativeDocumentMoniker": "12. 1 HTTP client (StockApp)\\Program.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp)\\Program.cs",
+              "RelativeToolTip": "12. 1 HTTP client (StockApp)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:57:32.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

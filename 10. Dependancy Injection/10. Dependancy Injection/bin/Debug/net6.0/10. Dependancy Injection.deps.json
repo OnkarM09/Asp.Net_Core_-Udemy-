@@ -44,7 +44,10 @@
       "System.Diagnostics.DiagnosticSource/4.7.1": {},
       "ServiceContracts/1.0.0": {
         "runtime": {
-          "ServiceContracts.dll": {}
+          "ServiceContracts.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Services/1.0.0": {
@@ -52,7 +55,10 @@
           "ServiceContracts": "1.0.0"
         },
         "runtime": {
-          "Services.dll": {}
+          "Services.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

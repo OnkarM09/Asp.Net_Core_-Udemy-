@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a5ROzehUhTPIf9lZQnM4peWKojwpJ1GuAWTD8gWJQ/U=",
+  "Hash": "hjfm4IsnD9X+ke8Vi0/HK104O4XPvjGOC0gsQxeiKvE=",
   "Source": "7. Layout",
   "BasePath": "_content/7. Layout",
   "Mode": "Default",
@@ -10,10 +10,11 @@
     {
       "Name": "7. Layout\\wwwroot",
       "Source": "7. Layout",
-      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\7. Layout\\7. Layout\\wwwroot\\",
+      "ContentRoot": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7. Layout\\7. Layout\\wwwroot\\",
       "BasePath": "_content/7. Layout",
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

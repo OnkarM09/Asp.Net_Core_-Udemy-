@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\New folder\\1. LINQ Example\\1. LINQ Example\\1. LINQ Example.csproj": {}
+    "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\New folder\\1. LINQ Example\\1. LINQ Example\\1. LINQ Example.csproj": {}
   },
   "projects": {
-    "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\New folder\\1. LINQ Example\\1. LINQ Example\\1. LINQ Example.csproj": {
+    "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\New folder\\1. LINQ Example\\1. LINQ Example\\1. LINQ Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\New folder\\1. LINQ Example\\1. LINQ Example\\1. LINQ Example.csproj",
+        "projectUniqueName": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\New folder\\1. LINQ Example\\1. LINQ Example\\1. LINQ Example.csproj",
         "projectName": "1. LINQ Example",
-        "projectPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\New folder\\1. LINQ Example\\1. LINQ Example\\1. LINQ Example.csproj",
-        "packagesPath": "C:\\Users\\OnkarMeherwade\\.nuget\\packages\\",
-        "outputPath": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\New folder\\1. LINQ Example\\1. LINQ Example\\obj\\",
+        "projectPath": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\New folder\\1. LINQ Example\\1. LINQ Example\\1. LINQ Example.csproj",
+        "packagesPath": "C:\\Users\\onkar\\.nuget\\packages\\",
+        "outputPath": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\C Sharp Essential\\New folder\\1. LINQ Example\\1. LINQ Example\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\OnkarMeherwade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\onkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,7 +38,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -55,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

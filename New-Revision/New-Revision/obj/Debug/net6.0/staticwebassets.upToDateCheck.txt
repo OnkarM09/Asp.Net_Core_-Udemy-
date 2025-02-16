@@ -1,0 +1,2 @@
+wwwroot\css\StyleSheet.css
+wwwroot\gojo.jpg

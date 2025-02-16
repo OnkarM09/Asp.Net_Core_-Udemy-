@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\5.1 Model Validations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A83CC881-40B5-4F69-BDAF-2B68A84C362A}|5.1 Model Validations\\5.1 Model Validations.csproj|d:\\dot net core\\asp.net_core_-udemy-\\5.1 model validations\\5.1 model validations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83CC881-40B5-4F69-BDAF-2B68A84C362A}|5.1 Model Validations\\5.1 Model Validations.csproj|solutionrelative:5.1 model validations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83CC881-40B5-4F69-BDAF-2B68A84C362A}|5.1 Model Validations\\5.1 Model Validations.csproj|d:\\dot net core\\asp.net_core_-udemy-\\5.1 model validations\\5.1 model validations\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83CC881-40B5-4F69-BDAF-2B68A84C362A}|5.1 Model Validations\\5.1 Model Validations.csproj|solutionrelative:5.1 model validations\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83CC881-40B5-4F69-BDAF-2B68A84C362A}|5.1 Model Validations\\5.1 Model Validations.csproj|d:\\dot net core\\asp.net_core_-udemy-\\5.1 model validations\\5.1 model validations\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83CC881-40B5-4F69-BDAF-2B68A84C362A}|5.1 Model Validations\\5.1 Model Validations.csproj|solutionrelative:5.1 model validations\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83CC881-40B5-4F69-BDAF-2B68A84C362A}|5.1 Model Validations\\5.1 Model Validations.csproj|d:\\dot net core\\asp.net_core_-udemy-\\5.1 model validations\\5.1 model validations\\customvalidators\\daterangevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83CC881-40B5-4F69-BDAF-2B68A84C362A}|5.1 Model Validations\\5.1 Model Validations.csproj|solutionrelative:5.1 model validations\\customvalidators\\daterangevalidatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 218,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DateRangeValidatorAttribute.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\5.1 Model Validations\\5.1 Model Validations\\CustomValidators\\DateRangeValidatorAttribute.cs",
+              "RelativeDocumentMoniker": "5.1 Model Validations\\CustomValidators\\DateRangeValidatorAttribute.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\5.1 Model Validations\\5.1 Model Validations\\CustomValidators\\DateRangeValidatorAttribute.cs",
+              "RelativeToolTip": "5.1 Model Validations\\CustomValidators\\DateRangeValidatorAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:51:43.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\5.1 Model Validations\\5.1 Model Validations\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "5.1 Model Validations\\Models\\Person.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\5.1 Model Validations\\5.1 Model Validations\\Models\\Person.cs",
+              "RelativeToolTip": "5.1 Model Validations\\Models\\Person.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwDkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:51:43.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\5.1 Model Validations\\5.1 Model Validations\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "5.1 Model Validations\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\5.1 Model Validations\\5.1 Model Validations\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "5.1 Model Validations\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:51:43.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\5.1 Model Validations\\5.1 Model Validations\\Program.cs",
+              "RelativeDocumentMoniker": "5.1 Model Validations\\Program.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\5.1 Model Validations\\5.1 Model Validations\\Program.cs",
+              "RelativeToolTip": "5.1 Model Validations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:51:43.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sogEKvs602+0hvUuegH5q7s7XKvRHh+DnFeBg+8qZRA=",
+  "Hash": "AJnRWPvKjMcSxIx2nzc+EcDGyF1aN6NsIXAUveqy0i4=",
   "Source": "14. Tag Helpers",
   "BasePath": "_content/14. Tag Helpers",
   "Mode": "Default",
@@ -10,45 +10,219 @@
     {
       "Name": "14. Tag Helpers\\wwwroot",
       "Source": "14. Tag Helpers",
-      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\14. Tag Helpers\\14. Tag Helpers\\wwwroot\\",
+      "ContentRoot": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\14. Tag Helpers\\14. Tag Helpers\\wwwroot\\",
       "BasePath": "_content/14. Tag Helpers",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\14. Tag Helpers\\14. Tag Helpers\\wwwroot\\asp-logo.png",
+      "Identity": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\14. Tag Helpers\\14. Tag Helpers\\wwwroot\\asp-logo.png",
       "SourceId": "14. Tag Helpers",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\14. Tag Helpers\\14. Tag Helpers\\wwwroot\\",
+      "ContentRoot": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\14. Tag Helpers\\14. Tag Helpers\\wwwroot\\",
       "BasePath": "_content/14. Tag Helpers",
-      "RelativePath": "asp-logo.png",
+      "RelativePath": "asp-logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "bv2y7uhz8j",
+      "Integrity": "B7JBtQiGKRxE6JjCpeMda5MZAIxtoJUWQ57fiE3N20Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\asp-logo.png"
     },
     {
-      "Identity": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\14. Tag Helpers\\14. Tag Helpers\\wwwroot\\jquery-min.js",
+      "Identity": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\14. Tag Helpers\\14. Tag Helpers\\wwwroot\\jquery-min.js",
       "SourceId": "14. Tag Helpers",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\14. Tag Helpers\\14. Tag Helpers\\wwwroot\\",
+      "ContentRoot": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\14. Tag Helpers\\14. Tag Helpers\\wwwroot\\",
       "BasePath": "_content/14. Tag Helpers",
-      "RelativePath": "jquery-min.js",
+      "RelativePath": "jquery-min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "xowj75vshv",
+      "Integrity": "v0i6w+udnvWn9cBpdSAOCN6C2t48t9T7B2sZ/3xCpIQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\jquery-min.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "asp-logo.bv2y7uhz8j.png",
+      "AssetFile": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\14. Tag Helpers\\14. Tag Helpers\\wwwroot\\asp-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79250"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B7JBtQiGKRxE6JjCpeMda5MZAIxtoJUWQ57fiE3N20Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 27 Apr 2024 14:47:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bv2y7uhz8j"
+        },
+        {
+          "Name": "label",
+          "Value": "asp-logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-B7JBtQiGKRxE6JjCpeMda5MZAIxtoJUWQ57fiE3N20Y="
+        }
+      ]
+    },
+    {
+      "Route": "asp-logo.png",
+      "AssetFile": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\14. Tag Helpers\\14. Tag Helpers\\wwwroot\\asp-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79250"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B7JBtQiGKRxE6JjCpeMda5MZAIxtoJUWQ57fiE3N20Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 27 Apr 2024 14:47:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B7JBtQiGKRxE6JjCpeMda5MZAIxtoJUWQ57fiE3N20Y="
+        }
+      ]
+    },
+    {
+      "Route": "jquery-min.js",
+      "AssetFile": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\14. Tag Helpers\\14. Tag Helpers\\wwwroot\\jquery-min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105298"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v0i6w+udnvWn9cBpdSAOCN6C2t48t9T7B2sZ/3xCpIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 27 Apr 2024 14:33:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v0i6w+udnvWn9cBpdSAOCN6C2t48t9T7B2sZ/3xCpIQ="
+        }
+      ]
+    },
+    {
+      "Route": "jquery-min.xowj75vshv.js",
+      "AssetFile": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\14. Tag Helpers\\14. Tag Helpers\\wwwroot\\jquery-min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105298"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v0i6w+udnvWn9cBpdSAOCN6C2t48t9T7B2sZ/3xCpIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 27 Apr 2024 14:33:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xowj75vshv"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery-min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v0i6w+udnvWn9cBpdSAOCN6C2t48t9T7B2sZ/3xCpIQ="
+        }
+      ]
     }
   ]
 }

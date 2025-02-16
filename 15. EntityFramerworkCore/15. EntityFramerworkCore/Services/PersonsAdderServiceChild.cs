@@ -9,7 +9,6 @@ namespace _15._EntityFramerworkCore.Services
         {
             _db = db;
         }
-
         public override async Task AddPersonToDb(Person person)
         {
             _db.sp_InsertPerson(person);  //from stored procedure

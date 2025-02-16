@@ -1,0 +1,12 @@
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManger.Core\obj\Debug\net6.0\16.ContactsManger.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManger.Core\obj\Debug\net6.0\16.ContactsManger.Core.AssemblyInfoInputs.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManger.Core\obj\Debug\net6.0\16.ContactsManger.Core.AssemblyInfo.cs
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManger.Core\obj\Debug\net6.0\16.ContactsManger.Core.csproj.CoreCompileInputs.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManger.Core\obj\Debug\net6.0\16.ContactsManger.Core.csproj.AssemblyReference.cache
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManger.Core\bin\Debug\net6.0\16.ContactsManger.Core.deps.json
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManger.Core\bin\Debug\net6.0\16.ContactsManger.Core.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManger.Core\bin\Debug\net6.0\16.ContactsManger.Core.pdb
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManger.Core\obj\Debug\net6.0\16.ContactsManger.Core.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManger.Core\obj\Debug\net6.0\refint\16.ContactsManger.Core.dll
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManger.Core\obj\Debug\net6.0\16.ContactsManger.Core.pdb
+C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\16.ContactsManager.Solution\16.ContactsManger.Core\obj\Debug\net6.0\ref\16.ContactsManger.Core.dll

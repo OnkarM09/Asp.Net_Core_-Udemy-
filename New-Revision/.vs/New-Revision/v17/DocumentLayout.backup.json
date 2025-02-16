@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|d:\\dot net core\\asp.net_core_-udemy-\\new-revision\\new-revision\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|solutionrelative:new-revision\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|d:\\dot net core\\asp.net_core_-udemy-\\new-revision\\new-revision\\views\\home\\createhero.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|solutionrelative:new-revision\\views\\home\\createhero.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|d:\\dot net core\\asp.net_core_-udemy-\\new-revision\\new-revision\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|solutionrelative:new-revision\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|d:\\dot net core\\asp.net_core_-udemy-\\new-revision\\new-revision\\services\\heroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|solutionrelative:new-revision\\services\\heroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|d:\\dot net core\\asp.net_core_-udemy-\\new-revision\\new-revision\\models\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|solutionrelative:new-revision\\models\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|d:\\dot net core\\asp.net_core_-udemy-\\new-revision\\new-revision\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|solutionrelative:new-revision\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Migrations\\20250208110458_Changed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:New-Revision\\Migrations\\20250208110458_Changed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|d:\\dot net core\\asp.net_core_-udemy-\\new-revision\\new-revision\\models\\heroesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|solutionrelative:new-revision\\models\\heroesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|d:\\dot net core\\asp.net_core_-udemy-\\new-revision\\new-revision\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|solutionrelative:new-revision\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|d:\\dot net core\\asp.net_core_-udemy-\\new-revision\\new-revision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|solutionrelative:new-revision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|d:\\dot net core\\asp.net_core_-udemy-\\new-revision\\new-revision\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|solutionrelative:new-revision\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|d:\\dot net core\\asp.net_core_-udemy-\\new-revision\\new-revision\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|solutionrelative:new-revision\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|d:\\dot net core\\asp.net_core_-udemy-\\new-revision\\new-revision\\views\\shared\\components\\persondetails\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20BC9528-718F-4DE8-9C44-D11B8F56915B}|New-Revision\\New-Revision.csproj|solutionrelative:new-revision\\views\\shared\\components\\persondetails\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 218,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "New-Revision\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "New-Revision\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T11:10:46.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateHero.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Views\\Home\\CreateHero.cshtml",
+              "RelativeDocumentMoniker": "New-Revision\\Views\\Home\\CreateHero.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Views\\Home\\CreateHero.cshtml",
+              "RelativeToolTip": "New-Revision\\Views\\Home\\CreateHero.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T11:08:40.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250208110458_Changed.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Migrations\\20250208110458_Changed.cs",
+              "RelativeDocumentMoniker": "New-Revision\\Migrations\\20250208110458_Changed.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Migrations\\20250208110458_Changed.cs",
+              "RelativeToolTip": "New-Revision\\Migrations\\20250208110458_Changed.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T11:04:58.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HeroService.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Services\\HeroService.cs",
+              "RelativeDocumentMoniker": "New-Revision\\Services\\HeroService.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Services\\HeroService.cs",
+              "RelativeToolTip": "New-Revision\\Services\\HeroService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:53:54.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Program.cs",
+              "RelativeDocumentMoniker": "New-Revision\\Program.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Program.cs",
+              "RelativeToolTip": "New-Revision\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:53:44.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\appsettings.json",
+              "RelativeDocumentMoniker": "New-Revision\\appsettings.json",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\appsettings.json",
+              "RelativeToolTip": "New-Revision\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T10:53:44.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "New-Revision\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "New-Revision\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T10:44:17.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Views\\Shared\\Components\\PersonDetails\\Default.cshtml",
+              "RelativeDocumentMoniker": "New-Revision\\Views\\Shared\\Components\\PersonDetails\\Default.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Views\\Shared\\Components\\PersonDetails\\Default.cshtml",
+              "RelativeToolTip": "New-Revision\\Views\\Shared\\Components\\PersonDetails\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T10:43:57.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "New-Revision\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "New-Revision\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T10:43:16.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "New-Revision\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "New-Revision\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wEAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:42:33.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Models\\Hero.cs",
+              "RelativeDocumentMoniker": "New-Revision\\Models\\Hero.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Models\\Hero.cs",
+              "RelativeToolTip": "New-Revision\\Models\\Hero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:34:45.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "New-Revision\\Models\\Movie.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Models\\Movie.cs",
+              "RelativeToolTip": "New-Revision\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:34:12.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HeroesDbContext.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Models\\HeroesDbContext.cs",
+              "RelativeDocumentMoniker": "New-Revision\\Models\\HeroesDbContext.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\New-Revision\\New-Revision\\Models\\HeroesDbContext.cs",
+              "RelativeToolTip": "New-Revision\\Models\\HeroesDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:30:16.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

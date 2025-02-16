@@ -9,3 +9,15 @@ C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\ServiceC
 C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\ServiceContracts\obj\Debug\net6.0\refint\ServiceContracts.dll
 C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\ServiceContracts\obj\Debug\net6.0\ServiceContracts.pdb
 C:\Onkar\Onkar\Dot net core\Udemy Dot net core\10. Dependancy Injection\ServiceContracts\obj\Debug\net6.0\ref\ServiceContracts.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\ServiceContracts\bin\Debug\net6.0\ServiceContracts.deps.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\ServiceContracts\bin\Debug\net6.0\ServiceContracts.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\ServiceContracts\bin\Debug\net6.0\ServiceContracts.pdb
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\ServiceContracts\obj\Debug\net6.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfoInputs.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfo.cs
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.CoreCompileInputs.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\ServiceContracts\obj\Debug\net6.0\ServiceContracts.sourcelink.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\ServiceContracts\obj\Debug\net6.0\ServiceContracts.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\ServiceContracts\obj\Debug\net6.0\refint\ServiceContracts.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\ServiceContracts\obj\Debug\net6.0\ServiceContracts.pdb
+D:\Dot net core\Asp.Net_Core_-Udemy-\10. Dependancy Injection\ServiceContracts\obj\Debug\net6.0\ref\ServiceContracts.dll

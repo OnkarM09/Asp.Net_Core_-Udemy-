@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C879D94E-AE59-4387-80C9-6024C5016CA9}|6. Views\\6. Views.csproj|d:\\dot net core\\asp.net_core_-udemy-\\6. views\\6. views\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C879D94E-AE59-4387-80C9-6024C5016CA9}|6. Views\\6. Views.csproj|solutionrelative:6. views\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C879D94E-AE59-4387-80C9-6024C5016CA9}|6. Views\\6. Views.csproj|d:\\dot net core\\asp.net_core_-udemy-\\6. views\\6. views\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C879D94E-AE59-4387-80C9-6024C5016CA9}|6. Views\\6. Views.csproj|solutionrelative:6. views\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C879D94E-AE59-4387-80C9-6024C5016CA9}|6. Views\\6. Views.csproj|d:\\dot net core\\asp.net_core_-udemy-\\6. views\\6. views\\views\\home\\pesonandproductdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C879D94E-AE59-4387-80C9-6024C5016CA9}|6. Views\\6. Views.csproj|solutionrelative:6. views\\views\\home\\pesonandproductdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C879D94E-AE59-4387-80C9-6024C5016CA9}|6. Views\\6. Views.csproj|d:\\dot net core\\asp.net_core_-udemy-\\6. views\\6. views\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C879D94E-AE59-4387-80C9-6024C5016CA9}|6. Views\\6. Views.csproj|solutionrelative:6. views\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C879D94E-AE59-4387-80C9-6024C5016CA9}|6. Views\\6. Views.csproj|d:\\dot net core\\asp.net_core_-udemy-\\6. views\\6. views\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C879D94E-AE59-4387-80C9-6024C5016CA9}|6. Views\\6. Views.csproj|solutionrelative:6. views\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C879D94E-AE59-4387-80C9-6024C5016CA9}|6. Views\\6. Views.csproj|d:\\dot net core\\asp.net_core_-udemy-\\6. views\\6. views\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C879D94E-AE59-4387-80C9-6024C5016CA9}|6. Views\\6. Views.csproj|solutionrelative:6. views\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C879D94E-AE59-4387-80C9-6024C5016CA9}|6. Views\\6. Views.csproj|d:\\dot net core\\asp.net_core_-udemy-\\6. views\\6. views\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C879D94E-AE59-4387-80C9-6024C5016CA9}|6. Views\\6. Views.csproj|solutionrelative:6. views\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C879D94E-AE59-4387-80C9-6024C5016CA9}|6. Views\\6. Views.csproj|d:\\dot net core\\asp.net_core_-udemy-\\6. views\\6. views\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C879D94E-AE59-4387-80C9-6024C5016CA9}|6. Views\\6. Views.csproj|solutionrelative:6. views\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C879D94E-AE59-4387-80C9-6024C5016CA9}|6. Views\\6. Views.csproj|d:\\dot net core\\asp.net_core_-udemy-\\6. views\\6. views\\models\\personandproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C879D94E-AE59-4387-80C9-6024C5016CA9}|6. Views\\6. Views.csproj|solutionrelative:6. views\\models\\personandproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 218,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\6. Views\\appsettings.json",
+              "RelativeDocumentMoniker": "6. Views\\appsettings.json",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\6. Views\\appsettings.json",
+              "RelativeToolTip": "6. Views\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-25T17:00:05.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PesonAndProductDetails.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\6. Views\\Views\\Home\\PesonAndProductDetails.cshtml",
+              "RelativeDocumentMoniker": "6. Views\\Views\\Home\\PesonAndProductDetails.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\6. Views\\Views\\Home\\PesonAndProductDetails.cshtml",
+              "RelativeToolTip": "6. Views\\Views\\Home\\PesonAndProductDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T16:36:41.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonAndProductModel.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\6. Views\\Models\\PersonAndProductModel.cs",
+              "RelativeDocumentMoniker": "6. Views\\Models\\PersonAndProductModel.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\6. Views\\Models\\PersonAndProductModel.cs",
+              "RelativeToolTip": "6. Views\\Models\\PersonAndProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T16:36:41.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\6. Views\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "6. Views\\Models\\Product.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\6. Views\\Models\\Product.cs",
+              "RelativeToolTip": "6. Views\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T16:36:41.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\6. Views\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "6. Views\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\6. Views\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "6. Views\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T16:36:41.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\6. Views\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "6. Views\\Models\\Person.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\6. Views\\Models\\Person.cs",
+              "RelativeToolTip": "6. Views\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T16:36:41.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\6. Views\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "6. Views\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\6. Views\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "6. Views\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAACEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T16:36:41.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\6. Views\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "6. Views\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\6. Views\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "6. Views\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T16:36:41.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\6. Views\\Program.cs",
+              "RelativeDocumentMoniker": "6. Views\\Program.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\6. Views\\6. Views\\Program.cs",
+              "RelativeToolTip": "6. Views\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T16:36:41.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

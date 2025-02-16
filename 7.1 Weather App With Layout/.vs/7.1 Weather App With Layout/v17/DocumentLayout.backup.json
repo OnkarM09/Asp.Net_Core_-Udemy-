@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7.1 Weather App With Layout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E740D-C3D6-443B-95E6-74DEC445AA68}|7.1 Weather App With Layout\\7.1 Weather App With Layout.csproj|d:\\dot net core\\asp.net_core_-udemy-\\7.1 weather app with layout\\7.1 weather app with layout\\models\\cityweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7E740D-C3D6-443B-95E6-74DEC445AA68}|7.1 Weather App With Layout\\7.1 Weather App With Layout.csproj|solutionrelative:7.1 weather app with layout\\models\\cityweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E740D-C3D6-443B-95E6-74DEC445AA68}|7.1 Weather App With Layout\\7.1 Weather App With Layout.csproj|d:\\dot net core\\asp.net_core_-udemy-\\7.1 weather app with layout\\7.1 weather app with layout\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7E740D-C3D6-443B-95E6-74DEC445AA68}|7.1 Weather App With Layout\\7.1 Weather App With Layout.csproj|solutionrelative:7.1 weather app with layout\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E740D-C3D6-443B-95E6-74DEC445AA68}|7.1 Weather App With Layout\\7.1 Weather App With Layout.csproj|d:\\dot net core\\asp.net_core_-udemy-\\7.1 weather app with layout\\7.1 weather app with layout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE7E740D-C3D6-443B-95E6-74DEC445AA68}|7.1 Weather App With Layout\\7.1 Weather App With Layout.csproj|solutionrelative:7.1 weather app with layout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E740D-C3D6-443B-95E6-74DEC445AA68}|7.1 Weather App With Layout\\7.1 Weather App With Layout.csproj|d:\\dot net core\\asp.net_core_-udemy-\\7.1 weather app with layout\\7.1 weather app with layout\\views\\home\\citydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE7E740D-C3D6-443B-95E6-74DEC445AA68}|7.1 Weather App With Layout\\7.1 Weather App With Layout.csproj|solutionrelative:7.1 weather app with layout\\views\\home\\citydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 218,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CityDetails.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7.1 Weather App With Layout\\7.1 Weather App With Layout\\Views\\Home\\CityDetails.cshtml",
+              "RelativeDocumentMoniker": "7.1 Weather App With Layout\\Views\\Home\\CityDetails.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7.1 Weather App With Layout\\7.1 Weather App With Layout\\Views\\Home\\CityDetails.cshtml",
+              "RelativeToolTip": "7.1 Weather App With Layout\\Views\\Home\\CityDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T14:25:27.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7.1 Weather App With Layout\\7.1 Weather App With Layout\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "7.1 Weather App With Layout\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7.1 Weather App With Layout\\7.1 Weather App With Layout\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "7.1 Weather App With Layout\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T14:25:27.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7.1 Weather App With Layout\\7.1 Weather App With Layout\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "7.1 Weather App With Layout\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7.1 Weather App With Layout\\7.1 Weather App With Layout\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "7.1 Weather App With Layout\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T14:25:27.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CityWeather.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7.1 Weather App With Layout\\7.1 Weather App With Layout\\Models\\CityWeather.cs",
+              "RelativeDocumentMoniker": "7.1 Weather App With Layout\\Models\\CityWeather.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\7.1 Weather App With Layout\\7.1 Weather App With Layout\\Models\\CityWeather.cs",
+              "RelativeToolTip": "7.1 Weather App With Layout\\Models\\CityWeather.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T14:25:27.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

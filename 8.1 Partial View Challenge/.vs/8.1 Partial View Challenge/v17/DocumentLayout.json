@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8.1 Partial View Challenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D72D21D-C00E-4219-BCF1-CAC07ABD8709}|8.1 Partial View Challenge\\8.1 Partial View Challenge.csproj|d:\\dot net core\\asp.net_core_-udemy-\\8.1 partial view challenge\\8.1 partial view challenge\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D72D21D-C00E-4219-BCF1-CAC07ABD8709}|8.1 Partial View Challenge\\8.1 Partial View Challenge.csproj|solutionrelative:8.1 partial view challenge\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D72D21D-C00E-4219-BCF1-CAC07ABD8709}|8.1 Partial View Challenge\\8.1 Partial View Challenge.csproj|d:\\dot net core\\asp.net_core_-udemy-\\8.1 partial view challenge\\8.1 partial view challenge\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D72D21D-C00E-4219-BCF1-CAC07ABD8709}|8.1 Partial View Challenge\\8.1 Partial View Challenge.csproj|solutionrelative:8.1 partial view challenge\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D72D21D-C00E-4219-BCF1-CAC07ABD8709}|8.1 Partial View Challenge\\8.1 Partial View Challenge.csproj|d:\\dot net core\\asp.net_core_-udemy-\\8.1 partial view challenge\\8.1 partial view challenge\\models\\cityweathermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D72D21D-C00E-4219-BCF1-CAC07ABD8709}|8.1 Partial View Challenge\\8.1 Partial View Challenge.csproj|solutionrelative:8.1 partial view challenge\\models\\cityweathermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D72D21D-C00E-4219-BCF1-CAC07ABD8709}|8.1 Partial View Challenge\\8.1 Partial View Challenge.csproj|d:\\dot net core\\asp.net_core_-udemy-\\8.1 partial view challenge\\8.1 partial view challenge\\views\\shared\\_cityweathercardpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D72D21D-C00E-4219-BCF1-CAC07ABD8709}|8.1 Partial View Challenge\\8.1 Partial View Challenge.csproj|solutionrelative:8.1 partial view challenge\\views\\shared\\_cityweathercardpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D72D21D-C00E-4219-BCF1-CAC07ABD8709}|8.1 Partial View Challenge\\8.1 Partial View Challenge.csproj|d:\\dot net core\\asp.net_core_-udemy-\\8.1 partial view challenge\\8.1 partial view challenge\\views\\weather\\cityweatherdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D72D21D-C00E-4219-BCF1-CAC07ABD8709}|8.1 Partial View Challenge\\8.1 Partial View Challenge.csproj|solutionrelative:8.1 partial view challenge\\views\\weather\\cityweatherdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D72D21D-C00E-4219-BCF1-CAC07ABD8709}|8.1 Partial View Challenge\\8.1 Partial View Challenge.csproj|d:\\dot net core\\asp.net_core_-udemy-\\8.1 partial view challenge\\8.1 partial view challenge\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D72D21D-C00E-4219-BCF1-CAC07ABD8709}|8.1 Partial View Challenge\\8.1 Partial View Challenge.csproj|solutionrelative:8.1 partial view challenge\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D72D21D-C00E-4219-BCF1-CAC07ABD8709}|8.1 Partial View Challenge\\8.1 Partial View Challenge.csproj|d:\\dot net core\\asp.net_core_-udemy-\\8.1 partial view challenge\\8.1 partial view challenge\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D72D21D-C00E-4219-BCF1-CAC07ABD8709}|8.1 Partial View Challenge\\8.1 Partial View Challenge.csproj|solutionrelative:8.1 partial view challenge\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 218,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "8.1 Partial View Challenge\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "8.1 Partial View Challenge\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T04:51:37.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "8.1 Partial View Challenge\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "8.1 Partial View Challenge\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T04:51:37.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CityWeatherDetails.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\Views\\Weather\\CityWeatherDetails.cshtml",
+              "RelativeDocumentMoniker": "8.1 Partial View Challenge\\Views\\Weather\\CityWeatherDetails.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\Views\\Weather\\CityWeatherDetails.cshtml",
+              "RelativeToolTip": "8.1 Partial View Challenge\\Views\\Weather\\CityWeatherDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T04:51:37.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_CityWeatherCardPartial.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\Views\\Shared\\_CityWeatherCardPartial.cshtml",
+              "RelativeDocumentMoniker": "8.1 Partial View Challenge\\Views\\Shared\\_CityWeatherCardPartial.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\Views\\Shared\\_CityWeatherCardPartial.cshtml",
+              "RelativeToolTip": "8.1 Partial View Challenge\\Views\\Shared\\_CityWeatherCardPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T04:51:37.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CityWeatherModel.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\Models\\CityWeatherModel.cs",
+              "RelativeDocumentMoniker": "8.1 Partial View Challenge\\Models\\CityWeatherModel.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\Models\\CityWeatherModel.cs",
+              "RelativeToolTip": "8.1 Partial View Challenge\\Models\\CityWeatherModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T04:51:37.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\Views\\Weather\\Index.cshtml",
+              "RelativeDocumentMoniker": "8.1 Partial View Challenge\\Views\\Weather\\Index.cshtml",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\Views\\Weather\\Index.cshtml",
+              "RelativeToolTip": "8.1 Partial View Challenge\\Views\\Weather\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T04:51:37.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "8.1 Partial View Challenge\\Controllers\\WeatherController.cs",
+              "ToolTip": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "8.1 Partial View Challenge\\Controllers\\WeatherController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T04:51:37.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

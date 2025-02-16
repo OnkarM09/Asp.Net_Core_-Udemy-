@@ -1,8 +1,12 @@
 {
   "Files": [
     {
-      "Id": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "Id": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
       "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.15. EntityFramerworkCore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.15. EntityFramerworkCore.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "lfUUgDN7p6sfirRBTFmivs8+cTjSG3i/+/CZnRD8ZU4=",
+  "Hash": "+AP1xHL5Xyw2P6nYKUKBJVck26XeG0Z4O8ZO0Plf5qY=",
   "Source": "7.1 Weather App With Layout",
   "BasePath": "_content/7.1 Weather App With Layout",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

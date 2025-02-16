@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "6M//aJ7IvE7JO7oWcxr5DMxW0G+tbLWf+9sDn+YOgdk=",
+  "Hash": "XgQbGuRtNBP78IAIN+oL228g1Ra/NgOEfkY3sxjY3nA=",
   "Source": "Emptry Project",
   "BasePath": "_content/Emptry Project",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

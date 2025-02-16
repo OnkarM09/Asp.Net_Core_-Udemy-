@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Qc42KRo+htYwFy2kgcbrs6WNtAwlZmc+vUKPf56L5v0=",
+  "Hash": "pVcmdR/6q02HE89vNX/9SScE2r5diJRW+eiSJHrCvb4=",
   "Source": "12. 1 HTTP client (StockApp)",
   "BasePath": "_content/12. 1 HTTP client (StockApp)",
   "Mode": "Default",
@@ -10,10 +10,11 @@
     {
       "Name": "12. 1 HTTP client (StockApp)\\wwwroot",
       "Source": "12. 1 HTTP client (StockApp)",
-      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp)\\wwwroot\\",
+      "ContentRoot": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\12. 1 HTTP client (StockApp)\\12. 1 HTTP client (StockApp)\\wwwroot\\",
       "BasePath": "_content/12. 1 HTTP client (StockApp)",
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

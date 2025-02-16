@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RfwvzZggAfEOQc0IoqHEwT0tKAHLNfDocOYIcuwPQDA=",
+  "Hash": "eZzxdVyB4fR75PH5kYfWgGWXaYj1qik5QRlEJGEO48I=",
   "Source": "15. EntityFramerworkCore",
   "BasePath": "_content/15. EntityFramerworkCore",
   "Mode": "Default",
@@ -10,28 +10,116 @@
     {
       "Name": "15. EntityFramerworkCore\\wwwroot",
       "Source": "15. EntityFramerworkCore",
-      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\wwwroot\\",
+      "ContentRoot": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\wwwroot\\",
       "BasePath": "_content/15. EntityFramerworkCore",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "Identity": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
       "SourceId": "15. EntityFramerworkCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\wwwroot\\",
+      "ContentRoot": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\wwwroot\\",
       "BasePath": "_content/15. EntityFramerworkCore",
-      "RelativePath": "Rotativa/wkhtmltopdf.exe",
+      "RelativePath": "Rotativa/wkhtmltopdf#[.{fingerprint}]?.exe",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "cuquy3615b",
+      "Integrity": "ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Rotativa\\wkhtmltopdf.exe"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Rotativa/wkhtmltopdf.cuquy3615b.exe",
+      "AssetFile": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41563648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 May 2024 08:34:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cuquy3615b"
+        },
+        {
+          "Name": "label",
+          "Value": "Rotativa/wkhtmltopdf.exe"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag="
+        }
+      ]
+    },
+    {
+      "Route": "Rotativa/wkhtmltopdf.exe",
+      "AssetFile": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\15. EntityFramerworkCore\\15. EntityFramerworkCore\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41563648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 May 2024 08:34:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag="
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HRxmLOFKyJPCYhC3uG8k2C2R999K5aAzSn9b8dqDE6Y=",
+  "Hash": "reJFS9gE5CsTKua5cMMQt/yHRWY/ANQeBdU9Y2pAtZ0=",
   "Source": "8.1 Partial View Challenge",
   "BasePath": "_content/8.1 Partial View Challenge",
   "Mode": "Default",
@@ -10,10 +10,11 @@
     {
       "Name": "8.1 Partial View Challenge\\wwwroot",
       "Source": "8.1 Partial View Challenge",
-      "ContentRoot": "C:\\Onkar\\Onkar\\Dot net core\\Udemy Dot net core\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\wwwroot\\",
+      "ContentRoot": "D:\\Dot net core\\Asp.Net_Core_-Udemy-\\8.1 Partial View Challenge\\8.1 Partial View Challenge\\wwwroot\\",
       "BasePath": "_content/8.1 Partial View Challenge",
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

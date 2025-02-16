@@ -26,3 +26,36 @@ C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers
 C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\14. Tag Helpers.genruntimeconfig.cache
 C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\ref\14. Tag Helpers.dll
 C:\Onkar\Onkar\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\bin\Debug\net6.0\14. Tag Helpers.staticwebassets.runtime.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\bin\Debug\net6.0\appsettings.Development.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\bin\Debug\net6.0\appsettings.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\bin\Debug\net6.0\14. Tag Helpers.staticwebassets.runtime.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\bin\Debug\net6.0\14. Tag Helpers.staticwebassets.endpoints.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\bin\Debug\net6.0\14. Tag Helpers.exe
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\bin\Debug\net6.0\14. Tag Helpers.deps.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\bin\Debug\net6.0\14. Tag Helpers.runtimeconfig.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\bin\Debug\net6.0\14. Tag Helpers.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\bin\Debug\net6.0\14. Tag Helpers.pdb
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\14. Tag Helpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\14. Tag Helpers.AssemblyInfoInputs.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\14. Tag Helpers.AssemblyInfo.cs
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\14. Tag Helpers.csproj.CoreCompileInputs.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\14. Tag Helpers.MvcApplicationPartsAssemblyInfo.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\14. Tag Helpers.RazorAssemblyInfo.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\14. Tag Helpers.RazorAssemblyInfo.cs
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\14. Tag Helpers.sourcelink.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\scopedcss\bundle\14. Tag Helpers.styles.css
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\staticwebassets\msbuild.14. Tag Helpers.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\staticwebassets\msbuild.14. Tag Helpers.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\staticwebassets\msbuild.build.14. Tag Helpers.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.14. Tag Helpers.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.14. Tag Helpers.props
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\14. Tag Helpers.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\refint\14. Tag Helpers.dll
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\14. Tag Helpers.pdb
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\14. Tag Helpers.genruntimeconfig.cache
+D:\Dot net core\Asp.Net_Core_-Udemy-\14. Tag Helpers\14. Tag Helpers\obj\Debug\net6.0\ref\14. Tag Helpers.dll
